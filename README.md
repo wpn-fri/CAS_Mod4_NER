@@ -17,5 +17,8 @@ This project uses the **LitBank** dataset:
 - ~100 novels with NER annotations (~200'000 tokens)
 - Download: [LitBank GitHub](https://github.com/dbamman/litbank)
 
-Possible extension (tbd): French LitBank 
+Possible extension (tbd): 
+- French LitBank 
+- Small set of manually annotated German sentences (to test cross-lingual performance without specific fine-tuning in that language)
+
 

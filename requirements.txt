@@ -8,6 +8,7 @@ tokenizers>=0.13.0
 
 # PyTorch (CPU version - for GPU, see installation notes below)
 torch>=2.0.0
+accelerate>=0.26.0
 # For GPU support on Windows, use: pip install torch --index-url https://download.pytorch.org/whl/cu118
 
 # NER evaluation metrics
