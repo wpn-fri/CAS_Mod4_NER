@@ -38,28 +38,4 @@ Both datasets use a unified label schema with 7 entity types:
 
 Note: The TIME entity type appears only in the French dataset but is included in the unified label mapping to enable potential cross-lingual transfer.
 
-## Setup and Processing
-
-### Processing French Data
-
-If you need to reprocess the French dataset:
-
-```bash
-python process_french_data.py
-```
-
-This script:
-- Loads French LitBank from CSV format
-- Splits into train/dev/test (80/10/10)
-- Converts to JSON format matching English data
-- Creates unified label mapping
-
-### Updating Label Mappings
-
-To ensure both datasets use the same label IDs:
-
-```bash
-python update_english_labels.py
-```
-
 
