@@ -12,7 +12,7 @@ This project fine-tunes a multilingual transformer model (XLM-RoBERTa) on Englis
 
 ## Datasets
 
-This project uses multilingual **LitBank** datasets:
+This project two separate **LitBank** datasets:
 
 ### English LitBank
 - Literary fiction from Project Gutenberg
@@ -21,8 +21,9 @@ This project uses multilingual **LitBank** datasets:
 
 ### French LitBank
 - French literary texts with NER annotations
-- 18 documents (~235,000 tokens)
+- 17 novels with NER annotations (~235,000 tokens)
 - Converted from BRAT format to BIO tagging
+- Source: [fr-litbank](https://github.com/lattice-8094/fr-litbank/tree/main)
 
 ## Entity Types
 
@@ -34,7 +35,7 @@ Both datasets use a unified label schema with 7 entity types:
 - **ORG**: Organization (companies, institutions)
 - **FAC**: Facility (buildings, structures)
 - **VEH**: Vehicle (ships, cars)
-- **TIME**: Time expressions (French only, but included in unified schema)
+- **TIME**: Temporal and historical references (morning, Christmas day)
 
 Note: The TIME entity type appears only in the French dataset but is included in the unified label mapping to enable potential cross-lingual transfer.
 
