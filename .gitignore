@@ -5,9 +5,6 @@ data/processed/**
 # Trained models (can be large)
 models/**
 
-# Results and outputs
-results/**
-
 # Python cache
 __pycache__/
 *.py[cod]
