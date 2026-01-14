@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project fine-tunes a multilingual transformer model (XLM-RoBERTa) on English and French LitBank datasets for Named Entity Recognition, enabling multilingual training and cross-lingual transfer evaluation.
+This project fine-tunes a multilingual transformer model (mDeBERTa) on English and French LitBank datasets for Named Entity Recognition, enabling multilingual training and cross-lingual transfer evaluation.
 
 ## Notebooks
 
