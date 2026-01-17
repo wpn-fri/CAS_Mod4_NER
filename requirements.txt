@@ -33,8 +33,8 @@ jupyter>=1.0.0
 ipywidgets>=8.0.0
 
 # Optional but recommended
-# accelerate>=0.20.0  # For faster training
-# sentencepiece>=0.1.99  # For some tokenizers
+sentencepiece>=0.1.99  # For some tokenizers
+protobuf==3.20.0
 
 # Installation notes:
 # -------------------
