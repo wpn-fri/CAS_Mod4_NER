@@ -1,0 +1,374 @@
+example_idx,entity,pred_type,length,context
+4,Bionda,PER,1,"Bionda , d '"
+6,nemici,PER,1,"avesse avuto dei nemici , questi ,"
+9,loro critica,PER,2,avrebbero offerto alla loro critica il carattere ed
+31,cameretta di donna,FAC,3,La cameretta di donna Marina Negroni era
+31,terzo piano del,FAC,3,Negroni era al terzo piano del palazzo d '
+31,palazzo d ' Accorsi,FAC,4,terzo piano del palazzo d ' Accorsi .
+35,due piani,FAC,2,"' altezza di due piani , una stretta"
+35,stretta scala di servizio,FAC,4,"piani , una stretta scala di servizio e giunse sul"
+35,pianerottolo,FAC,1,e giunse sul pianerottolo di un grande
+41,appartamento di gala della,FAC,4,", l ' appartamento di gala della Duchessa d '"
+43,pendolina,PER,1,sguardo su una pendolina in Vieux Sèvres
+44,"specie di salotto - serra , piena d ' azalee in fiore",FAC,12,"riescì in una specie di salotto - serra , piena d ' azalee in fiore e di piante"
+45,porticina a vetri,FAC,3,"Giunta ad una porticina a vetri , quasi celata"
+52,"donna sui quarantacinque , forse più",PER,6,"Una donna sui quarantacinque , forse più . Non bella"
+58,scrittoio della Duchessa,PER,3,di fianco allo scrittoio della Duchessa e sostenne senza
+63,altri,PER,1,sia quello degli altri .
+84,poscia Ginevra,PER,2,attenta — disse poscia Ginevra — tu diventi
+104,Guida,PER,1,' occhiata alla Guida e che non
+120,mondo,LOC,1,Il mondo diceva della Duchessa
+120,mondo,LOC,1,perciò forse il mondo ristava dall '
+125,protagonista del mio racconto,PER,4,"domanderete . Il protagonista del mio racconto , il chiarissimo"
+125,"chiarissimo Tizio Caio Sempronio , cittadino romano , dell '",PER,10,"racconto , il chiarissimo Tizio Caio Sempronio , cittadino romano , dell ' ordine dei cavalieri"
+128,questi tre ordini,PER,3,"io dica essere questi tre ordini , il patrizio"
+130,consoli,PER,1,", sotto i consoli Servio Sulpicio Rufo"
+130,Servio Sulpicio Rufo,PER,3,sotto i consoli Servio Sulpicio Rufo e Marco Claudio
+130,Marco Claudio Marcello,PER,3,"Sulpicio Rufo e Marco Claudio Marcello , egregie persone"
+130,egregie persone,PER,2,"Claudio Marcello , egregie persone , di cui"
+140,Sabino d ' origine,PER,4,"cavaliere potea vantarsi Sabino d ' origine , non lo"
+143,"giovani promettenti , come",PER,4,"vaglia , o giovani promettenti , come Cesare e Catilina"
+144,uno dei loro,PER,3,Sempronio non era uno dei loro in certi disegni
+145,portici,FAC,1,", sotto i portici , al teatro"
+146,istituzioni,ORG,1,di rimutare le istituzioni .
+152,abitazione di Tizio,FAC,3,fantasia l ' abitazione di Tizio Caio Sempronio .
+153,edificio,FAC,1,Figuratevi un edificio diviso in due
+153,atrium,FAC,1,": l ' atrium , o cavaedium"
+153,cavaedium,FAC,1,"atrium , o cavaedium , coi suoi"
+153,stanza intermedia,FAC,2,"riuniti da una stanza intermedia , il tablinum"
+153,tablinum,FAC,1,"intermedia , il tablinum , e da"
+153,due corridoi ( fauces ),FAC,5,", e da due corridoi ( fauces ) che gli stavano"
+155,complesso,FAC,1,"che avete il complesso , il nocciolo"
+155,prothyrum,FAC,1,", entriamo pel prothyrum , o vestibolo"
+155,vestibolo,FAC,1,"prothyrum , o vestibolo , androne di"
+156,"spazio chiuso , rettangolare",FAC,4,". È uno spazio chiuso , rettangolare , i cui"
+156,tettoia,FAC,1,"coperti da una tettoia , la quale"
+156,bacino,LOC,1,nel pavimento un bacino ( impluvium )
+157,tettoia,FAC,1,La tettoia è sorretta da
+160,"atrio toscano ,",FAC,3,"era l ' atrio toscano , il più semplice"
+161,tettoia,FAC,1,A reggere la tettoia che correva lungo
+162,atrio,FAC,1,forma d ' atrio parve ben presto
+162,atrio,FAC,1,"inventò l ' atrio tetràstilo , ossia"
+165,atrio,FAC,1,; nell ' atrio sfolgoreggia la luce
+165,domum,FAC,1,"lanam fecit , domum servavit ) ,"
+167,logge,FAC,1,"le pareti delle logge laterali , tra"
+168,tablino,FAC,1,", è il tablino , archivio ad"
+168,archivio ad un tempo,FAC,4,"il tablino , archivio ad un tempo e sala di"
+168,sala di ricevimento,FAC,3,un tempo e sala di ricevimento .
+169,archivi della famiglia,FAC,3,"tabulae , gli archivi della famiglia ; ma servì"
+170,seconda divisione,FAC,2,che è la seconda divisione della casa .
+171,persona che entri dal,PER,4,"magnificenza ! Una persona che entri dal vestibolo , può"
+174,tabernacolo degli dei Lari,FAC,4,' è il tabernacolo degli dei Lari .
+175,spiriti guardiani,PER,2,"Erano questi gli spiriti guardiani , le anime"
+175,protettori,PER,1,"facevano ufficio di protettori , nell '"
+176,"giovinetti succinti , inghirlandati di alloro",PER,6,"costantemente rappresentati come giovinetti succinti , inghirlandati di alloro , e in"
+178,tabernacolo,FAC,1,davanti a un tabernacolo in cui si
+178,dei Penati,PER,2,"si adoravano gli dei Penati , o patroni"
+178,patroni della famiglia,PER,3,"Penati , o patroni della famiglia , che potevano"
+178,altro qualsivoglia degli abitatori dell ' Olimpo,PER,7,"Nettuno , od altro qualsivoglia degli abitatori dell ' Olimpo ."
+180,colonnato,FAC,1,"casa ; un colonnato , come nell"
+180,quattro corridoi,FAC,2,atrio corinzio ; quattro corridoi all ' intorno
+180,camere per uso della famiglia,FAC,5,i corridoi le camere per uso della famiglia .
+181,cucina,FAC,1,"piante utili alla cucina , se è"
+182,Dei alle calende di Marzo,PER,5,"suo conto gli Dei alle calende di Marzo , quando tutta"
+186,servi e,PER,2,"ove dormono i servi e i ragazzi ,"
+186,ragazzi,PER,1,"servi e i ragazzi , come nelle"
+186,camere a tetto di tante case signorili del tempo nostro,FAC,10,", come nelle camere a tetto di tante case signorili del tempo nostro ."
+187,casa del mio amico Tizio Caio,FAC,6,In casa del mio amico Tizio Caio Sempronio si dorme
+188,ricchi,PER,1,"pranzo è pei ricchi , e la"
+188,lavoratori,PER,1,"la merenda pei lavoratori , forse perchè"
+195,Iddio,PER,1,", sia lodato Iddio , il greco"
+201,tutte,PER,1,"giorno , e tutte avevano l '"
+207,tranvai del,FAC,2,"la mattina sul tranvai del corso Vinzaglio ,"
+207,via Roma,LOC,2,"Vinzaglio , in via Roma ."
+208,piattaforme,FAC,1,"dentro e sulle piattaforme , all '"
+210,monella,PER,1,"mal lavato di monella , vestita poveramente"
+210,bottega di profumiere,FAC,3,come da una bottega di profumiere .
+212,quella contadina e,PER,3,continua con cui quella contadina e quella ragazza esaminavano
+212,creature piovute da un,PER,4,avessero avuto davanti creature piovute da un altro mondo .
+212,altro mondo,LOC,2,piovute da un altro mondo .
+214,processione,PER,1,sfilò davanti una processione di personaggi che
+214,personaggi,PER,1,una processione di personaggi che conoscevo soltanto
+214,famiglia a parte di,PER,4,me come una famiglia a parte di compagni abituali di
+214,compagni abituali di viaggio,PER,4,a parte di compagni abituali di viaggio ; e mi
+215,studio,FAC,1,. . uno studio . . .
+218,Questa,PER,1,"una ragazza . Questa , che doveva"
+218,borgo San Donato,FAC,3,"doveva abitare nel borgo San Donato , la trovavo"
+221,"tutti e due piccoli , male in carne , di poca salute",PER,12,"Eran tutti e due piccoli , male in carne , di poca salute , pareva ,"
+221,quei poveretti,PER,2,puliti ; di quei poveretti la cui gioventù
+222,fanciullezza perseguitata,PER,2,pensare a una fanciullezza perseguitata ed esprimeva una
+222,orfana,PER,1,", che era orfana da bambina e"
+222,bambina,PER,1,era orfana da bambina e vissuta molti
+223,vecchietta,PER,1,una bazza di vecchietta : la natura
+223,mondo,LOC,1,ella avesse al mondo per ottener qualche
+223,suoi simili,PER,2,qualche volta dai suoi simili uno sguardo di
+224,maestra in un asilo,PER,4,"avvenire ; essa maestra in un asilo , governante o"
+224,governante,PER,1,"un asilo , governante o cucitrice in"
+224,cucitrice in qualche istituto,PER,4,", governante o cucitrice in qualche istituto ."
+230,quei due poveri,PER,3,' amore di quei due poveri esseri così maltrattati
+230,uno,PER,1,pietà l ' uno dell ' altro
+230,altro,PER,1,uno dell ' altro .
+231,mondo,LOC,1,vorrà bene al mondo se non son
+233,bambino,PER,1,"un amore di bambino , un fiore"
+233,altre creature somiglianti,PER,3,"e dopo questa altre creature somiglianti , una nidiata"
+233,nidiata d ' angioli,PER,4,"somiglianti , una nidiata d ' angioli , d '"
+233,artisti ammirati a quindici anni e famosi a venti,PER,9,"precoci , di artisti ammirati a quindici anni e famosi a venti , la gloria"
+239,gruppo di baracche variopinte di saltimbanchi perdute in mezzo,FAC,9,d ' un gruppo di baracche variopinte di saltimbanchi perdute in mezzo a una steppa
+239,steppa,LOC,1,"mezzo a una steppa , mi destò"
+239,una,FAC,1,di ficcarmi in una e poi in
+239,vagabondo in cerca d ' avventure,PER,6,", come un vagabondo in cerca d ' avventure ."
+240,gente così in confuso,PER,4,case e la gente così in confuso da non raccapezzare
+240,altre grandi macchio,VEH,3,piazze candide dove altre grandi macchio oscure di carrozzoni
+240,fanciullezza,PER,1,che dà alla fanciullezza l ' inverno
+241,carrozzoni aspettanti,VEH,2,"le file dei carrozzoni aspettanti , pieni di"
+242,studio,FAC,1,"Sì , uno studio . . ."
+245,toreador,PER,1,"della Carmen : toreador attento , che"
+247,casa,FAC,1,lui ritornavo a casa con un appetito
+250,ghiottonerie,PER,1,i nomi delle ghiottonerie che vedeva di
+250,Mor,PER,1,aria : — Mor - ta -
+253,"vecchi ,",PER,2,"e a salire vecchi , bambini , donne"
+253,bambini,PER,1,"salire vecchi , bambini , donne ,"
+253,donne,PER,1,", bambini , donne , malati ,"
+253,malati,PER,1,", donne , malati , di qualunque"
+254,ortolano,PER,1,"quidsimile d ' ortolano , con un"
+255,"quel passeggiere , contento",PER,4,"questo ora a quel passeggiere , contento , come se"
+256,orto del diavolo,FAC,3,Roba dell ' orto del diavolo !
+265,Grand Hôtelera,FAC,2,Il Grand Hôtelera quello .
+268,torre degli Embriaci,FAC,3,"tutte splendeva la torre degli Embriaci , la regina"
+268,sue caditoie sporgenti,FAC,3,triplice giro delle sue caditoie sporgenti .
+270,fundus Sergianus,LOC,2,di Sarzano ( fundus Sergianus ) e suoi
+270,suoi dintorni,LOC,2,"Sergianus ) e suoi dintorni , formando un"
+270,Sant ' Andrea,LOC,3,"alla porta di Sant ' Andrea , una delle"
+272,derrata,FAC,1,"una giunta alla derrata , prolungando le"
+272,tutte le altre,FAC,3,"Comune , e tutte le altre verso il mare"
+272,San Pietro della,GPE,3,"luogo dicevasi appunto San Pietro della Porta ) ,"
+273,strade,FAC,1,"; e le strade non vedevano ,"
+273,tante altre,FAC,2,"cielo , mentre tante altre non ne vedevano"
+274,colline circostanti,LOC,2,la sommità delle colline circostanti e del mare
+276,vasto colmo di,LOC,3,"lato , il vasto colmo di Sarzano , che"
+277,monti,LOC,1,si affrontavano i monti e le colline
+277,colline digradanti,LOC,2,monti e le colline digradanti ad anfiteatro fino
+278,largo campo alle,FAC,3,"il mare un largo campo alle sparse ville ,"
+278,San Giovanni,PER,2,"i campanili di San Giovanni di Piè ,"
+279,"messer Guglielmo Embriaco , padrone di quella torre e delle",PER,10,"' invidia universale messer Guglielmo Embriaco , padrone di quella torre e delle case sottoposte ."
+279,case sottoposte,FAC,2,torre e delle case sottoposte .
+284,turchini,PER,1,"Ho detto pericolosamente turchini , e non"
+287,più leggiadra,PER,2,ella era la più leggiadra figura di donna
+288,"altra , poco più lunge , di San Pietro alla Porta",FAC,11,"o nell ' altra , poco più lunge , di San Pietro alla Porta ."
+289,monasteri del Sacro,ORG,3,forastiere e i monasteri del Sacro Cuore erano ancora
+291,navi,VEH,1,sogliono apparir le navi a guisa di
+292,armata in viaggio,PER,3,d ' una armata in viaggio .
+299,"vostro gran genitore , il valoroso messer Guglielmo",PER,8,"di portare il vostro gran genitore , il valoroso messer Guglielmo , Testa di"
+317,quella brutta,PER,2,andato a buscarsi quella brutta ceffata dal custode
+317,custode del Santo,PER,3,brutta ceffata dal custode del Santo Sepolcro .
+319,cugini,PER,1,poichè siamo tra cugini .
+321,quell ' altra,PER,3,Dovrebb ' essere quell ' altra là . —
+322,"vostro zio , il console Amico Brusco",PER,7,"con quella di vostro zio , il console Amico Brusco ."
+323,suo castello di poppa,FAC,4,"La riconosco al suo castello di poppa , più rilevato"
+325,Beate le famiglie,PER,3,Beate le famiglie che vedranno i
+332,messere,PER,1,"voi , a messere Guglielmo , vostro"
+332,"Guglielmo , vostro padre",PER,4,", a messere Guglielmo , vostro padre , a messer"
+332,messer,PER,1,"padre , a messer Ugo , vostro"
+332,"Ugo , vostro fratello",PER,4,", a messer Ugo , vostro fratello , e da"
+334,Nicolao,PER,1,sì ; messere Nicolao . Che farci
+340,MARSIGLIA,GPE,1,I . — MARSIGLIA — L '
+340,Madonna della guardia,PER,3,la vedetta della Madonna della guardia dette il segnale
+340,nave a tre alberi,VEH,4,il segnale della nave a tre alberi il Faraone che
+340,Faraone,PER,1,tre alberi il Faraone che veniva da
+341,porto,FAC,1,"partì tosto dal porto , e passando"
+342,piattaforma del forte San Giovanni,FAC,5,"uso , la piattaforma del forte San Giovanni si ricoprì di"
+342,curiosi,PER,1,si ricoprì di curiosi ; poichè è
+343,quella di,LOC,2,di Calasareigne e quella di Jaros ; ed
+343,Jaros,GPE,1,e quella di Jaros ; ed oltrepassato
+343,tre gabbie in relinga,FAC,4,"corpo sotto le tre gabbie in relinga , ma tanto"
+343,curiosi,PER,1,", che i curiosi , con quell"
+343,un,PER,1,", l ' un l ' altro"
+343,altro,PER,1,un l ' altro si domandavano quale
+345,stretta entrata del,FAC,3,il Faraone nella stretta entrata del porto di Marsiglia
+345,porto,LOC,1,"stretta entrata del porto di Marsiglia ,"
+345,giovinotto di rapido gestire,PER,4,", stava un giovinotto di rapido gestire , che con"
+346,uno degli accorsi alla,PER,4,aveva particolarmente turbato uno degli accorsi alla spianata di San
+346,porto,FAC,1,"del bastimento nel porto , saltò in"
+348,"giovine di vent ' anni circa , alto , snello , con occhi neri , e capelli color",PER,18,"Era costui un giovine di vent ' anni circa , alto , snello , con occhi neri , e capelli color dell ' ebano"
+354,sig . Morrel,PER,3,"buon porto , sig . Morrel , e sono"
+360,otto o dieci marinari che lo componevano,PER,7,medesimo momento gli otto o dieci marinari che lo componevano si slanciarono chi
+367,sig . Morrel,PER,3,"in buono stato sig . Morrel , ve ne"
+371,Ammaina,PER,1,"— Ammaina , e carica"
+372,sig . Morrel,PER,3,"volete salire , sig . Morrel , disse Dantès"
+372,vostro,PER,1,ecco qui il vostro scrivano Danglars che
+372,Danglars,PER,1,il vostro scrivano Danglars che esce dal
+373,altro,PER,1,"che l ' altro , ritornando al"
+374,computista,PER,1,"suo ufficio di computista , che è"
+375,sig . Morrel,PER,3,"— Ebbene ? sig . Morrel , disse Danglars"
+377,uomo incaricato degli affari di una,PER,6,conviene ad un uomo incaricato degli affari di una casa così importante
+378,vecchio marinaio,PER,2,uopo essere tanto vecchio marinaio quanto voi dite
+382,naviglio,VEH,1,"il comando del naviglio , disse l"
+391,sig . Morrel,PER,3,"— Sì , sig . Morrel , salva la"
+392,Diamine,PER,1,— Diamine ! perchè non
+394,sig,PER,1,"— Perdono , sig ."
+399,"gran maresciallo , Edmondo",PER,4,"dunque veduto il gran maresciallo , Edmondo ?"
+407,casa Morrel e,FAC,3,bastimento apparteneva alla casa Morrel e figlio .
+407,figlio,PER,1,casa Morrel e figlio .
+408,armatori di padre in figlio,PER,5,I Morrel sono armatori di padre in figlio ed ho conosciuto
+408,stesso,FAC,1,con me nello stesso reggimento quando era
+417,mio caro,PER,2,"— Eccellenti , mio caro Danglars . —"
+417,Danglars,PER,1,", mio caro Danglars . — Ah"
+426,sig . Morrel,PER,3,"— Allora , sig . Morrel , vi prego"
+434,mondo,LOC,1,' umbelico del mondo .
+438,Dei,PER,1,Rivaleggiarono con gli Dei immortali : crearono
+439,Questa piccola terra,LOC,3,Questa piccola terra fu l '
+444,mondo,LOC,1,"la faccia del mondo , e fecero"
+446,macchine,VEH,1,"uomo ; le macchine per correre ,"
+446,macchine,VEH,1,"correre , le macchine per cucire ,"
+446,macchine,VEH,1,"cucire , le macchine per volare ,"
+446,macchine,VEH,1,"volare , le macchine per votare ,"
+446,macchine,VEH,1,"votare , le macchine per ammazzare ,"
+448,cittadino nord - americano dei nostri tempi,PER,7,Un cittadino nord - americano dei nostri tempi potrebbe ben far
+450,vetta al Cervino,LOC,3,cedrone sino in vetta al Cervino .
+452,figlie,PER,1,"Esse , figlie della memoria e"
+453,signor grammatico,PER,2,"si dice , signor grammatico ?"
+454,signor accademico,PER,2,"questa parola , signor accademico ? ."
+455,"qualcuna , mùtila ed esule",PER,5,"statue di cui qualcuna , mùtila ed esule , sotto la"
+455,prigioniera,PER,1,ancora e come prigioniera rimane .
+460,ulivo,LOC,1,", l ' ulivo ."
+461,terre,LOC,1,"penetrava fra le terre , teneva in"
+461,Atene,GPE,1,": O , Atene , splendida ,"
+461,"splendida , gloriosa città",GPE,4,", Atene , splendida , gloriosa città , incoronata di"
+461,Grecia,GPE,1,", sostegno della Grecia , demoniaca ."
+465,così detti popoli grandi,PER,4,apparvero piccoli i così detti popoli grandi .
+468,quel magnifico,FAC,2,che ha creato quel magnifico parlamento di Dei
+469,parassiti,PER,1,": Via , parassiti ! — gridò"
+470,popolo che ebbe,PER,3,cuore : un popolo che ebbe la magnifica impertinenza
+470,barbare,PER,1,impertinenza di chiamare barbare tutte le altre
+470,popolo che adorò,PER,3,commedia : un popolo che adorò la sua minuscola
+470,sua minuscola città,GPE,3,"che adorò la sua minuscola città , la sua"
+470,sua polis,ORG,2,"città , la sua polis , ed ebbe"
+478,Tànatos,PER,1,"' aspetto di Tànatos , il melanconico"
+479,"popolo , così unico e savio",PER,6,"No , un popolo , così unico e savio , non era"
+479,una di quelle nazioni,GPE,4,nè a formare una di quelle nazioni che oggi diciamo
+479,grande nazione,GPE,2,oggi diciamo una grande nazione .
+481,Questa,LOC,1,Questa meravigliosa Ellade antica
+481,necropoli bianca,FAC,2,"occhi come una necropoli bianca , una città"
+481,città morta piena di statue bianche,GPE,6,"bianca , una città morta piena di statue bianche , dai marmorei"
+488,suoi discepoli,PER,2,"! Anzi i suoi discepoli , i bei"
+488,bei giovani splendenti di giovinezza,PER,5,"discepoli , i bei giovani splendenti di giovinezza , si rivolgevano"
+488,quella figura,PER,2,si rivolgevano verso quella figura con un sentimento
+489,"Santippe , la mala femmina , rossa di pelo , la tormentatrice dell ' eroe , la moglie di Socrate",PER,20,": essa era Santippe , la mala femmina , rossa di pelo , la tormentatrice dell ' eroe , la moglie di Socrate ."
+493,"Antigone , la santa della terra",PER,6,"di lussuria ed Antigone , la santa della terra , più bella"
+493,Ofelia,PER,1,più bella di Ofelia !
+496,necropoli dei morti ellenici,FAC,4,viaggiando per la necropoli dei morti ellenici .
+500,"progenitrice di tutte le mogli fastidiose , rossa Santippe",PER,9,"finalmente , o progenitrice di tutte le mogli fastidiose , rossa Santippe !"
+503,discepoli e,PER,2,I discepoli e gli amici del
+510,casa recante,FAC,2,"1872 , la casa recante il numero 7"
+510,Saville - row,FAC,3,"numero 7 di Saville - row , Burlington Garden"
+510,Burlington Garden,FAC,2,"- row , Burlington Garden , — casa"
+511,uno dei membri più singolari e più segnalati del,PER,9,", uno dei membri più singolari e più segnalati del Reform - Club"
+511,Reform - Club di Londra,ORG,5,"più segnalati del Reform - Club di Londra , quantunque sembrasse"
+512,uno dei più grandi oratori che onorano l ',PER,9,"Ad uno dei più grandi oratori che onorano l ' Inghilterra , succedeva"
+516,docks di Londra,FAC,3,bacini nè i docks di Londra avevano mai ricevuto
+516,nave avente,VEH,2,mai ricevuto una nave avente per armatore Phileas
+516,armatore,PER,1,nave avente per armatore Phileas Fogg .
+516,Phileas Fogg,PER,2,avente per armatore Phileas Fogg .
+518,Lincoln ',PER,2,", nè a Lincoln ' s inn ,"
+522,alcuna,PER,1,non apparteneva ad alcuna delle numerose società
+523,membro del,PER,2,Phileas Fogg era membro del Reform - Club
+524,gentleman tanto misterioso,PER,3,stupisse che un gentleman tanto misterioso si noverasse fra
+524,membri di,PER,2,noverasse fra i membri di questa onorevole associazione
+524,questa,ORG,1,"i membri di questa onorevole associazione ,"
+542,solo servo,PER,2,Un solo servo bastava a servirlo
+543,Reform,ORG,1,addobbate che il Reform - Club tiene
+551,Farenheit,GPE,1,ottanta quattro gradi Farenheit invece che ad
+558,nuovo venuto,PER,2,", rispose il nuovo venuto , Gianni Gambalesta"
+558,Gianni Gambalesta,PER,2,"nuovo venuto , Gianni Gambalesta , soprannome che"
+560,cavallerizzo in un,PER,3,"ambulante , poi cavallerizzo in un circo , ho"
+563,uomo più esatto e più sedentario del,PER,7,è l ' uomo più esatto e più sedentario del Regno - Unito
+568,signor Fogg,PER,2,", disse il signor Fogg . — Chiedo"
+575,fantocci non meno vivi del,PER,5,signora Tussaud dei fantocci non meno vivi del mio nuovo padrone
+576,"fantocci "" della",PER,3,""" I "" fantocci "" della signora Tussaud sono"
+576,signora Tussaud,PER,2,"fantocci "" della signora Tussaud sono figure di"
+576,figure,PER,1,"signora Tussaud sono figure di cera ,"
+580,tipo finito di,PER,3,", era il tipo finito di quegl ' Inglesi"
+581,essere ben equilibrato,PER,3,idea di un essere ben equilibrato in tutte le
+581,Leroy,PER,1,un cronometro di Leroy o Earnshaw .
+581,Earnshaw,PER,1,di Leroy o Earnshaw .
+584,via più corta,LOC,3,"Battendo sempre la via più corta , egli non"
+586,uomo meno frettoloso di,PER,4,"Era l ' uomo meno frettoloso di questo mondo ,"
+586,questo mondo,LOC,2,"meno frettoloso di questo mondo , ma giungeva"
+590,uno di quei Frontini o Mascarilli,PER,6,", non era uno di quei Frontini o Mascarilli che , colle"
+591,"bravo giovine , di fisonomia amabile",PER,6,"Gambalesta era un bravo giovine , di fisonomia amabile , dalle labbra"
+598,Quella sgarbataggine,PER,2,— Quella sgarbataggine . . .
+600,giovane con languore annoiato,PER,4,— mormorò il giovane con languore annoiato ; — già
+602,nonnulla,PER,1,"; — un nonnulla , in certi"
+609,tutt,LOC,1,", vive in tutt ' altro mondo"
+610,qualcuno,PER,1,c ' è qualcuno che li disconosce
+611,sorella,PER,1,deve aver per sorella quella monellaccia là
+611,quella monellaccia,PER,2,aver per sorella quella monellaccia là che non
+612,ramanzina della,PER,2,", che dalla ramanzina della signora Rita ."
+630,miope,PER,1,sa che sono miope ?
+640,molte medichesse come lei,PER,4,"Se ci saranno molte medichesse come lei , vedremo i"
+640,medici in liquidazione,PER,3,", vedremo i medici in liquidazione ."
+651,"ragazza , rude",PER,3,"— ribattè la ragazza , rude , andandosene ."
+657,morti,PER,1,i ritratti dei morti non dimenticati .
+662,case addormentate,FAC,2,chi veglia nelle case addormentate ; Clotilde non
+669,neofita,PER,1,cieca di una neofita ; a cui
+671,quel romitaggio splendido e austero,FAC,5,avrebbe trovata in quel romitaggio splendido e austero dove sono così
+671,eletti,PER,1,"così pochi gli eletti , così pochi"
+672,quasi tutti i giovani studenti di medicina,PER,7,' esca di quasi tutti i giovani studenti di medicina ; ed anche
+672,"quelli che hanno la vocazione vera , viva , sincera",PER,10,"; ed anche quelli che hanno la vocazione vera , viva , sincera , sfrondano così"
+674,eroine,PER,1,che fanno le eroine .
+676,bimba,PER,1,che lasciavano la bimba nervosa per tutta
+684,monaca pazza,PER,2,"da anni una monaca pazza , pazza per"
+685,curiosi,PER,1,"ogni genìa di curiosi , Aldo De"
+688,uno,PER,1,che l ' uno e l '
+688,altro,PER,1,e l ' altro dovevano essere stati
+718,tutti,PER,1,"resto , padronissimi tutti di restare accanto"
+722,Pushkine,PER,1,"non conosceva il Pushkine , ed egli"
+724,suo provveditore di libri,PER,4,a mano il suo provveditore di libri .
+733,tenero,FAC,1,che girava al tenero ; Aldo ci
+737,Mio Dio,PER,2,"un anno ? Mio Dio , sì ,"
+741,quel gentile chiacchiericcio,PER,3,"era avvezzo a quel gentile chiacchiericcio , e vedeva"
+741,signora Elena Vezzosi,PER,3,e vedeva nella signora Elena Vezzosi un ' amica
+741,amica,PER,1,Vezzosi un ' amica ; anzi meglio
+742,persone di un sesso diverso,PER,5,"può stringersi tra persone di un sesso diverso , l '"
+742,uno dei,PER,2,"tra uomini , uno dei quali è così"
+742,altro,PER,1,e l ' altro a seguitarne l
+745,personaggio tutto testa,PER,3,"Avremo qui un personaggio tutto testa , come certe"
+746,un,PER,1,Confessions d ' un enfant du siècle
+746,Musset,PER,1,du siècle del Musset .
+754,Rolla,GPE,1,"Ci ravvisiamo nel Rolla , in Don"
+754,Don,GPE,1,"Rolla , in Don Paez , nell"
+754,Enfant,PER,1,", nell ' Enfant du siècle ,"
+760,carabiniere dell ' antica,PER,4,d ' un carabiniere dell ' antica maniera .
+779,mondo,LOC,1,di venire al mondo .
+781,quelle incontrate,PER,2,altre donne che quelle incontrate nelle case di
+785,teatri di varietà,FAC,3,le scene dei teatri di varietà prima di andare
+785,taluni gentiluomini di laggiù,PER,4,", e che taluni gentiluomini di laggiù se la fossero"
+786,ultimi custodi della nostra bella tradizione cavalleresca,PER,7,fra noi gli ultimi custodi della nostra bella tradizione cavalleresca : sanno battersi
+791,"quel giovine alto , biondo ,",PER,6,"era cattiva ; quel giovine alto , biondo , con gli occhi"
+791,quel giovine che,PER,3,"voce dolorosa , quel giovine che l ' amava"
+797,quei quattro ch ' eran nati di lei,PER,8,"vicinato e con quei quattro ch ' eran nati di lei , scese un"
+797,suburbio della sua città laboriosa,GPE,5,"a vivere nel suburbio della sua città laboriosa , mise un"
+801,quest ' uomo ch ' era nato fra gli agi,PER,10,"casa ; e quest ' uomo ch ' era nato fra gli agi , portando un"
+802,via,LOC,1,", e la via da un capo"
+802,"signor Riotti , pingue , maestoso",PER,6,"sole , il signor Riotti , pingue , maestoso , con un"
+802,negozio,FAC,1,la soglia del negozio ad accendere la
+803,Rigoletto,PER,1,a sentire il Rigoletto — serata a
+805,prime donne quelle sì,PER,4,cartello e delle prime donne quelle sì !
+809,bottega a bottega,FAC,3,"del Ferrante stavano bottega a bottega , ed anzi"
+809,stessa corte,FAC,2,"davano su la stessa corte , venne a"
+818,buon del Ferrante,PER,3,"Ma il buon del Ferrante , nella sua"
+818,bottegaio,PER,1,"dimessa veste di bottegaio , non sapeva"
+819,piccolo moscardino,PER,2,"azzimava come un piccolo moscardino , faceva i"
+822,toilettes,FAC,1,"; criticava le toilettes delle sorelline ,"
+822,sorelline,PER,1,"le toilettes delle sorelline , a scuola"
+826,figlio prete od,PER,3,' avere un figlio prete od ufficiale .
+826,ufficiale,PER,1,figlio prete od ufficiale .
+827,famiglie,PER,1,fanno perciò dalle famiglie grandi sacrifizi di
+827,falange senza numero d ',PER,5,"nostra società una falange senza numero d ' inoperosi , di"
+827,"inoperosi , di spostati e di tristi",PER,7,"numero d ' inoperosi , di spostati e di tristi , che per"
+829,suo vicino,PER,2,"a quello del suo vicino , non la"
+829,nave del progresso umano,VEH,4,' impaluda la nave del progresso umano .
+833,chiunque stesse al di sopra di lui,PER,7,"facevan untuose con chiunque stesse al di sopra di lui , e dottorali"
+833,sua magnifica persona,PER,3,da meno della sua magnifica persona .
+836,gazzette,FAC,1,", perchè le gazzette son divenute oggidì"
+836,piccole biblioteche di scienza universale,FAC,5,son divenute oggidì piccole biblioteche di scienza universale e di tutto

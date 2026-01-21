@@ -1,0 +1,4 @@
+Language,Test Examples,True Entities,Pred Entities,Precision,Recall,F1,False Pos,False Neg,Type Errors
+English,693,1191,1205,0.6725,0.7089,0.6902,300,286,42
+French,1460,2666,2667,0.7054,0.7361,0.7205,641,640,54
+Italian,840,1589,1679,0.7192,0.7961,0.7557,373,283,43
