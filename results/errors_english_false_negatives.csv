@@ -1,287 +1,680 @@
 example_idx,entity,true_type,length,context
 0,London,GPE,1,I In Chancery London . Michaelmas term
-0,Lord Chancellor,PER,2,", and the Lord Chancellor sitting in Lincoln"
+1,the streets,FAC,2,much mud in the streets as if the
 1,the face of,LOC,3,"newly retired from the face of the earth ,"
+1,the earth,LOC,2,"the face of the earth , and it"
 4,"street-corners , where",FAC,3,"their foot-hold at street-corners , where tens of thousands"
 5,everywhere,LOC,1,Fog everywhere . Fog up
 5,up,LOC,1,"everywhere . Fog up the river ,"
 5,"the river , where it flows among",LOC,7,". Fog up the river , where it flows among green aits and"
 5,green aits and,LOC,3,it flows among green aits and meadows ; fog
+5,meadows,LOC,1,green aits and meadows ; fog down
 5,down,LOC,1,"meadows ; fog down the river ,"
 5,"the river , where it rolls defiled among",LOC,8,"; fog down the river , where it rolls defiled among the tiers of"
 5,the tiers of shipping,FAC,4,rolls defiled among the tiers of shipping and the waterside
+5,a great ( and dirty ) city,GPE,7,waterside pollutions of a great ( and dirty ) city .
 6,Essex,GPE,1,"Fog on the Essex marshes , fog"
+6,the Kentish heights,LOC,3,", fog on the Kentish heights ."
 7,collier-brigs,VEH,1,the cabooses of collier-brigs ; fog lying
-8,ancient Greenwich pensioners,PER,3,"and throats of ancient Greenwich pensioners , wheezing by"
+7,the yards,FAC,2,lying out on the yards and hovering in
+8,the wrathful skipper,PER,3,"afternoon pipe of the wrathful skipper , down in"
 8,his shivering little ' prentice boy,PER,6,and fingers of his shivering little ' prentice boy on deck .
-12,that leaden-headed old obstruction,FAC,4,"are muddiest near that leaden-headed old obstruction , appropriate ornament"
+9,people on,PER,2,Chance people on the bridges peeping
+9,the bridges,FAC,2,Chance people on the bridges peeping over the
+9,the parapets,FAC,2,bridges peeping over the parapets into a nether
+10,the streets,FAC,2,"divers places in the streets , much as"
+10,the spongey fields,LOC,3,"may , from the spongey fields , be seen"
+11,the shops,FAC,2,Most of the shops lighted two hours
+12,the muddy streets,FAC,3,"densest , and the muddy streets are muddiest near"
 12,the threshold of,FAC,3,appropriate ornament for the threshold of a leaden-headed old
 12,a leaden-headed old corporation,ORG,4,"the threshold of a leaden-headed old corporation , Temple Bar"
+12,Temple Bar,FAC,2,"old corporation , Temple Bar ."
 13,Lord High Chancellor,PER,3,", sits the Lord High Chancellor in his High"
 13,High Court of Chancery,FAC,4,Chancellor in his High Court of Chancery .
 14,High Court of Chancery,FAC,4,"condition which this High Court of Chancery , most pestilent"
-16,some score of members of the High Court of Chancery bar,PER,11,such an afternoon some score of members of the High Court of Chancery bar ought to be
+14,hoary sinners,PER,2,"most pestilent of hoary sinners , holds this"
+15,the Lord High Chancellor,PER,4,"if ever , the Lord High Chancellor ought to be"
+15,"a large advocate with great whiskers , a little voice , and an interminable brief",PER,15,", addressed by a large advocate with great whiskers , a little voice , and an interminable brief , and outwardly"
 17,the various solicitors in the cause,PER,6,"such an afternoon the various solicitors in the cause , some two"
-17,some two or three of whom,PER,6,"the cause , some two or three of whom have inherited it"
-17,their fathers,PER,2,"inherited it from their fathers , who made"
+18,the registrar,PER,2,it ) between the registrar 's red table
+19,the court,FAC,2,"Well may the court be dim ,"
+19,the place,FAC,2,of day into the place ; well may
+19,the uninitiated from,PER,3,"; well may the uninitiated from the streets ,"
+19,the streets,FAC,2,"the uninitiated from the streets , who peep"
+19,the Lord High Chancellor,PER,4,padded dais where the Lord High Chancellor looks into the
 20,"the Court of Chancery , which has",FAC,7,"This is the Court of Chancery , which has its decaying houses"
 20,its decaying houses and,FAC,4,", which has its decaying houses and its blighted lands"
 20,its blighted lands,LOC,3,decaying houses and its blighted lands in every shire
-20,every shire,LOC,2,"blighted lands in every shire , which has"
 20,its worn-out lunatic,PER,3,", which has its worn-out lunatic in every madhouse"
 20,its dead,PER,2,every madhouse and its dead in every churchyard
 20,"every churchyard , which has",FAC,5,"its dead in every churchyard , which has its ruined suitor"
 20,its ruined suitor with his slipshod heels and threadbare dress,PER,10,", which has its ruined suitor with his slipshod heels and threadbare dress borrowing and begging"
 20,every man,PER,2,"the round of every man 's acquaintance ,"
-20,its practitioners,PER,2,honourable man among its practitioners who would not
+20,an honourable man,PER,3,there is not an honourable man among its practitioners
+21,the Lord Chancellor,PER,3,to be in the Lord Chancellor 's court this
+21,the counsel in the cause,PER,5,"Lord Chancellor , the counsel in the cause , two or"
+21,two or three counsel who are never in any cause,PER,10,"the cause , two or three counsel who are never in any cause , and the"
 21,the well of solicitors,PER,4,"cause , and the well of solicitors before mentioned ?"
 22,the registrar below,PER,3,"There is the registrar below the judge ,"
+22,the judge,PER,2,"the registrar below the judge , in wig"
 22,two or three maces,PER,4,"and there are two or three maces , or petty-bags"
 22,petty-bags,PER,1,"maces , or petty-bags , or privy"
 22,privy purses,PER,2,"petty-bags , or privy purses , or whatever"
+24,The short-hand writers,PER,3,"The short-hand writers , the reporters"
+24,the reporters of,PER,3,"short-hand writers , the reporters of the court ,"
 24,the court,ORG,2,"the reporters of the court , and the"
+24,the reporters of,PER,3,"court , and the reporters of the newspapers invariably"
 24,the newspapers,ORG,2,the reporters of the newspapers invariably decamp with
 24,the rest of the regulars,PER,5,invariably decamp with the rest of the regulars when Jarndyce and
 25,the side of,LOC,3,"a seat at the side of the hall ,"
+25,the curtained sanctuary,LOC,3,"to peer into the curtained sanctuary , is a"
 25,a little mad old woman in a squeezed bonnet,PER,9,"sanctuary , is a little mad old woman in a squeezed bonnet who is always"
-25,court,FAC,1,"is always in court , from its"
 26,a party to a suit,PER,5,"or was , a party to a suit , but no"
+28,A sallow prisoner,PER,3,A sallow prisoner has come up
 28,a solitary surviving executor,PER,4,"which , being a solitary surviving executor who has fallen"
-29,Another ruined suitor,PER,3,"are ended . Another ruined suitor , who periodically"
-29,the Chancellor,PER,2,efforts to address the Chancellor at the close
 29,the Chancellor,PER,2,to understand that the Chancellor is legally ignorant
-32,Jarndyce,PER,1,Jarndyce and Jarndyce drones
+31,A few lawyers ' clerks,PER,5,A few lawyers ' clerks and others who
+31,others who know,PER,3,' clerks and others who know this suitor by
+31,this suitor by sight,PER,4,others who know this suitor by sight linger on the
+33,The parties to it,PER,4,The parties to it understand it least
 36,The little plaintiff,PER,3,The little plaintiff or defendant who
+36,defendant who was promised a new rocking-horse when,PER,8,little plaintiff or defendant who was promised a new rocking-horse when Jarndyce and Jarndyce
+36,Jarndyce and,PER,2,new rocking-horse when Jarndyce and Jarndyce should be
 36,Jarndyce should be settled,PER,4,when Jarndyce and Jarndyce should be settled has grown up
+36,the other world,LOC,3,trotted away into the other world .
 37,Fair wards of court,PER,4,Fair wards of court have faded into
+37,mothers,PER,1,have faded into mothers and grandmothers ;
+37,grandmothers,PER,1,into mothers and grandmothers ; a long
+37,the earth,LOC,2,Jarndyces left upon the earth perhaps since old
 37,old Tom Jarndyce,PER,3,earth perhaps since old Tom Jarndyce in despair blew
 37,a coffee-house,FAC,2,brains out at a coffee-house in Chancery Lane
+37,Chancery Lane,FAC,2,a coffee-house in Chancery Lane ; but Jarndyce
+37,the court,FAC,2,"dreary length before the court , perennially hopeless"
+40,Every master in,PER,3,Every master in Chancery has had
+40,Chancery,FAC,1,Every master in Chancery has had a
+41,somebody,PER,1,", "" for somebody or other ,"
 41,counsel,PER,1,when he was counsel at the bar
 42,"blue-nosed , bulbous-shoed old benchers",PER,5,"about it by blue-nosed , bulbous-shoed old benchers in select port-wine"
+44,The last Lord Chancellor,PER,4,The last Lord Chancellor handled it neatly
 44,the eminent silk gown who said that such a thing might happen when the sky rained potatoes,PER,17,"Mr. Blowers , the eminent silk gown who said that such a thing might happen when the sky rained potatoes , he observed"
 44,the maces,PER,2,"that particularly tickled the maces , bags ,"
 44,bags,PER,1,"the maces , bags , and purses"
 44,purses,PER,1,"bags , and purses ."
 45,people,PER,1,How many people out of the
 45,Jarndyce,PER,1,of the suit Jarndyce and Jarndyce has
+45,Jarndyce,PER,1,suit Jarndyce and Jarndyce has stretched forth
 46,the master,PER,2,From the master upon whose impaling
 46,the copying-clerk,PER,2,", down to the copying-clerk in the Six"
+46,the Six Clerks ' Office,FAC,5,the copying-clerk in the Six Clerks ' Office who has copied
 46,Chancery,FAC,1,of thousands of Chancery folio-pages under that
 48,The very solicitors ' boys,PER,5,The very solicitors ' boys who have kept
 48,the wretched suitors,PER,3,"who have kept the wretched suitors at bay ,"
-48,Jarndyce,PER,1,themselves out of Jarndyce and Jarndyce .
-48,Jarndyce,PER,1,of Jarndyce and Jarndyce .
-50,Chizzle,PER,1,"Chizzle , Mizzle ,"
-50,Mizzle,PER,1,"Chizzle , Mizzle , and otherwise"
-53,The _ Lusitania _,VEH,4,The _ Lusitania _ had been struck
-69,A patriotic one,PER,3,. ” “ A patriotic one ? ” The
-85,Shipmate,PER,1,", beginning ‘ Shipmate ."
-87,the American Embassy,FAC,3,"the packet to the American Embassy , and deliver"
-92,The _ Lusitania _,VEH,4,The _ Lusitania _ settled with a
-95,Tuppence,PER,1,"” “ Tuppence , old bean"
-95,old bean,PER,2,"“ Tuppence , old bean ! ” The"
-95,the Dover Street Tube,FAC,4,and momentarily blocked the Dover Street Tube exit in doing
-99,the gangway,FAC,2,here -- blocking the gangway as it were
-100,The girl,PER,2,"it . ” The girl assenting , they"
-102,Tuppence,PER,1,reason as “ Tuppence .
-107,the old cat,PER,3,Was n’t the old cat in a rage
-114,Here,FAC,1,Here we are at
-114,Lyons ’,FAC,2,"we are at Lyons ’ , and we"
-118,my dear,PER,2,"bargain _ , my dear !"
-120,some one,PER,2,to-day talking about some one called Jane Finn
-135,home,FAC,1,) of her home life early in
-135,an officers ’ hospital,FAC,4,where she entered an officers ’ hospital .
-145,the aforementioned Lieutenant,PER,3,", namely : the aforementioned Lieutenant Thomas Beresford ."
-145,Thomas Beresford,PER,2,the aforementioned Lieutenant Thomas Beresford .
-151,those brass hats,PER,3,sickening the way those brass hats drove from the
-155,a,PER,1,"postwoman , and a bus conductress by"
-155,bus,VEH,1,", and a bus conductress by way"
-169,another in a more distinguished rank of life,PER,8,"soon after recommending another in a more distinguished rank of life , she readily"
-170,a delightful country,LOC,3,"year , in a delightful country , where Nature"
-174,that horrid place vulgarly called _,LOC,6,": she dreaded that horrid place vulgarly called _ hell _ ,"
-174,hell _,LOC,2,"vulgarly called _ hell _ , the regions"
-182,the swain,PER,2,", which caught the swain by the upper-garment"
-190,the lonely arbors,LOC,3,"the lovers to the lonely arbors , and would"
-199,her station,FAC,2,the duties of her station occur to her
-203,own maid,PER,2,interim desired her own maid to teach her
-206,angels,PER,1,", and that angels sometimes visited this"
-207,a thick wood,LOC,3,would sit in a thick wood in the park
-209,a fine tall girl,PER,4,wish to have a fine tall girl brought forward into
-215,her constant friends,PER,3,"nature , were her constant friends and confidants ."
-215,confidants,PER,1,constant friends and confidants .
-224,the most perfect reasoning and observing machine that,PER,8,"take it , the most perfect reasoning and observing machine that the world has"
-229,woman,PER,1,", and that woman was the late"
-231,home-centred,FAC,1,", and the home-centred interests which rise"
-231,the man who first finds himself,PER,6,rise up around the man who first finds himself master of his
-231,master of,PER,2,first finds himself master of his own establishment
-231,his own establishment,FAC,3,"himself master of his own establishment , were sufficient"
-231,Holmes,PER,1,"attention , while Holmes , who loathed"
-234,my former friend,PER,3,knew little of my former friend and companion .
-234,companion,PER,1,former friend and companion .
-258,a particularly malignant boot-slitting specimen of,PER,6,that you had a particularly malignant boot-slitting specimen of the London slavey
-258,the,PER,1,boot-slitting specimen of the London slavey .
-265,the steps which lead up from,FAC,6,have frequently seen the steps which lead up from the hall to
-265,the hall to,FAC,3,lead up from the hall to this room .
-270,seventeen steps,FAC,2,"that there are seventeen steps , because I"
-298,numerous glass-factories,FAC,2,and for its numerous glass-factories and paper-mills .
-298,paper-mills,FAC,1,numerous glass-factories and paper-mills .
-305,the German who is so uncourteous to his verbs,PER,9,It is the German who is so uncourteous to his verbs .
-309,Dear Judy,PER,2,December 27 . Dear Judy : Your letter
-310,the,FAC,1,making over of the John Grier Home
-310,John Grier,PER,2,over of the John Grier Home into a
-311,an,FAC,1,the head of an orphan asylum !
-311,orphan,PER,1,head of an orphan asylum !
-315,Pendleton,PER,1,held about the Pendleton fireside .
-320,the,FAC,1,in charge of the John Grier Home
-320,John Grier,PER,2,charge of the John Grier Home .
-323,the Female Inebriate Asylum,FAC,4,the inmates of the Female Inebriate Asylum .
-329,the New York Orphanage,FAC,4,Please substitute for the New York Orphanage and the Foundling
-336,JOHN GRIER,PER,2,"THE JOHN GRIER HOME , February"
-336,Dear Judy,PER,2,February 15 . Dear Judy : We arrived
-338,housekeeper,PER,1,"night watchman and housekeeper , who had"
-355,Lord,PER,1,", "" The Lord Will Provide """
-357,the world,LOC,2,any spot in the world so entirely ugly
-368,the,FAC,1,to come to the John Grier Home
-368,John Grier,PER,2,come to the John Grier Home through the
-368,the president of our board of,PER,6,"Jervis Pendleton , the president of our board of trustees , and"
-368,trustees,PER,1,"our board of trustees , and of"
-370,the institution,FAC,2,"working staff of the institution was present ,"
-373,Jervis,PER,1,have n't seen Jervis 's wonderful Scotch
-373,the rest of these people,PER,5,"make up for the rest of these people , especially the"
-381,the,FAC,1,every one that the village drug store
-381,village,GPE,1,one that the village drug store contained
-387,an old ladies,PER,3,"for her in an old ladies ' home ,"
-388,The first place that I can well remember,LOC,8,My Early Home The first place that I can well remember was a large
-390,"our master ’s house , which stood by the roadside",FAC,10,"a gate at our master ’s house , which stood by the roadside ; at the"
-390,a running brook overhung by a steep bank,LOC,8,at the bottom a running brook overhung by a steep bank .
-393,a nice warm shed near,FAC,5,cold we had a nice warm shed near the grove .
-395,six young colts,PER,3,There were six young colts in the meadow
-399,The colts who live here,PER,5,The colts who live here are very good
-399,very good colts,PER,3,"live here are very good colts , but they"
-399,cart-horse colts,PER,2,"but they are cart-horse colts , and of"
-400,any horse I ever knew,PER,5,"sweetest temper of any horse I ever knew , and I"
-402,a wise old horse,PER,4,"knew she was a wise old horse , and our"
-409,All the horses,PER,3,All the horses would come to
-409,his favorites,PER,2,think we were his favorites .
-412,the colts,PER,2,"called fun with the colts , throwing stones"
-417,the colts,PER,2,to chase the colts . This is
-419,the man who looked after,PER,5,"Old Daniel , the man who looked after the horses ,"
-419,the horses,PER,2,"who looked after the horses , was just"
-422,the other colts,PER,3,I and the other colts were feeding at
-423,The oldest of,PER,3,The oldest of the colts raised
-423,the colts,PER,2,The oldest of the colts raised his head
-425,an old riding horse of,PER,5,My mother and an old riding horse of our master ’s
-425,our master ’s,PER,3,riding horse of our master ’s were also standing
-430,some of them,PER,3,"on horseback , some of them in green coats"
-431,The old horse,PER,3,The old horse snorted and looked
-431,we young colts,PER,3,"them , and we young colts wanted to be"
-431,here,LOC,1,lower down ; here it seemed as
-432,the old horse,PER,3,", ” said the old horse ; “ perhaps"
-442,two fine horses,PER,3,"sad sight ; two fine horses were down ,"
-442,the grass,LOC,2,was groaning on the grass .
-443,the water,LOC,2,getting out of the water covered with mud
-445,one of,PER,2,", ” said one of the colts ."
-445,the colts,PER,2,said one of the colts .
-447,good horses,PER,2,", often spoil good horses , and tear"
-447,the fields,LOC,2,"and tear up the fields , and all"
-447,horses,PER,1,"we are only horses , and do"
-452,the pride of,PER,3,"man , and the pride of his family ."
-454,the black horse that lay groaning on the grass,PER,9,"to look at the black horse that lay groaning on the grass , he felt"
-455,the black horse,PER,3,was still ; the black horse moved no more
-456,that horse,PER,2,"she had known that horse for years ,"
-456,“ Rob Roy ”,PER,4,his name was “ Rob Roy ” ; he was
-456,a good horse,PER,3,"; he was a good horse , and there"
-459,this Virginian land,LOC,3,still than is this Virginian land in the hour
-460,English,PER,1,) which we English call the whippoorwill
-465,a river of blood,LOC,4,"crimson , -- a river of blood ."
-467,good Mr. Stockham,PER,3,"being Sunday , good Mr. Stockham , our minister"
-469,The bolder spirits,PER,3,The bolder spirits laughed them to
-473,"a poor and rude one , but pleasantly set upon",FAC,10,"house , -- a poor and rude one , but pleasantly set upon a slope of"
-473,a slope of green turf,LOC,5,"pleasantly set upon a slope of green turf , and girt"
-474,the two Paspahegh lads bought by me from their tribe the Michaelmas before,PER,13,"from their hut the two Paspahegh lads bought by me from their tribe the Michaelmas before , and soundly"
-475,the cleared space before my palisade,FAC,6,"the forest into the cleared space before my palisade , nor knew"
-475,the bank,LOC,2,"voice came up the bank , that my"
-476,the inclosure,FAC,2,the horse within the inclosure .
-477,Thou careful man,PER,3,“ Thou careful man ! ” he
-484,Mars,PER,1,“ Thou Mars incarnate ! ”
-484,the meantime soldier,PER,3,", and in the meantime soldier !"
-495,a commander,PER,2,"if he be a commander worth having ,"
-500,the only man,PER,3,"“ I was the only man , i '"
-502,the boats upon,VEH,3,And the boats upon the river !
-506,a goodly ship down there,VEH,5,"“ There 's a goodly ship down there , with a"
-507,fourscore waiting damsels and milkmaids,PER,5,"Videlicet , some fourscore waiting damsels and milkmaids , warranted honest"
-507,my,PER,1,"warranted honest by my Lord Warwick ,"
-507,Lord Warwick,PER,2,"honest by my Lord Warwick , ” I"
-516,our Egypt,GPE,2,and look to our Egypt and its fleshpots
-517,a man,PER,2,", that bind a man with chains of"
-518,Master Wickham,PER,2,I met good Master Wickham rowing down from
-524,one of,PER,2,secure for thyself one of these same errant
-528,one who keeps a public ordinary,PER,6,"but rather as one who keeps a public ordinary , at which"
-528,all persons,PER,2,", at which all persons are welcome for"
-530,the master of an ordinary,PER,5,this happens to the master of an ordinary .
-538,the most paltry alleys under the same name,FAC,8,be found in the most paltry alleys under the same name .
-549,those who like our bill of fare,PER,7,will now detain those who like our bill of fare no longer from
-551,that part of,LOC,3,In that part of the western division
-551,the western division of,LOC,4,that part of the western division of this kingdom which
-551,gentleman,PER,1,"still , a gentleman whose name was"
-551,Allworthy,PER,1,"whose name was Allworthy , and who"
-551,the favourite of both nature and fortune,PER,7,well be called the favourite of both nature and fortune ; for both
-554,his youth,PER,2,gentleman had in his youth married a very
-554,a very worthy and beautiful woman,PER,6,"his youth married a very worthy and beautiful woman , of whom"
-556,a place where he should never part with her more,FAC,10,her again in a place where he should never part with her more -- sentiments for
-557,one sister,PER,2,"country , with one sister , for whom"
-559,"that species of women whom you commend rather for good qualities than beauty , and who are generally called , by their own sex ,",PER,25,"She was of that species of women whom you commend rather for good qualities than beauty , and who are generally called , by their own sex , very good sort"
-559,very good sort of women,PER,5,"own sex , very good sort of women -- as good"
-561,her whole sex,PER,3,ever laid for her whole sex .
-563,"those paragons for whom the men are all wishing , sighing , dying , and spreading every net in their power",PER,21,"and cowardly deserts those paragons for whom the men are all wishing , sighing , dying , and spreading every net in their power ; and constantly"
-563,that higher order of women,PER,5,the heels of that higher order of women for whom the
-563,the other sex,PER,3,women for whom the other sex have a more
-564,a better judge than,PER,4,I am myself a better judge than any pitiful critic
-565,home,FAC,1,at his return home .
-569,THE CONSUL,PER,2,CHAPTER I THE CONSUL ’S YARN A
-570,the steps,FAC,2,Going down the steps I opened it
-575,a magnificent specimen of the higher type of humanity,PER,9,hair -- altogether a magnificent specimen of the higher type of humanity .
-578,my little dried-up self,PER,4,a curious contrast my little dried-up self presented to his
-580,Good,PER,1,"Then there was Good , who is"
-594,Good,PER,1,"‘ eh , Good ?"
-606,the squire,PER,2,more except play the squire in a country
-606,a country that is sick of,GPE,6,the squire in a country that is sick of squires .
-606,squires,PER,1,is sick of squires .
-609,the victim of an almost unaccountable craving,PER,7,I have become the victim of an almost unaccountable craving .
-615,no wife,PER,2,"I have no wife or parent ,"
-622,Good,PER,1,him again . Good is so overpoweringly
-624,Good,PER,1,"Shut up , Good ! ’ said"
-629,Island of Lamu,LOC,3,hear of the Island of Lamu ?
-632,the unknown interior,LOC,3,right on into the unknown interior .
-639,you fellows,PER,2,If you fellows like to come
-642,the other place with an unpronounceable name,GPE,7,"Mt Kenia and the other place with an unpronounceable name , and look"
-644,the British India steamboat,VEH,4,", ‘ by the British India steamboat ; and do"
-646,THE PLACE WHERE,FAC,3,I TREATS OF THE PLACE WHERE OLIVER TWIST WAS
-646,other public buildings,FAC,3,HIS BIRTH Among other public buildings in a certain
-647,this world of sorrow and trouble,LOC,6,"was ushered into this world of sorrow and trouble , by the"
-647,the parish,FAC,2,"trouble , by the parish surgeon , it"
-651,"pauper old woman , who was rendered rather misty by an unwonted allowance of beer",PER,15,", but a pauper old woman , who was rendered rather misty by an unwonted allowance of beer ; and a"
-651,a parish,FAC,2,beer ; and a parish surgeon who did
-652,"a male infant who had not been possessed of that very useful appendage , a voice , for a much longer space of time than three minutes and a quarter",PER,30,"been expected from a male infant who had not been possessed of that very useful appendage , a voice , for a much longer space of time than three minutes and a quarter ."
-671,the body,PER,2,"surgeon leaned over the body , and raised"
-675,a nobleman or a,PER,4,the child of a nobleman or a beggar ; it
-675,beggar,PER,1,nobleman or a beggar ; it would
-676,a parish,FAC,2,at once -- a parish child -- the
-676,the orphan of,PER,3,parish child -- the orphan of a workhouse --
-676,a workhouse,FAC,2,the orphan of a workhouse -- the humble
-676,all,PER,1,"-- despised by all , and pitied"
-677,"an orphan , left to the tender mercies of",PER,9,"that he was an orphan , left to the tender mercies of church-wardens and overseers"
-679,the workhouse,FAC,2,duly reported by the workhouse authorities to the
-679,the parish,FAC,2,workhouse authorities to the parish authorities .
-680,The parish,FAC,2,The parish authorities inquired with
-680,the workhouse,FAC,2,"with dignity of the workhouse authorities , whether"
-680,no female then domiciled in ',PER,6,whether there was no female then domiciled in ' the house '
-680,Oliver Twist,PER,2,"to impart to Oliver Twist , the consolation"
-681,The workhouse,FAC,2,The workhouse authorities replied with
-682,the parish,FAC,2,"Upon this , the parish authorities magnanimously and"
-682,twenty or thirty other juvenile offenders against the poor-laws,PER,9,"off , where twenty or thirty other juvenile offenders against the poor-laws , rolled about"
-687,another experimental philosopher,PER,3,the story of another experimental philosopher who had a
-688,the fathers it had never known in this,PER,8,there gathered to the fathers it had never known in this .
-689,a parish,FAC,2,interesting inquest upon a parish child who had
-690,the body,PER,2,had always opened the body and found nothing
-691,the beadle,PER,2,and always sent the beadle the day before
+49,The receiver in the cause,PER,5,The receiver in the cause has acquired a
+50,the office,FAC,2,got out of the office .
+51,the world,LOC,2,belief that if the world go wrong it
+54,English,PER,1,) which we English call the whippoorwill
+58,the river,LOC,2,"broad bosom of the river , leaving it"
+58,a dead man,PER,3,", leaving it a dead man 's hue ."
+59,a river of blood,LOC,4,"crimson , -- a river of blood ."
+61,good Mr. Stockham,PER,3,"being Sunday , good Mr. Stockham , our minister"
+61,our minister at,PER,3,"Mr. Stockham , our minister at Weyanoke , exhorted"
+61,Weyanoke,GPE,1,"our minister at Weyanoke , exhorted us"
+61,the Indian subjects of,PER,4,its head amongst the Indian subjects of the Lord 's
+61,the Lord 's anointed,PER,4,Indian subjects of the Lord 's anointed .
+62,the more timorous,PER,3,"the services , the more timorous began to tell"
+62,the savages,PER,2,tales of how the savages distressed us in
+63,The bolder spirits,PER,3,The bolder spirits laughed them to
+63,the women,PER,2,"scorn , but the women began to weep"
+63,the savages,PER,2,"he ever held the savages , and more"
+63,Opechancanough who was now,PER,4,"more especially that Opechancanough who was now their emperor ,"
+63,the red men,PER,3,telling us that the red men watched while we
+63,a Jesuit,PER,2,"teach wiliness to a Jesuit , and how"
+65,"a hunter , red-brown and naked",PER,6,"lengthening shadows , a hunter , red-brown and naked , rose from"
+66,the savages,PER,2,"scant love between the savages and myself ,"
+67,the dark figure,PER,3,"I left the dark figure standing , still"
+67,my cousin,PER,2,"before , by my cousin Percy ) ,"
+67,Percy,PER,1,"by my cousin Percy ) , was"
+67,"a poor and rude one , but pleasantly set upon",FAC,10,"house , -- a poor and rude one , but pleasantly set upon a slope of"
+67,a slope of green turf,LOC,5,"pleasantly set upon a slope of green turf , and girt"
+68,the two Paspahegh lads bought by me from their tribe the Michaelmas before,PER,13,"from their hut the two Paspahegh lads bought by me from their tribe the Michaelmas before , and soundly"
+69,the cleared space before my palisade,FAC,6,"the forest into the cleared space before my palisade , nor knew"
+69,the bank,LOC,2,"voice came up the bank , that my"
+69,my good friend,PER,3,"bank , that my good friend , Master John"
+69,Master John Rolfe,PER,3,"good friend , Master John Rolfe , was without"
+70,the inclosure,FAC,2,the horse within the inclosure .
+71,Thou careful man,PER,3,“ Thou careful man ! ” he
+74,the green bank,LOC,3,we went up the green bank to the house
+74,the house,FAC,2,"green bank to the house , and ,"
+78,Mars,PER,1,“ Thou Mars incarnate ! ”
+78,the meantime soldier,PER,3,", and in the meantime soldier !"
+80,the Enemy,PER,2,of marque against the Enemy ?
+89,a commander,PER,2,"if he be a commander worth having ,"
+94,the only man,PER,3,"“ I was the only man , i '"
+94,the world,PER,2,and I met the world -- the bachelor
+94,the bachelor world,PER,3,the world -- the bachelor world -- flocking to
+96,the boats upon,VEH,3,And the boats upon the river !
+96,the river,LOC,2,the boats upon the river ! I have
+97,the fields,LOC,2,"was busy in the fields , and did"
+99,The maids,PER,2,"“ Humph ! The maids have come ,"
+100,a goodly ship down there,VEH,5,"“ There 's a goodly ship down there , with a"
+101,fourscore waiting damsels and milkmaids,PER,5,"Videlicet , some fourscore waiting damsels and milkmaids , warranted honest"
+101,my,PER,1,"warranted honest by my Lord Warwick ,"
+101,Lord Warwick,PER,2,"honest by my Lord Warwick , ” I"
+104,the ship,VEH,2,seen them leave the ship .
+108,The land,LOC,2,The land is new and
+108,a nation,GPE,2,those to whom a nation owes its birth
+109,this land in which we have cast our lot,LOC,9,bind us to this land in which we have cast our lot .
+111,wife,PER,1,-- be that wife princess or peasant
+111,princess,PER,1,be that wife princess or peasant --
+111,a desert,LOC,2,"make home of a desert , that bind"
+111,a man,PER,2,", that bind a man with chains of"
+111,the country where they abide,LOC,5,of gold to the country where they abide .
+112,Master Wickham,PER,2,I met good Master Wickham rowing down from
+112,the good man,PER,3,", I gave the good man Godspeed , and"
+112,the Lord,PER,2,one pleasing to the Lord .
+113,the land,LOC,2,"“ I love the land , and call"
+118,the city,GPE,2,"the tide to the city , and secure"
+125,the most perfect reasoning and observing machine that,PER,8,"take it , the most perfect reasoning and observing machine that the world has"
+125,the world,LOC,2,"observing machine that the world has seen ,"
+125,a lover,PER,2,", but as a lover he would have"
+127,the observer,PER,2,admirable things for the observer -- excellent for
+128,the trained reasoner,PER,3,But for the trained reasoner to admit such
+130,woman,PER,1,", and that woman was the late"
+130,the late Irene Adler,PER,4,"that woman was the late Irene Adler , of dubious"
+132,home-centred,FAC,1,", and the home-centred interests which rise"
+132,the man who first finds himself,PER,6,rise up around the man who first finds himself master of his
+132,master of,PER,2,first finds himself master of his own establishment
+132,his own establishment,FAC,3,"himself master of his own establishment , were sufficient"
+132,our lodgings in,FAC,3,", remained in our lodgings in Baker Street ,"
+132,Baker Street,FAC,2,"our lodgings in Baker Street , buried among"
+133,the official police,ORG,3,as hopeless by the official police .
+134,the Atkinson brothers,PER,3,"singular tragedy of the Atkinson brothers at Trincomalee ,"
+134,the reigning family of,PER,4,and successfully for the reigning family of Holland .
+134,Holland,GPE,1,reigning family of Holland .
+135,my former friend,PER,3,knew little of my former friend and companion .
+135,companion,PER,1,former friend and companion .
+136,a patient,PER,2,a journey to a patient ( for I
+138,"his tall , spare figure",PER,5,", I saw his tall , spare figure pass twice in"
+142,the chamber which had formerly been in part my own,FAC,10,shown up to the chamber which had formerly been in part my own .
+151,a most clumsy and careless servant girl,PER,7,that you have a most clumsy and careless servant girl ?
+152,My dear,PER,2,""" "" My dear Holmes , """
+152,Holmes,PER,1,""" My dear Holmes , "" said"
+159,a particularly malignant boot-slitting specimen of,PER,6,that you had a particularly malignant boot-slitting specimen of the London slavey
+159,the,PER,1,boot-slitting specimen of the London slavey .
+159,London,GPE,1,specimen of the London slavey .
+160,a gentleman,PER,2,"practice , if a gentleman walks into my"
+160,an active member of the medical profession,PER,7,him to be an active member of the medical profession .
+166,the steps which lead up from,FAC,6,have frequently seen the steps which lead up from the hall to
+166,the hall to,FAC,3,lead up from the hall to this room .
+171,seventeen steps,FAC,2,"that there are seventeen steps , because I"
+176,a gentleman who desires to consult you upon a matter of the very deepest moment,PER,15,"said , "" a gentleman who desires to consult you upon a matter of the very deepest moment ."
+177,one of,PER,2,recent services to one of the royal houses
+177,the royal houses of,PER,4,to one of the royal houses of Europe have shown
+177,Europe,GPE,1,royal houses of Europe have shown that
+186,The man who wrote it,PER,5,""" The man who wrote it was presumably well"
+197,Eglonitz,GPE,1,""" Eglow , Eglonitz -- here we"
+198,a German-speaking country,GPE,3,It is in a German-speaking country -- in Bohemia
+199,numerous glass-factories,FAC,2,and for its numerous glass-factories and paper-mills .
+199,paper-mills,FAC,1,numerous glass-factories and paper-mills .
+203,the man who wrote the note,PER,6,Precisely . And the man who wrote the note is a German
+203,a German,PER,2,the note is a German .
+205,A Frenchman,PER,2,' A Frenchman or Russian could
+206,the German who is so uncourteous to his verbs,PER,9,It is the German who is so uncourteous to his verbs .
+207,this German who writes upon Bohemian paper and prefers wearing a mask to showing his face,PER,16,is wanted by this German who writes upon Bohemian paper and prefers wearing a mask to showing his face .
+210,WORCESTER,GPE,1,"STONE GATE , WORCESTER , MASSACHUSETTS ,"
+210,MASSACHUSETTS,GPE,1,", WORCESTER , MASSACHUSETTS , December 27"
+211,the,FAC,1,making over of the John Grier Home
+211,John Grier,PER,2,over of the John Grier Home into a
+212,Sallie McBride,PER,2,"-- I , Sallie McBride , the head"
+212,the head of,PER,3,"Sallie McBride , the head of an orphan asylum"
+212,an,FAC,1,the head of an orphan asylum !
+212,orphan,PER,1,head of an orphan asylum !
+214,the curator of,PER,3,as to become the curator of a zoo .
+214,a zoo,FAC,2,the curator of a zoo .
+215,an interesting Scotch doctor,PER,4,offer as bait an interesting Scotch doctor ? My dear
+215,My dear,PER,2,"Scotch doctor ? My dear Judy , --"
+215,Judy,PER,1,"? My dear Judy , -- likewise"
+215,my dear,PER,2,", -- likewise my dear Jervis , --"
+215,Jervis,PER,1,"likewise my dear Jervis , -- I"
+221,the,FAC,1,in charge of the John Grier Home
+221,John Grier,PER,2,charge of the John Grier Home .
+222,there,FAC,1,if I were there !
+223,your delectable household,FAC,3,last visit in your delectable household Jervis and I
+223,Jervis,PER,1,your delectable household Jervis and I had
+224,the inmates of,PER,3,reading poetry with the inmates of the Female Inebriate
+224,the Female Inebriate Asylum,FAC,4,the inmates of the Female Inebriate Asylum .
+225,the politician,PER,2,assure you that the politician is not dangerously
+225,a very desirable politician,PER,4,", he is a very desirable politician , even though"
+226,the asylum,ORG,2,at it from the asylum 's point of
+232,a successor to,PER,3,but only as a successor to Mrs. Lippett .
+234,Gordon Hallock,PER,2,young politician named Gordon Hallock is to be
+237,THE,FAC,1,THE JOHN GRIER HOME
+237,JOHN GRIER,PER,2,"THE JOHN GRIER HOME , February"
+237,Jane,PER,1,", Singapore and Jane and I ."
+238,superintendents of,PER,2,be customary for superintendents of orphan asylums to
+238,orphan,PER,1,for superintendents of orphan asylums to bring
+239,The night watchman,PER,3,"The night watchman and housekeeper ,"
+241,the watchman,PER,2,"dogginess , and the watchman , after studying"
+243,a strange woodshed,FAC,3,"off whimpering to a strange woodshed , and given"
+247,the rest of,PER,3,being popular with the rest of the staff .
+247,the staff,PER,2,the rest of the staff .
+248,here,FAC,1,Having her here is the silliest
+252,the lavatory,FAC,2,girls made in the lavatory over my head
+253,a pool,FAC,2,twenty-five puppies in a pool .
+254,the place,FAC,2,come to look the place over before I
+255,the dining room,FAC,3,so I sought the dining room .
+257,The trustee who added that last touch,PER,7,The trustee who added that last touch must possess a
+259,a mother,PER,2,they need is a mother apiece .
+260,that scurrilous Gordon Hallock,PER,4,"think , because that scurrilous Gordon Hallock laughed so uproariously"
+260,an asylum,FAC,2,able to manage an asylum .
+262,here,FAC,1,at finding myself here ; it 's
+263,their three or four hundred children,PER,6,say nothing of their three or four hundred children and thousand grandchildren
+263,thousand grandchildren,PER,2,hundred children and thousand grandchildren .
+267,The staff,PER,2,LATER . The staff had mutton hash
+268,the children,PER,2,What the children had I hate
+269,the,FAC,1,to come to the John Grier Home
+269,John Grier,PER,2,come to the John Grier Home through the
+269,Mr. Jervis Pendleton,PER,3,"the generosity of Mr. Jervis Pendleton , the president"
+269,the president of our board of,PER,6,"Jervis Pendleton , the president of our board of trustees , and"
+269,trustees,PER,1,"our board of trustees , and of"
+269,Mrs. Pendleton,PER,2,", and of Mrs. Pendleton , the dear"
+269,"the dear "" Aunt Judy "" of",PER,7,"Mrs. Pendleton , the dear "" Aunt Judy "" of every little boy"
+269,every little boy and girl,PER,5,"Judy "" of every little boy and girl here ."
+269,here,FAC,1,boy and girl here .
+270,the Pendleton family,PER,3,to my featuring the Pendleton family so prominently .
+271,the entire working staff of,PER,5,reasons . As the entire working staff of the institution was
+271,the institution,FAC,2,"working staff of the institution was present ,"
+272,The children,PER,2,The children stopped eating and
+272,a superintendent,PER,2,new attributes in a superintendent .
+274,Jervis,PER,1,have n't seen Jervis 's wonderful Scotch
+274,the rest of these people,PER,5,"make up for the rest of these people , especially the"
+274,the kindergarten teacher,PER,3,"people , especially the kindergarten teacher ."
+276,the children,PER,2,playroom closed and the children out of doors
+282,village,GPE,1,one that the village drug store contained
+283,the babies,PER,2,wide open in the babies ' dormitory .
+287,the babies,PER,2,the windows in the babies ' dormitory !
+288,an old ladies,PER,3,"for her in an old ladies ' home ,"
+289,THE CONSUL,PER,2,CHAPTER I THE CONSUL ’S YARN A
+289,my poor boy,PER,3,"the funeral of my poor boy Harry , and"
+289,Harry,PER,1,"my poor boy Harry , and one"
+290,the steps,FAC,2,Going down the steps I opened it
+290,my old friends,PER,3,and in came my old friends Sir Henry Curtis
+290,Sir Henry Curtis,PER,3,my old friends Sir Henry Curtis and Captain John
+291,the vestibule,FAC,2,They entered the vestibule and sat themselves
+294,a splendid-looking man,PER,3,"thought , What a splendid-looking man he is !"
+295,a magnificent specimen of the higher type of humanity,PER,9,hair -- altogether a magnificent specimen of the higher type of humanity .
+297,a tall man,PER,3,strike one as a tall man .
+298,my little dried-up self,PER,4,a curious contrast my little dried-up self presented to his
+299,"a small , withered , yellow-faced man of sixty-three , with thin hands , large brown eyes , a head of grizzled hair cut short and standing up like a half-worn scrubbing-brush",PER,32,"Imagine to yourself a small , withered , yellow-faced man of sixty-three , with thin hands , large brown eyes , a head of grizzled hair cut short and standing up like a half-worn scrubbing-brush -- total weight"
+299,the natives,PER,2,", or by the natives ‘ Macumazahn ’"
+299,a sharp fellow who is not to be taken in,PER,10,"vulgar English , a sharp fellow who is not to be taken in ."
+305,an eighteen-month-old baby,PER,3,though I were an eighteen-month-old baby .
+306,Curtis,PER,1,All this while Curtis and Good had
+306,Good,PER,1,while Curtis and Good had been silent
+313,the veldt,LOC,2,going back to the veldt . ’ Sir
+314,Good,PER,1,"‘ eh , Good ?"
+326,the squire,PER,2,more except play the squire in a country
+326,a country that is sick of,GPE,6,the squire in a country that is sick of squires .
+326,squires,PER,1,is sick of squires .
+329,the victim of an almost unaccountable craving,PER,7,I have become the victim of an almost unaccountable craving .
+333,a fool,PER,2,that I am a fool for my pains
+335,no wife,PER,2,"I have no wife or parent ,"
+336,my brother,PER,2,will go to my brother George and his
+336,George,PER,1,to my brother George and his boy
+339,Good,PER,1,"And now , Good , what is"
+341,a lady,PER,2,it is n’t a lady -- at least
+342,Good,PER,1,him again . Good is so overpoweringly
+344,Good,PER,1,"Shut up , Good ! ’ said"
+348,the place,LOC,2,"Do n’t know the place , ’ said"
+349,Island of Lamu,LOC,3,hear of the Island of Lamu ?
+350,a place about 300 miles north of,LOC,7,is n’t it a place about 300 miles north of Zanzibar ?
+352,Mt Kenia,LOC,2,miles inland to Mt Kenia ; from Mt
+352,no white man,PER,3,", beyond which no white man has to the"
+352,the unknown interior,LOC,3,right on into the unknown interior .
+359,you fellows,PER,2,If you fellows like to come
+362,the other place with an unpronounceable name,GPE,7,"Mt Kenia and the other place with an unpronounceable name , and look"
+364,the British India steamboat,VEH,4,", ‘ by the British India steamboat ; and do"
+365,King Solomon,PER,2,Remember King Solomon ’s mines !
+366,THE PLACE WHERE,FAC,3,I TREATS OF THE PLACE WHERE OLIVER TWIST WAS
+366,OLIVER TWIST,PER,2,THE PLACE WHERE OLIVER TWIST WAS BORN AND
+366,a certain town,GPE,3,"public buildings in a certain town , which for"
+366,a workhouse,FAC,2,"to wit , a workhouse ; and in"
+367,this world of sorrow and trouble,LOC,6,"was ushered into this world of sorrow and trouble , by the"
+367,the parish,FAC,2,"trouble , by the parish surgeon , it"
+367,the child,PER,2,considerable doubt whether the child would survive to
+367,country,GPE,1,any age or country .
+368,a workhouse,FAC,2,"being born in a workhouse , is in"
+368,a human being,PER,3,"can possibly befall a human being , I do"
+371,"pauper old woman , who was rendered rather misty by an unwonted allowance of beer",PER,15,", but a pauper old woman , who was rendered rather misty by an unwonted allowance of beer ; and a"
+371,a parish,FAC,2,beer ; and a parish surgeon who did
+372,the inmates of,PER,3,to advertise to the inmates of the workhouse the
+372,the workhouse,FAC,2,the inmates of the workhouse the fact of
+372,"a male infant who had not been possessed of that very useful appendage , a voice , for a much longer space of time than three minutes and a quarter",PER,30,"been expected from a male infant who had not been possessed of that very useful appendage , a voice , for a much longer space of time than three minutes and a quarter ."
+373,a young woman,PER,3,pale face of a young woman was raised feebly
+373,the child,PER,2,"Let me see the child , and die"
+374,The surgeon,PER,2,' The surgeon had been sitting
+375,the young woman,PER,3,"As the young woman spoke , he"
+376,the nurse,PER,2,"! ' interposed the nurse , hastily depositing"
+378,a mother,PER,2,"is to be a mother , there 's"
+379,a mother,PER,2,consolatory perspective of a mother 's prospects failed
+380,The patient,PER,2,The patient shook her head
+380,the child,PER,2,her hand towards the child .
+381,The surgeon,PER,2,The surgeon deposited it in
+384,the surgeon,PER,2,! ' said the surgeon at last .
+385,the child,PER,2,to take up the child .
+386,the child,PER,2,"me , if the child cries , nurse"
+386,the surgeon,PER,2,", ' said the surgeon , putting on"
+388,a good-looking girl,PER,3,"' She was a good-looking girl , too ;"
+389,the overseer,PER,2,", ' by the overseer 's order ."
+390,the street,FAC,2,found lying in the street . She had
+391,The surgeon,PER,2,' The surgeon leaned over the
+391,the body,PER,2,"surgeon leaned over the body , and raised"
+393,The medical gentleman,PER,3,Good-night ! ' The medical gentleman walked away to
+393,the nurse,PER,2,"dinner ; and the nurse , having once"
+393,the infant,PER,2,proceeded to dress the infant .
+395,the child of,PER,3,might have been the child of a nobleman or
+395,a nobleman or a,PER,4,the child of a nobleman or a beggar ; it
+395,beggar,PER,1,nobleman or a beggar ; it would
+396,a parish,FAC,2,at once -- a parish child -- the
+396,the orphan of,PER,3,parish child -- the orphan of a workhouse --
+396,a workhouse,FAC,2,the orphan of a workhouse -- the humble
+396,"the humble , half-starved drudge",PER,5,"a workhouse -- the humble , half-starved drudge -- to be"
+397,"an orphan , left to the tender mercies of",PER,9,"that he was an orphan , left to the tender mercies of church-wardens and overseers"
+397,church-wardens,ORG,1,"tender mercies of church-wardens and overseers ,"
+399,the infant orphan,PER,3,destitute situation of the infant orphan was duly reported
+399,the workhouse,FAC,2,duly reported by the workhouse authorities to the
+399,the parish,FAC,2,workhouse authorities to the parish authorities .
+400,The parish,FAC,2,The parish authorities inquired with
+400,the workhouse,FAC,2,"with dignity of the workhouse authorities , whether"
+400,no female then domiciled in ',PER,6,whether there was no female then domiciled in ' the house '
+400,the house,FAC,2,domiciled in ' the house ' who was
+401,The workhouse,FAC,2,The workhouse authorities replied with
+402,the parish,FAC,2,"Upon this , the parish authorities magnanimously and"
+402,a branch-workhouse some three miles off,FAC,6,"be dispatched to a branch-workhouse some three miles off , where twenty"
+402,an elderly female,PER,3,"parental superintendence of an elderly female , who received"
+402,the culprits,PER,2,", who received the culprits at and for"
+403,a child,PER,2,round diet for a child ; a great
+404,The elderly female,PER,3,The elderly female was a woman
+404,a woman of wisdom and experience,PER,6,elderly female was a woman of wisdom and experience ; she knew
+405,the rising parochial generation,PER,4,", and consigned the rising parochial generation to even a"
+406,a very great experimental philosopher,PER,5,and proving herself a very great experimental philosopher .
+408,the female to whose protecting care,PER,6,experimental philosophy of the female to whose protecting care Oliver Twist was
+408,Oliver Twist was delivered over,PER,5,"whose protecting care Oliver Twist was delivered over , a similar"
+408,the child,PER,2,very moment when the child had contrived to
+408,the miserable little being,PER,4,"which cases , the miserable little being was usually summoned"
+408,the fathers it had never known in this,PER,8,there gathered to the fathers it had never known in this .
+409,a parish,FAC,2,interesting inquest upon a parish child who had
+409,the jury,PER,2,the farm -- the jury would take it
+409,the parishioners,PER,2,"questions , or the parishioners would rebelliously affix"
+410,the surgeon,PER,2,"the evidence of the surgeon , and the"
+410,the beadle,PER,2,the testimony of the beadle ; the former
+410,the body,PER,2,had always opened the body and found nothing
+410,the parish,FAC,2,invariably swore whatever the parish wanted ; which
+411,the board,PER,2,"Besides , the board made periodical pilgrimages"
+411,the beadle,PER,2,and always sent the beadle the day before
+412,The children,PER,2,The children were neat and
+412,the people,PER,2,what more would the people have !
+413,The first place that I can well remember,LOC,8,My Early Home The first place that I can well remember was a large
+413,a large pleasant meadow with,LOC,5,well remember was a large pleasant meadow with a pond of
+413,a pond of clear water in it,LOC,7,pleasant meadow with a pond of clear water in it .
+415,a plowed field,FAC,3,"we looked into a plowed field , and on"
+415,"our master ’s house , which stood by the roadside",FAC,10,"a gate at our master ’s house , which stood by the roadside ; at the"
+415,the meadow,LOC,2,the top of the meadow was a grove
+415,a grove of fir trees,LOC,5,"the meadow was a grove of fir trees , and at"
+415,a running brook overhung by a steep bank,LOC,8,at the bottom a running brook overhung by a steep bank .
+418,the pond,LOC,2,to stand by the pond in the shade
+418,a nice warm shed near,FAC,5,cold we had a nice warm shed near the grove .
+418,the grove,LOC,2,warm shed near the grove .
+420,six young colts,PER,3,There were six young colts in the meadow
+420,the meadow,LOC,2,young colts in the meadow besides me ;
+421,the field,LOC,2,round and round the field as hard as
+424,The colts who live here,PER,5,The colts who live here are very good
+424,very good colts,PER,3,"live here are very good colts , but they"
+424,cart-horse colts,PER,2,"but they are cart-horse colts , and of"
+425,Newmarket,GPE,1,years at the Newmarket races ; your
+425,any horse I ever knew,PER,5,"sweetest temper of any horse I ever knew , and I"
+427,a wise old horse,PER,4,"knew she was a wise old horse , and our"
+428,Pet,PER,1,often called her Pet .
+429,"a good , kind man",PER,5,"Our master was a good , kind man . He gave"
+434,All the horses,PER,3,All the horses would come to
+436,a plowboy,PER,2,"There was a plowboy , Dick ,"
+436,Dick,PER,1,"a plowboy , Dick , who sometimes"
+437,the colts,PER,2,"called fun with the colts , throwing stones"
+439,the master,PER,2,not know that the master was in the
+439,the next field,LOC,3,master was in the next field ; but he
+439,there,LOC,1,"but he was there , watching what"
+440,the master,PER,2,as we saw the master we trotted up
+442,the colts,PER,2,to chase the colts . This is
+444,Old Daniel,PER,2,"any more . Old Daniel , the man"
+444,the man who looked after,PER,5,"Old Daniel , the man who looked after the horses ,"
+444,the horses,PER,2,"who looked after the horses , was just"
+446,the woods,LOC,2,still hung over the woods and meadows .
+446,meadows,LOC,1,the woods and meadows .
+447,the other colts,PER,3,I and the other colts were feeding at
+448,The oldest of,PER,3,The oldest of the colts raised
+448,the colts,PER,2,The oldest of the colts raised his head
+450,an old riding horse of,PER,5,My mother and an old riding horse of our master ’s
+450,our master ’s,PER,3,riding horse of our master ’s were also standing
+455,a number of men on horseback,PER,6,"After them came a number of men on horseback , some of"
+455,some of them,PER,3,"on horseback , some of them in green coats"
+456,The old horse,PER,3,The old horse snorted and looked
+456,we young colts,PER,3,"them , and we young colts wanted to be"
+456,the fields lower down,LOC,4,soon away into the fields lower down ; here it
+456,here,LOC,1,lower down ; here it seemed as
+457,the old horse,PER,3,", ” said the old horse ; “ perhaps"
+459,the woods,LOC,2,hares out of the woods ; any hare
+460,the brook,LOC,2,and hedge overhang the brook .
+461,the woods,LOC,2,and made for the woods .
+462,the stream,LOC,2,"bank , leaped the stream , and came"
+462,the field,LOC,2,came dashing across the field followed by the
+462,the huntsmen,PER,2,field followed by the huntsmen .
+464,the road,FAC,2,"to make for the road , but it"
+465,One of,PER,2,One of the huntsmen rode
+465,the huntsmen,PER,2,One of the huntsmen rode up and
+467,the brook,LOC,2,going on by the brook ; but when
+467,two fine horses,PER,3,"sad sight ; two fine horses were down ,"
+467,the stream,LOC,2,"was struggling in the stream , and the"
+467,the grass,LOC,2,was groaning on the grass .
+468,One of,PER,2,One of the riders was
+468,the riders,PER,2,One of the riders was getting out
+468,the water,LOC,2,getting out of the water covered with mud
+470,one of,PER,2,", ” said one of the colts ."
+470,the colts,PER,2,said one of the colts .
+472,an old horse,PER,3,"though I am an old horse , and have"
+472,good horses,PER,2,", often spoil good horses , and tear"
+472,the fields,LOC,2,"and tear up the fields , and all"
+472,horses,PER,1,"we are only horses , and do"
+474,the riders,PER,2,Many of the riders had gone to
+474,the young man,PER,3,had gone to the young man ; but my
+474,"my master , who had been watching what was going on",PER,11,"man ; but my master , who had been watching what was going on , was the"
+477,our master,PER,2,carried him to our master ’s house .
+477,young George Gordon,PER,3,"that it was young George Gordon , the squire"
+477,the squire ’s only son,PER,5,"George Gordon , the squire ’s only son , a fine"
+477,"a fine , tall young man",PER,6,"only son , a fine , tall young man , and the"
+477,the pride of,PER,3,"man , and the pride of his family ."
+478,the doctor,PER,2,"all directions to the doctor ’s , to"
+478,the farrier,PER,2,"’s , to the farrier ’s , and"
+479,Mr. Bond,PER,2,"When Mr. Bond , the farrier"
+479,the farrier,PER,2,"Mr. Bond , the farrier , came to"
+479,the black horse that lay groaning on the grass,PER,9,"to look at the black horse that lay groaning on the grass , he felt"
+480,our master,PER,2,one ran to our master ’s house and
+480,the black horse,PER,3,was still ; the black horse moved no more
+481,that horse,PER,2,"she had known that horse for years ,"
+481,“ Rob Roy ”,PER,4,his name was “ Rob Roy ” ; he was
+481,a good horse,PER,3,"; he was a good horse , and there"
+484,The _ Lusitania _,VEH,4,The _ Lusitania _ had been struck
+484,the boats,VEH,2,"rapidly , while the boats were being launched"
+485,The women,PER,2,The women and children were
+489,A man,PER,2,pardon . ” A man ’s voice beside
+490,the speaker,PER,2,She had noticed the speaker more than once
+490,the first-class passengers,PER,3,than once amongst the first-class passengers .
+495,the kind of man who would be afraid to meet death,PER,11,strike her as the kind of man who would be afraid to meet death !
+499,an American,PER,2,“ You are an American ?
+500,A patriotic one,PER,3,. ” “ A patriotic one ? ” The
+500,The girl,PER,2,one ? ” The girl flushed .
+504,a woman,PER,2,it must be a woman .
+510,The girl,PER,2,” The girl held out her
+514,The girl,PER,2,” The girl smiled . “
+516,Shipmate,PER,1,", beginning ‘ Shipmate ."
+518,the American Embassy,FAC,3,"the packet to the American Embassy , and deliver"
+523,The _ Lusitania _,VEH,4,The _ Lusitania _ settled with a
+524,the girl,PER,2,"quick command , the girl went forward to"
+524,the boat,VEH,2,her place in the boat .
+525,THE YOUNG ADVENTURERS,PER,3,"CHAPTER I . THE YOUNG ADVENTURERS , LTD ."
+525,old thing,PER,2,"“ TOMMY , old thing !"
+526,Tuppence,PER,1,"” “ Tuppence , old bean"
+526,old bean,PER,2,"“ Tuppence , old bean ! ” The"
+526,The two young people,PER,4,bean ! ” The two young people greeted each other
+526,the Dover Street Tube,FAC,4,and momentarily blocked the Dover Street Tube exit in doing
+528,the young man,PER,3,", ” continued the young man ."
+530,the gangway,FAC,2,here -- blocking the gangway as it were
+531,The girl,PER,2,"it . ” The girl assenting , they"
+536,a shocking liar,PER,3,"You always were a shocking liar , ” said"
+536,the doctor,PER,2,Sister Greenbank that the doctor had ordered you
+538,the old cat,PER,3,Was n’t the old cat in a rage
+539,old,PER,1,"sort really , old Mother Greenbank !"
+539,Mother Greenbank,PER,2,"really , old Mother Greenbank !"
+545,Here,FAC,1,Here we are at
+545,Lyons ’,FAC,2,"we are at Lyons ’ , and we"
+547,The place,FAC,2,"The place was full ,"
+548,the flat,FAC,2,could n’t have the flat after all .
+551,two Johnnies,PER,2,“ I passed two Johnnies in the street
+551,the street,FAC,2,two Johnnies in the street to-day talking about
+551,some one,PER,2,to-day talking about some one called Jane Finn
+551,Jane Finn,PER,2,some one called Jane Finn .
+556,a gentleman,PER,2,the face of a gentleman and a sportsman
+556,a sportsman,PER,2,a gentleman and a sportsman .
+558,an essentially modern-looking couple,PER,4,They were an essentially modern-looking couple as they sat
+565,Miss Prudence Cowley,PER,3,"Abridged biography of Miss Prudence Cowley , fifth daughter"
+565,fifth daughter of,PER,3,"Prudence Cowley , fifth daughter of Archdeacon Cowley of"
+565,Archdeacon Cowley of,PER,3,"fifth daughter of Archdeacon Cowley of Little Missendell ,"
+565,Little Missendell,GPE,2,"Archdeacon Cowley of Little Missendell , Suffolk ."
+565,Suffolk,GPE,1,"Little Missendell , Suffolk ."
+566,home,FAC,1,) of her home life early in
+566,an officers ’ hospital,FAC,4,where she entered an officers ’ hospital .
+570,the Sisters,PER,2,to waiting on the Sisters !
+574,a friend of my childhood,PER,5,where I found a friend of my childhood in Lieutenant Thomas
+576,one of,PER,2,"in company with one of the patients ,"
+576,the patients,PER,2,"with one of the patients , namely :"
+576,the aforementioned Lieutenant,PER,3,", namely : the aforementioned Lieutenant Thomas Beresford ."
+576,Thomas Beresford,PER,2,the aforementioned Lieutenant Thomas Beresford .
+579,the talented Miss Cowley,PER,4,"After that , the talented Miss Cowley drove successively a"
+579,a trade delivery van,VEH,4,"Cowley drove successively a trade delivery van , a motor-lorry"
+579,a motor-lorry,VEH,2,"delivery van , a motor-lorry and a general"
+579,a general,VEH,2,a motor-lorry and a general !
+580,a young general,PER,3,He was quite a young general !
+582,those brass hats,PER,3,sickening the way those brass hats drove from the
+582,the _ Savoy _,FAC,4,", and from the _ Savoy _ to the War"
+586,a land girl,PER,3,"intended to become a land girl , a postwoman"
+586,a postwoman,PER,2,"land girl , a postwoman , and a"
+586,a,PER,1,"postwoman , and a bus conductress by"
+586,bus,VEH,1,", and a bus conductress by way"
+592,there,GPE,1,kicked my heels there some time longer
+597,THE READER,PER,2,PROPER TO ACQUAINT THE READER WITH IN THE
+599,An author,PER,2,An author ought to consider
+599,a gentleman who gives a private or eleemosynary treat,PER,9,", not as a gentleman who gives a private or eleemosynary treat , but rather"
+599,one who keeps a public ordinary,PER,6,"but rather as one who keeps a public ordinary , at which"
+600,the entertainer,PER,2,well known that the entertainer provides what fare
+600,his company,PER,2,"the taste of his company , they must"
+601,the master of an ordinary,PER,5,this happens to the master of an ordinary .
+602,Men who pay for what they eat,PER,7,Men who pay for what they eat will insist on
+603,the house,FAC,2,first entrance into the house ; and having
+604,any man who is capable of lending us either,PER,9,"or wisdom from any man who is capable of lending us either , we have"
+604,the reader,PER,2,shall likewise give the reader particular bills to
+607,the alderman of,PER,3,"tortoise -- as the alderman of Bristol , well"
+607,Bristol,GPE,1,"the alderman of Bristol , well learned"
+607,the learned reader,PER,3,"; nor can the learned reader be ignorant ,"
+607,a cook,PER,2,"variety , that a cook will have sooner"
+607,the world,LOC,2,"vegetable food in the world , than an"
+607,an author,PER,2,"world , than an author will be able"
+609,the epicure,PER,2,"be rejected by the epicure , if it"
+609,the most paltry alleys under the same name,FAC,8,be found in the most paltry alleys under the same name .
+610,the shops,FAC,2,be found in the shops .
+611,the author,PER,2,"the cookery of the author ; for ,"
+612,a duke,PER,2,"the table of a duke , may perhaps"
+613,the nobleman,PER,2,the food of the nobleman and the porter
+613,the porter,PER,2,"the nobleman and the porter , if both"
+615,the author,PER,2,subject than in the author 's skill in
+616,the reader,PER,2,"therefore , will the reader be to find"
+618,the country,LOC,2,"is found in the country , and shall"
+618,courts,FAC,1,and vice which courts and cities afford
+619,the great person just above-mentioned,PER,5,"ever , as the great person just above-mentioned is supposed to"
+620,those who like our bill of fare,PER,7,will now detain those who like our bill of fare no longer from
+621,Miss Bridget Allworthy,PER,3,"fuller account of Miss Bridget Allworthy , his sister"
+621,his sister,PER,2,"Bridget Allworthy , his sister ."
+622,that part of,LOC,3,In that part of the western division
+622,the western division of,LOC,4,that part of the western division of this kingdom which
+622,gentleman,PER,1,"still , a gentleman whose name was"
+622,Allworthy,PER,1,"whose name was Allworthy , and who"
+622,the favourite of both nature and fortune,PER,7,well be called the favourite of both nature and fortune ; for both
+624,the county,GPE,2,largest estates in the county .
+625,his youth,PER,2,gentleman had in his youth married a very
+625,a very worthy and beautiful woman,PER,6,"his youth married a very worthy and beautiful woman , of whom"
+627,a man of sense and constancy,PER,6,"he bore like a man of sense and constancy , though it"
+627,a place where he should never part with her more,FAC,10,her again in a place where he should never part with her more -- sentiments for
+629,the malicious,PER,2,"the opinion of the malicious , the title"
+630,"that species of women whom you commend rather for good qualities than beauty , and who are generally called , by their own sex ,",PER,25,"She was of that species of women whom you commend rather for good qualities than beauty , and who are generally called , by their own sex , very good sort"
+630,woman,PER,1,"a sort of woman , madam ,"
+632,a woman,PER,2,of person in a woman to be no
+632,her whole sex,PER,3,ever laid for her whole sex .
+633,the reader,PER,2,"seem unaccountable to the reader , that this"
+634,"those paragons for whom the men are all wishing , sighing , dying , and spreading every net in their power",PER,21,"and cowardly deserts those paragons for whom the men are all wishing , sighing , dying , and spreading every net in their power ; and constantly"
+634,that higher order of women,PER,5,the heels of that higher order of women for whom the
+634,the other sex,PER,3,women for whom the other sex have a more
+635,a better judge than,PER,4,I am myself a better judge than any pitiful critic
+638,no family,PER,2,"heart , and no family ."
+639,an honest man,PER,3,"he lived like an honest man , owed no"
+639,a good house,FAC,3,"own , kept a good house , entertained his"
+639,an hospital,FAC,2,rich and built an hospital .
+640,Mary,PER,1,"CHAP . I. Mary , the heroine"
+640,the heroine of this fiction,PER,5,"I. Mary , the heroine of this fiction , was the"
+640,the daughter of,PER,3,"fiction , was the daughter of Edward , who"
+640,"Edward , who married",PER,4,"the daughter of Edward , who married Eliza , a"
+640,Eliza,PER,1,", who married Eliza , a gentle"
+640,"a gentle , fashionable girl",PER,5,"married Eliza , a gentle , fashionable girl , with a"
+643,"an officer , whom she faintly wished to be united to",PER,11,"she danced with an officer , whom she faintly wished to be united to ; but her"
+643,another in a more distinguished rank of life,PER,8,"soon after recommending another in a more distinguished rank of life , she readily"
+643,a vicious fool,PER,3,"obey , ( a vicious fool , ) as"
+644,a delightful country,LOC,3,"year , in a delightful country , where Nature"
+644,the master,PER,2,"around ; for the master , with brute"
+645,his pretty tenants,PER,3,visit some of his pretty tenants ; and when
+645,a _ gourmand _,PER,4,to say which a _ gourmand _ would give the
+648,that horrid place vulgarly called _,LOC,6,": she dreaded that horrid place vulgarly called _ hell _ ,"
+648,hell _,LOC,2,"vulgarly called _ hell _ , the regions"
+648,the regions below,LOC,3,"hell _ , the regions below ; but whether"
+656,the swain,PER,2,", which caught the swain by the upper-garment"
+657,a knight-errant,PER,2,new kind of a knight-errant into the world
+657,the world,LOC,2,a knight-errant into the world .
+658,the sleeping lover,PER,3,hornet settling on the sleeping lover 's face .
+659,a lover,PER,2,there was not a lover to weep in
+660,the fair peruser,PER,3,"interesting , that the fair peruser should beg the"
+660,the hair-dresser,PER,2,peruser should beg the hair-dresser to settle the
+663,a person,PER,2,_ which makes a person take pleasure in
+664,the world,LOC,2,"; she feared the world , and was"
+664,the lovers,PER,2,as she accompanied the lovers to the lonely
+664,the lonely arbors,LOC,3,"the lovers to the lonely arbors , and would"
+668,a son,PER,2,"she brought forth a son , a feeble"
+668,a feeble babe,PER,3,"a son , a feeble babe ; and the"
+668,a daughter,PER,2,the following year a daughter .
+669,the mother,PER,2,After the mother 's throes she
+669,the children,PER,2,maternal tenderness : the children were given to
+671,Her children,PER,2,Her children all died in
+671,the son,PER,2,"grow fond of the son , as he"
+673,her station,FAC,2,the duties of her station occur to her
+674,Mary,PER,1,"; and when Mary , the little"
+674,the little blushing girl,PER,4,"when Mary , the little blushing girl , appeared ,"
+674,the awkward thing,PER,3,she would send the awkward thing away .
+675,a house,FAC,2,"enough , in a house without any play-mates"
+675,the garden,FAC,2,"would ramble about the garden , admire the"
+676,An old house-keeper,PER,3,An old house-keeper told her stories
+677,a governess,PER,2,of enquiring for a governess when her health
+677,own maid,PER,2,interim desired her own maid to teach her
+680,angels,PER,1,", and that angels sometimes visited this"
+681,a thick wood,LOC,3,would sit in a thick wood in the park
+683,a fine tall girl,PER,4,wish to have a fine tall girl brought forward into
+688,the gloomy path,FAC,3,"and ramble through the gloomy path , observing the"
+688,the sea that was not far distant,LOC,7,and listen to the sea that was not far distant .
+689,her constant friends,PER,3,"nature , were her constant friends and confidants ."
+689,confidants,PER,1,constant friends and confidants .
+690,the Great First Cause,PER,4,"began to consider the Great First Cause , formed just"
+691,a new world,LOC,3,have sought out a new world .

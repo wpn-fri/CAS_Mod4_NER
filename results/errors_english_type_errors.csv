@@ -1,43 +1,33 @@
 example_idx,entity,true_type,pred_type,length,context
+0,Chancery,FAC,GPE,1,CHAPTER I In Chancery London . Michaelmas
 14,heaven,FAC,LOC,1,the sight of heaven and earth .
+20,every shire,LOC,GPE,2,"blighted lands in every shire , which has"
 20,every madhouse,LOC,FAC,2,worn-out lunatic in every madhouse and its dead
-23,Jarndyce,PER,GPE,1,ever falls from Jarndyce and Jarndyce (
-23,Jarndyce,PER,GPE,1,from Jarndyce and Jarndyce ( the cause
-25,the curtained sanctuary,LOC,FAC,3,"to peer into the curtained sanctuary , is a"
 35,Jarndyce,PER,GPE,1,made parties in Jarndyce and Jarndyce without
 35,Jarndyce,PER,GPE,1,in Jarndyce and Jarndyce without knowing how
-40,Chancery,FAC,GPE,1,Every master in Chancery has had a
 44,Jarndyce,PER,GPE,1,"we get through Jarndyce and Jarndyce ,"
 44,Jarndyce,PER,GPE,1,"through Jarndyce and Jarndyce , Mr. Blowers"
 46,Jarndyce,PER,GPE,1,dusty warrants in Jarndyce and Jarndyce have
 46,Jarndyce,PER,GPE,1,in Jarndyce and Jarndyce have grimly writhed
-46,the Six Clerks ' Office,FAC,ORG,5,the copying-clerk in the Six Clerks ' Office who has copied
-207,the park,FAC,LOC,2,"thick wood in the park , and talk"
-212,Heaven,LOC,FAC,1,"prayers rose to Heaven for pardon ,"
-276,one of,PER,FAC,2,recent services to one of the royal houses
-276,the royal houses of,PER,FAC,4,to one of the royal houses of Europe have shown
-296,Eglow,GPE,PER,1,""" Eglow , Eglonitz --"
-296,Eglonitz,GPE,PER,1,""" Eglow , Eglonitz -- here we"
-296,Egria,GPE,PER,1,"we are , Egria ."
-325,the asylum,ORG,FAC,2,at it from the asylum 's point of
-337,orphan,PER,FAC,1,for superintendents of orphan asylums to bring
-352,a pool,FAC,LOC,2,twenty-five puppies in a pool .
-390,a plowed field,FAC,LOC,3,"we looked into a plowed field , and on"
-414,the next field,LOC,FAC,3,master was in the next field ; but he
-414,there,LOC,FAC,1,"but he was there , watching what"
-480,the green bank,LOC,FAC,3,we went up the green bank to the house
-500,the world,PER,LOC,2,and I met the world -- the bachelor
-500,the bachelor world,PER,LOC,3,the world -- the bachelor world -- flocking to
-515,home,GPE,FAC,1,"tie us to home , to England"
-517,the country where they abide,LOC,GPE,5,of gold to the country where they abide .
-519,home,LOC,FAC,1,and call it home .
-547,courts,FAC,ORG,1,and vice which courts and cities afford
-547,cities,FAC,GPE,1,which courts and cities afford .
-590,Kukuanaland,LOC,GPE,1,got back from Kukuanaland ?
-608,Kukuanaland,LOC,GPE,1,always dreaming of Kukuanaland and Gagool and
-608,Gagool,PER,GPE,1,of Kukuanaland and Gagool and King Solomon
-612,Kukuanaland,LOC,GPE,1,together up in Kukuanaland seems to me
-630,a place about 300 miles north of,LOC,GPE,7,is n’t it a place about 300 miles north of Zanzibar ?
-632,Lamu,LOC,GPE,1,we go to Lamu and thence make
-642,Mt Kenia,GPE,LOC,2,’s go to Mt Kenia and the other
-677,church-wardens,ORG,PER,1,"tender mercies of church-wardens and overseers ,"
+48,Jarndyce,PER,GPE,1,themselves out of Jarndyce and Jarndyce .
+48,Jarndyce,PER,GPE,1,of Jarndyce and Jarndyce .
+69,rider,PER,VEH,1,a horse and rider emerge from the
+109,home,GPE,FAC,1,"tie us to home , to England"
+113,home,LOC,FAC,1,and call it home .
+136,Baker Street,FAC,LOC,2,led me through Baker Street .
+197,Eglow,GPE,PER,1,""" Eglow , Eglonitz --"
+197,Egria,GPE,PER,1,"we are , Egria ."
+216,Pendleton,PER,FAC,1,held about the Pendleton fireside .
+310,Kukuanaland,LOC,GPE,1,got back from Kukuanaland ?
+328,Kukuanaland,LOC,GPE,1,always dreaming of Kukuanaland and Gagool and
+328,Gagool,PER,GPE,1,of Kukuanaland and Gagool and King Solomon
+332,Kukuanaland,LOC,GPE,1,together up in Kukuanaland seems to me
+352,Lamu,LOC,GPE,1,we go to Lamu and thence make
+352,Mt Kenia,LOC,GPE,2,Kenia ; from Mt Kenia on inland to
+362,Mt Kenia,GPE,LOC,2,’s go to Mt Kenia and the other
+531,Dover Street,FAC,LOC,2,started walking down Dover Street towards Piccadilly .
+531,Piccadilly,FAC,LOC,1,Dover Street towards Piccadilly .
+618,cities,FAC,ORG,1,which courts and cities afford .
+628,the country,LOC,GPE,2,", retired in the country , with one"
+681,the park,FAC,LOC,2,"thick wood in the park , and talk"
+686,Heaven,LOC,FAC,1,"prayers rose to Heaven for pardon ,"

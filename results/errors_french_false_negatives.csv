@@ -1,641 +1,1213 @@
 example_idx,entity,true_type,length,context
-0,une aventure,TIME,2,"de Cassini , une aventure qui fit beaucoup"
-2,Une chaise de poste,VEH,4,Une chaise de poste entra dans la
-3,femme,PER,1,Une voix de femme demanda des chevaux
-3,des chevaux,VEH,2,"de femme demanda des chevaux , vite ,"
-4,chevaux,VEH,1,"avait pas de chevaux , vu que"
-4,l ' épidémie,TIME,3,", vu que l ' épidémie ( cette même"
-4,certains relais sur les routes peu fréquentées,FAC,7,en permanence dans certains relais sur les routes peu fréquentées ) en avait
-4,l ' attelage,VEH,3,fallait attendre que l ' attelage qui venait de
-4,la patache,VEH,2,venait de conduire la patache fût un peu
-6,une heure,TIME,2,"affaire d ' une heure , répondit le"
-10,l ' offre d ' une chambre,TIME,7,"Elle refusa l ' offre d ' une chambre , et ,"
-10,la berline,VEH,2,"et dormir dans la berline , elle s"
-11,La servante,PER,2,"La servante , chargée de"
-11,son quart de nuit,TIME,4,"chargée de veiller son quart de nuit , se remit"
-17,"une ville aux rues anguleuses et sombres , au pavé raboteux",GPE,11,"la voyageuse , une ville aux rues anguleuses et sombres , au pavé raboteux ; une ville"
-19,l ' heure du couvre - feu,TIME,7,son falot après l ' heure du couvre - feu .
-20,des années de jeunesse et de force,TIME,7,y ai passé des années de jeunesse et de force !
-26,tout l ' intérieur de,FAC,5,"ombre tremblotante sur tout l ' intérieur de la pièce ,"
-27,le lieu,LOC,2,aucune remarque sur le lieu où elle se
-28,l ' éboulement d ' une petite avalanche de cendre,TIME,10,Tout à coup l ' éboulement d ' une petite avalanche de cendre dégagea deux tisons
-37,cette date,TIME,2,Et cette date ! 10 février
-37,10 février 182,TIME,3,cette date ! 10 février 182 … ! Oh
-38,cette date,TIME,2,ces noms et cette date sont ici ?
-49,ce temps - ci,TIME,4,"Dans ce temps - ci , toutes les"
-51,la route de,FAC,3,sont accoutumées à la route de Paris dans ce
-51,Paris,GPE,1,la route de Paris dans ce temps
-52,aux lieux,LOC,2,qui me ramène aux lieux que je voulais
-56,mademoiselle Pauline D,PER,3,dans cette ville mademoiselle Pauline D … ?
-61,leurs chevaux,VEH,2,au monde que leurs chevaux .
-62,mademoiselle Pauline D,PER,3,lui apprendre que mademoiselle Pauline D … n '
-63,la remise,FAC,2,sa voiture sous la remise et qu '
-66,les bergères,PER,2,' Astrée ; les bergères avaient des reprises
-66,les bergers en lambeaux,PER,4,"visage , et les bergers en lambeaux flottaient suspendus à"
-67,de guerrier romain,PER,3,une monstrueuse tête de guerrier romain dessinée à l
-67,la fille de l ' aubergiste,PER,6,"' estompe par la fille de l ' aubergiste , et encadrée"
-71,"Quelle nuit de douleur et d ' espoir , de regret et d ' attente",TIME,15,"Quelle nuit de douleur et d ' espoir , de regret et d ' attente !"
-73,la date de notre séparation,TIME,5,"mien , avec la date de notre séparation !"
-78,un jour de bonheur,TIME,4,"consolation , mettre un jour de bonheur dans sa triste"
-87,du passé,TIME,2,à la religion du passé ; c '
-88,les unes,FAC,2,' accoudaient disgracieusement les unes aux autres .
-89,ses heures de repos ou de rêverie,TIME,7,qui sonnait jadis ses heures de repos ou de rêverie ; elle vit
-89,les bourgeois,PER,2,s ' éveiller les bourgeois en classique bonnet
-90,les fermiers,PER,2,arriver au marché les fermiers en manteau bleu
-90,aux jours du passé,TIME,4,son allure comme aux jours du passé .
-95,les laquais de bonne maison,PER,5,"hauteur qui caractérisent les laquais de bonne maison , elle s"
-95,une figure nouvelle,PER,3,", pour qui une figure nouvelle était un grave"
-95,un grave événement,TIME,3,figure nouvelle était un grave événement .
-96,La maison de,FAC,3,La maison de Pauline n '
-96,Pauline,PER,1,La maison de Pauline n ' avait
-97,l ' époque,TIME,3,"conservé , de l ' époque où elle fut"
-100,les plus fraîches années de sa vie,TIME,7,"maison lui rappelait les plus fraîches années de sa vie , les pures"
-100,les pures scènes de sa jeunesse,TIME,6,"sa vie , les pures scènes de sa jeunesse ; mais ,"
-100,son passé,TIME,2,ces témoins de son passé au luxe de
-100,son existence présente,TIME,3,"au luxe de son existence présente , elle ne"
-102,les hôtes du titre de salon,PER,6,", décorée par les hôtes du titre de salon ."
-103,"Le carreau de briques rougeâtres bien lavées , les boiseries brunes soigneusement dégagées de poussière , la glace dont le cadre avait été doré jadis , les meubles massifs brodés au petit point par quelque aïeule de la famille , et deux ou trois tableaux de dévotion légués par l ' oncle , curé de la ville",TIME,57,"Le carreau de briques rougeâtres bien lavées , les boiseries brunes soigneusement dégagées de poussière , la glace dont le cadre avait été doré jadis , les meubles massifs brodés au petit point par quelque aïeule de la famille , et deux ou trois tableaux de dévotion légués par l ' oncle , curé de la ville , tout était"
-103,la même place,LOC,3,précisément resté à la même place et dans le
-115,le premier instant,TIME,3,"Dans le premier instant , son ancienne"
-123,les personnes,PER,2,' est que les personnes qui vivent dans
-125,les personnes,PER,2,"isolement , que les personnes que j '"
-125,au milieu de mes rêveries,TIME,5,tout à coup au milieu de mes rêveries .
-127,l ' apparition,TIME,3,", pour que l ' apparition ne s '"
-150,la vieille femme aveugle,PER,4,", et vit la vieille femme aveugle étendue sur son"
-155,Causons,PER,1,"— Causons , lui dit"
-161,ce monde inconnu,TIME,3,"suivre , dans ce monde inconnu où malgré moi"
-172,province,LOC,1,se retirer en province avec sa mère
-173,"l ' aînée de ses élèves ,",PER,7,"étroite amitié avec l ' aînée de ses élèves , Pauline , âgée"
-173,quinze ans,TIME,2,", âgée de quinze ans comme elle ."
-174,des filles d ' un banquier,PER,6,l ' éducation des filles d ' un banquier .
-175,du siècle dernier,TIME,3,", célèbre comédienne du siècle dernier ."
-181,midi,TIME,1,au coup de midi l ' aveugle
-186,Qui,PER,1,— Qui donc ? reprit
-187,Devinez,PER,1,"— Devinez , dit Pauline"
-190,nos dames,PER,2,"est aucune de nos dames ; car ,"
-202,le temps,TIME,2,laissez - moi le temps de me remettre
-203,mademoiselle … ou madame,PER,4,"de chagrin , mademoiselle … ou madame … Comment vous"
-205,moi,PER,1,ils voient en moi quelque chose d
-206,mon chocolat de santé,PER,4,"apporte - moi mon chocolat de santé , et offres"
-208,la vieille dame,PER,3,"Quand la vieille dame , enveloppée dans"
-212,le courant de la journée,TIME,5,cette remarque dans le courant de la journée .
-214,tous les instants,TIME,3,"admirable sacrifice de tous les instants , Pauline laissait"
-215,un être moribond et un être vivant,PER,7,"' autre , un être moribond et un être vivant : l '"
-215,l ' un,PER,3,être vivant : l ' un effrayé des mouvements
-215,celui qui pouvait à chaque instant lui enlever son dernier souffle,PER,11,des mouvements de celui qui pouvait à chaque instant lui enlever son dernier souffle et l '
-216,ses mérites,PER,2,' ajouter à ses mérites .
-220,au premier moment,TIME,3,"poésie , dont au premier moment elle avait ,"
-221,la mère,PER,2,"jours , voir la mère heureuse aussi ,"
-221,des anges de lumière,PER,4,", y contempler des anges de lumière , et non"
-226,l ' artiste aimée du public,PER,6,enfant ( car l ' artiste aimée du public est comme un
-226,famille,PER,1,"univers sert de famille ) , elle"
-227,ceux du théâtre,PER,3,"artistes , et ceux du théâtre particulièrement ."
-228,La mère de,PER,3,"La mère de Pauline , quoique"
-228,Pauline,PER,1,"La mère de Pauline , quoique remplie"
-231,des chevaux de poste,VEH,4,"effroi , demander des chevaux de poste ."
-234,sa mère et,PER,3,"sachant bien que sa mère et sa sœur ,"
-234,sa sœur,PER,2,"sa mère et sa sœur , après quinze"
-235,ses chevaux,VEH,2,et ne commanda ses chevaux que pour le
-235,le lendemain,TIME,2,chevaux que pour le lendemain au soir .
-235,au soir,TIME,2,pour le lendemain au soir .
-237,Cette pauvre madame S,PER,4,— Cette pauvre madame S … ajouta -
-237,une bien excellente personne,PER,4,"c ' était une bien excellente personne , spirituelle ,"
-240,cette occasion,TIME,2,"trois lettres à cette occasion , et Dieu"
-247,l ' aventure,TIME,3,le bruit de l ' aventure qui avait amené
-247,route de Paris,FAC,3,"- Front , route de Paris , une dame"
-247,une,PER,1,"de Paris , une dame en chaise"
-247,dame,TIME,1,"Paris , une dame en chaise de"
-247,route de Lyon,FAC,3,"à Villiers , route de Lyon , s '"
-251,au café,FAC,2,partie de billard au café situé justement en
-252,de Laurence,PER,2,toilette de voyage de Laurence était pourtant d
-252,"la femme de Paris , et la femme artiste",PER,9,"goût ; mais la femme de Paris , et la femme artiste surtout , donne"
-257,Le secrétaire de,PER,3,Le secrétaire de la mairie décida
-257,la mairie,FAC,2,Le secrétaire de la mairie décida qu '
-259,Le maire,PER,2,"Le maire , assassiné de"
-261,son départ,TIME,2,"ravisant et remettant son départ au lendemain ,"
-261,au moment,TIME,2,passe - port au moment où elle redemanderait
-261,des chevaux,VEH,2,où elle redemanderait des chevaux .
-262,des citadins de,PER,3,de la curiosité des citadins de Saint - Front
-262,Saint - Front,GPE,3,"des citadins de Saint - Front , et leur"
-263,une émeute,TIME,2,le maire craignit une émeute ; le procureur
-263,la gendarmerie,PER,2,roi intima à la gendarmerie l ' ordre
-263,les chevaux de l ' ordre public,VEH,7,"pied , et les chevaux de l ' ordre public eurent la selle"
-265,gendarme,PER,1,puis envoyer un gendarme pour examiner brutalement
-272,au plus petit de ses enfants,PER,6,"mémoire jusqu ' au plus petit de ses enfants , l '"
-273,la belle actrice de la capitale,PER,6,même jour avec la belle actrice de la capitale .
-274,Le dîner,TIME,2,Le dîner fut fort gai
-274,quelques heures d ' enjouement,TIME,5,en lui donnant quelques heures d ' enjouement .
-275,au dessert,TIME,2,"et même , au dessert , elle consentit"
-280,une visite,TIME,2,approche d ' une visite .
-285,une seconde visite,TIME,3,"minutes après , une seconde visite étant arrivée ,"
-288,la présence de,TIME,3,"et réservée , la présence de la mairesse contraignit"
-289,La troisième visite,TIME,3,La troisième visite gêna beaucoup les
-289,l ' arrivée de la quatrième,TIME,6,plus gênée par l ' arrivée de la quatrième .
-290,une grande soirée,TIME,3,la ville à une grande soirée .
-292,le passé,TIME,2,"avait eu dans le passé , on affectait"
-292,l ' amie et la protégée de mademoiselle Mars,PER,9,' elle soit l ' amie et la protégée de mademoiselle Mars ?
-293,On,PER,1,— On dit qu '
-296,Lui,PER,1,— Lui avez - vous
-296,Lui,PER,1,parlé ? — Lui parlez - vous
-298,le dîner,TIME,2,"Un instant avant le dîner , elle avait"
-298,les fées,PER,2,noix enchantées où les fées font tenir d
-299,voyage,TIME,1,"métamorphoser ainsi en voyage , et l"
-300,l ' élégante de petite ville,PER,6,"' arrivera jamais l ' élégante de petite ville , même lorsqu"
-300,l ' élégante des grandes villes,PER,6,elle copie exactement l ' élégante des grandes villes ; enfin toutes
-302,son gré,PER,2,et prévenante à son gré . Elle souriait
-302,tous ces petits esprits,PER,4,où elle jetait tous ces petits esprits qui étaient venus
-302,les uns,PER,2,"l ' insu les uns des autres ,"
-302,le seul,PER,2,chacun croyant être le seul assez hardi pour
-303,un côté,FAC,2,tenaient d ' un côté du salon comme
-303,un régiment en déroute,PER,4,"du salon comme un régiment en déroute , et de"
-303,l ' autre côté,FAC,4,", et de l ' autre côté , entourée de"
-303,"Pauline , de",PER,3,", entourée de Pauline , de sa mère et"
-303,sa mère et de quelques hommes de bon sens,PER,9,"Pauline , de sa mère et de quelques hommes de bon sens qui ne craignaient"
-306,le départ des plus désappointées,TIME,5,"Enfin , quand le départ des plus désappointées eut éclairci les"
-306,la lingère,PER,2,"' adresse de la lingère , le prix"
-306,le premier voyage,TIME,3,de spectacle pour le premier voyage qu ' on
-307,l ' arrivée des premières visites,TIME,6,"À l ' arrivée des premières visites , l '"
-309,mes infirmités,PER,2,"pensais , puisque mes infirmités ne font plus"
-311,ma fête,TIME,2,"calendrier , et ma fête , que je"
-317,du commencement,TIME,2,", elle fut du commencement à la fin"
-317,la fin,TIME,2,du commencement à la fin admirable pour son
-318,en province,LOC,2,"un courage héroïque en province , le blâme"
-319,toute la soirée,TIME,3,à la sienne toute la soirée sur le bras
-322,femme,PER,1,de femme à femme aussi bien que
-322,homme,PER,1,que d ' homme à homme .
-322,homme,PER,1,' homme à homme .
-324,cette petite épreuve,TIME,3,pour elle durant cette petite épreuve .
-327,ces bégueules,PER,2,- dessus de ces bégueules .
-331,la femme la plus droite,PER,5,. Laurence était la femme la plus droite avec les autres
-335,un instant,TIME,2,"quitter d ' un instant , exigea qu"
-337,Chaque moment,TIME,2,Chaque moment augmentait l '
-340,leur premier entretien de la matinée,TIME,6,"réticences . Dans leur premier entretien de la matinée , elle avait"
-346,une nymphe antique,PER,3,était belle comme une nymphe antique à la lueur
-350,Les classiques,PER,2,Les classiques qui m '
-351,Phèdre tout entière,PER,3,c ' est Phèdre tout entière … non pas
-351,la Phèdre de Racine,PER,4,… non pas la Phèdre de Racine peut - être
-351,celle d ' Euripide,PER,4,"être , mais celle d ' Euripide , disant :"
-356,quelques instants de silence,TIME,4,Il se fit quelques instants de silence . Pauline fit
-356,ses longues heures de silence et de solitude,TIME,8,"broderie qui remplissaient ses longues heures de silence et de solitude , et qui"
-357,tant de belles années perdues,TIME,5,"fut effrayée de tant de belles années perdues , et il"
-357,son temps le plus précieux,TIME,5,", comme de son temps le plus précieux , un usage"
-361,l ' insomnie de la nuit précédente,TIME,7,"Fatiguée de l ' insomnie de la nuit précédente , calme d"
-367,trois jours,TIME,2,"Lyon , à trois jours de là ."
-372,quelques heures,TIME,2,de la sienne quelques heures auparavant .
-375,au soir,TIME,2,d ' hier au soir quand tu étais
-378,mon enfant,PER,2,"pas bien , mon enfant ; tresse donc"
-379,un instant,TIME,2,", et en un instant Pauline se trouva"
-380,trop de temps,TIME,3,"' y perdre trop de temps , et j"
-385,cet instant,TIME,2,"au monde dans cet instant ) , elle"
-387,cette fois,TIME,2,", et , cette fois , c '"
-390,la veille,TIME,2,ses tresses de la veille .
-391,l ' oiseau sédentaire,PER,4,"et poussa dehors l ' oiseau sédentaire , qui ne"
-395,l ' heure,TIME,3,jusqu ' à l ' heure où sa mère
-397,sa cage,FAC,2,était rentré dans sa cage et chantait de
-398,sa famille et ses amis,PER,5,"de Constant , sa famille et ses amis Nous aurions pu"
-398,trois ou quatre cents ans,TIME,5,", cette biographie trois ou quatre cents ans avant la naissance"
-398,"des chevaliers de St - Jean de Jérusalem , des chefs d ' escadre , des compagnons de Charles Quint",PER,20,"héroïne , parler des chevaliers de St - Jean de Jérusalem , des chefs d ' escadre , des compagnons de Charles Quint , qui furent"
-399,aïeux,PER,1,"lignée d ' aïeux , tous valeureux"
-402,l ' Arve,LOC,3,la jonction de l ' Arve avec le Rhône
-403,Rosalie et de sa famille,PER,5,"les papiers de Rosalie et de sa famille , ont fourni"
-404,été,TIME,1,Voltaire habita en été Les Délices près
-404,Les Délices,FAC,2,"habita en été Les Délices près Genève ,"
-404,hiver,TIME,1,"Genève , en hiver tantôt Monrion ,"
-404,faubourg du Petit - Chêne,GPE,5,"même , au faubourg du Petit - Chêne ."
-407,le cinquième fils du général Constant de Rebecque,PER,8,Samuel était le cinquième fils du général Constant de Rebecque qui avait servi
-413,une seconde fille et un premier fils,PER,7,"Rosalie , puis une seconde fille et un premier fils qui reçurent les"
-416,de longues semaines,TIME,3,"très souvent passer de longues semaines à Lausanne ,"
-418,l ' ami,PER,3,pièces composées par l ' ami de ses parents
-418,ses parents,PER,2,' ami de ses parents .
-419,nourrice,PER,1,on mettait en nourrice dans les environs
-419,les environs de,LOC,3,en nourrice dans les environs de Genève .
-419,Genève,GPE,1,les environs de Genève .
-420,9 h .,TIME,3,« Lundi à 9 h .
-423,minuit,TIME,1,« Vendredi à minuit . « Nous
-426,Dimanche,TIME,1,» « Dimanche au soir .
-426,au soir,TIME,2,» « Dimanche au soir . « Rosalie
-426,cause,PER,1,"elle imagine et cause , elle est"
-432,gendre,PER,1,absences fréquentes du gendre .
-433,automne 1762,TIME,2,"Enfin , en automne 1762 , le jeune"
-433,un appartement sis à la Cour de St - Pierre,FAC,10,"lui , dans un appartement sis à la Cour de St - Pierre , et c"
-434,Mardi,TIME,1,"Samuel : « Mardi au soir ,"
-434,au soir,TIME,2,": « Mardi au soir , par la"
-436,dix heures,TIME,2,"affaires , à dix heures ma toilette ,"
-436,onze heures,TIME,2,"toilette , à onze heures en chaise à"
-437,carrosse vert,VEH,2,De là en carrosse vert à Ferney .
-437,l ' imprimerie,FAC,3,de recevoir de l ' imprimerie pour envoyer à
-441,un cloaque,FAC,2,"on est dans un cloaque , il faut"
-441,ces marauds de rois et de prêtres,PER,7,puis : « ces marauds de rois et de prêtres !
-443,le carrosse vert,VEH,3,là revenue dans le carrosse vert à la porte
-443,antichambre,FAC,1,", trouvé pour antichambre la cuisine et"
-443,une femme très gracieuse se soutenant à peine sur un bâton,PER,11,"et brûlant , une femme très gracieuse se soutenant à peine sur un bâton , en petit"
-444,mes petits,PER,2,avec délice et mes petits autour de moi
-444,le pa,PER,2,"maman , et le pa ?"
-445,le pa,PER,2,"» Hélas ! le pa , le pa"
-445,le pa,PER,2,"le pa , le pa ! Et puis"
-453,Juste,PER,1,"Vous trouverez Juste en bavaroise ,"
-461,fille,PER,1,de mère à fille qui plaisaient tant
-462,la jeune femme et,PER,4,relation existant entre la jeune femme et sa fille aînée
-463,Le pa,PER,2,— Le pa ! le pa
-463,le pa,PER,2,Le pa ! le pa ! a -
-467,sa femme,PER,2,"le mariage si sa femme , jolie et"
-467,des parens exigeans et tyranniques,PER,5,avait pas eu des parens exigeans et tyranniques et si une
-472,les quatre enfants placés entre une grand ' mère et,PER,10,être triste pour les quatre enfants placés entre une grand ' mère et un père qui
-472,un père,PER,2,' mère et un père qui ne s
-473,Rosalie et ses frères et sœur,PER,6,Rosalie et ses frères et sœur habitaient tantôt Genève
-476,notre pays,PER,2,jolie campagne de notre pays .
-478,27 mai 1768,TIME,3,( 27 mai 1768 . ) Oui
-479,la chaîne du Mont - Blanc,LOC,6,"soi on avait la chaîne du Mont - Blanc , au sud"
-479,au nord,LOC,2,"' Ecluse , au nord le lac Léman"
-479,le Rhône roulant ses ondes bleues entre des rives verdoyantes et boisées,LOC,12,comme premier plan le Rhône roulant ses ondes bleues entre des rives verdoyantes et boisées .
-480,usine,FAC,1,"cheminée d ' usine , aucune fabrique"
-484,un,PER,1,"échelon cède , un des enfants tombe"
-484,des enfants,PER,2,"cède , un des enfants tombe sur celui"
-486,l ' âge de quatorze ans,TIME,6,"de lui à l ' âge de quatorze ans , au moment"
-492,des Sociétés du dimanche,ORG,4,d ' aucune des Sociétés du dimanche qui réunissaient en
-493,quatre ou cinq heures,TIME,4,"en hiver à quatre ou cinq heures et que ,"
-500,Cinquante ans,TIME,2,"Cinquante ans plus tard ,"
-502,la chambre de travail du,FAC,5,et même dans la chambre de travail du philosophe .
-502,philosophe,PER,1,de travail du philosophe .
-503,jusqu ' aux enfans,PER,4,et recevait bien jusqu ' aux enfans .
-505,un jour,TIME,2,Les voyant un jour ôter les hannetons
-507,deux ans,TIME,2,à - dire deux ans après la mort
-507,Juste et Charles,PER,3,"leur mère , Juste et Charles avaient été envoyés"
-509,des vauriens,PER,2,enfans étaient ou des vauriens ou des sots
-510,mes parens,PER,2,ans pour que mes parens fussent désabusés sur
-513,les êtres de la maison,PER,5,"Comme je connaissais les êtres de la maison , mon premier"
-513,mon premier soin,PER,3,"la maison , mon premier soin en arrivant fut"
-513,mon pain,PER,2,"représentation et tenant mon pain , je crie"
-513,Juste,PER,1,frère : « Juste !
-518,tous les automnes,TIME,3,aller à Lalex tous les automnes .
-519,ses amis et sa société,PER,5,"de plaisir avec ses amis et sa société , et il"
-522,les vignes et sur les montagnes,LOC,6,"nous courions dans les vignes et sur les montagnes , le soir"
-524,nos frères,PER,2,étions réunis à nos frères et à notre
-528,philosophe,PER,1,y vivre en philosophe .
-529,le soleil,LOC,2,"ai tant vu le soleil , qu '"
-535,votre grand ' mère et des vôtres,PER,7,des nouvelles de votre grand ' mère et des vôtres .
-536,le landgrave [ de Hesse,GPE,5,lui apprendre que le landgrave [ de Hesse ] avait accordé
-543,votre frère [ Juste,PER,4,Si votre frère [ Juste ] en veut
-549,son salon de,FAC,3,", étant dans son salon de Lausanne , elle"
-549,Lausanne,GPE,1,"son salon de Lausanne , elle sonnait"
-553,bien des années,TIME,3,"' elle écrivit bien des années plus tard ,"
-556,celui qui l ' aimait avec tant de passion et de dévouement et qui l ' exprimait avec tant d ' esprit,PER,22,les sentimens de celui qui l ' aimait avec tant de passion et de dévouement et qui l ' exprimait avec tant d ' esprit .
-558,les parens de Chateauvieux,PER,4,"Dardagny , chez les parens de Chateauvieux , en 1771"
-561,St - Jean et de,GPE,5,aux foyers de St - Jean et de Genève plus d
-561,Genève,GPE,1,Jean et de Genève plus d '
-564,Rosalie et à,PER,3,qui suit à Rosalie et à sa sœur :
-566,amoureux,PER,1,illusion d ' amoureux ] m '
-572,le carrosse de votre grand ' mère,VEH,7,"étiez hier dans le carrosse de votre grand ' mère , elle peut"
-574,ses domestiques,PER,2,surtout aucun de ses domestiques chez nous .
-575,les demoiselles Albanel,PER,3,"les envoyer chez les demoiselles Albanel , marchandes de"
-577,dix heures,TIME,2,"jeudi , à dix heures , et je"
-584,ses premiers objets d ' intérêt et d ' affection,PER,10,"son mari étaient ses premiers objets d ' intérêt et d ' affection , et la"
-587,L ' été et l ' automne,TIME,7,L ' été et l ' automne se passèrent en
-590,ma vie,PER,2,plus heureuse de ma vie … » Ici
-590,Rosalie et de sa sœur,PER,5,la vie de Rosalie et de sa sœur .
-594,quatre jours,TIME,2,"7 décembre , quatre jours après le départ"
-594,Tâche,PER,1,écrivait : « Tâche de bien voir
-597,Du même,PER,2,Tronchin ! » Du même : « Mes
-598,ma chère Lisette,PER,3,"petite âme , ma chère Lisette , s '"
-599,peu d ' amis,PER,4,"Vous avez peu d ' amis , peu de"
-599,peu de parens,PER,3,"' amis , peu de parens , c '"
-602,un quartier charmant,FAC,3,êtes logées dans un quartier charmant et où il
-607,Pense,PER,1,"« Pense quelquefois , ma"
-612,Mme d ' Hermenches,PER,4,"la mort de Mme d ' Hermenches , ma belle"
-615,famille,PER,1,"un deuil de famille , que M"
-619,le règne de Louis XV,TIME,5,- dire sous le règne de Louis XV .
-623,Le Paris d ' alors,GPE,5,Le Paris d ' alors ne ressemblait guère
-624,des boulevards de nos jours,FAC,5,mais combien différents des boulevards de nos jours !
-626,une promenade plantée de quatre lignes d ' arbres,FAC,9,Les boulevards sont une promenade plantée de quatre lignes d ' arbres et qui fait
-627,Cette promenade de six lieues de long,FAC,7,Cette promenade de six lieues de long est bordée de
-629,leur grand ' mère et de trois autres dames de,PER,10,"en compagnie de leur grand ' mère et de trois autres dames de Genève , nos"
-629,Genève,GPE,1,"autres dames de Genève , nos voyageuses"
-629,au soir,TIME,2,Paris le 9 au soir et eurent grand
-630,un hôtel garni appelé Hôtel de Bayonne,FAC,7,"trouvèrent place dans un hôtel garni appelé Hôtel de Bayonne , rue St"
-630,rue St - Honoré,FAC,4,"de Bayonne , rue St - Honoré , en face"
-633,une femme fraîchement débarquée dans la capitale de la mode,PER,10,course d ' une femme fraîchement débarquée dans la capitale de la mode était destinée aux
-635,Le charnier des Innocents,FAC,4,Le charnier des Innocents ! tel était
-635,le Bon Marché du temps,FAC,5,! tel était le Bon Marché du temps .
-636,au charnier des Saints - Innocens,FAC,6,", nous allâmes au charnier des Saints - Innocens faire quelques emplettes"
-637,Là,FAC,1,"mode … » Là , Mme Pictet"
-637,un fiacre,VEH,2,- filles prirent un fiacre et allèrent un
-637,les rues de,FAC,3,"promener pour voir les rues de Paris , puis"
-637,Paris,GPE,1,"les rues de Paris , puis chez"
-640,une place de foire,FAC,4,les trouve sur une place de foire ou dans la
-641,les filles de,PER,3,spectacle aussi attirait les filles de Samuel et de
-641,Samuel et de,PER,3,les filles de Samuel et de Charlotte .
-641,Charlotte,PER,1,Samuel et de Charlotte .
-643,plusieurs amies de,PER,3,retrouvé à Paris plusieurs amies de leurs parents MMmes
-643,leurs parents,PER,2,plusieurs amies de leurs parents MMmes de Luchet
-643,"MMmes de Luchet , Favre , Necker , Des Barry , Diodati , de la Richardière , MM .",PER,19,"de leurs parents MMmes de Luchet , Favre , Necker , Des Barry , Diodati , de la Richardière , MM ."
-647,loges,FAC,1,quatre rangs de loges . La musique
-649,Adèle de Ponthieu,PER,3,"soir - là Adèle de Ponthieu , opéra nouveau"
-650,ces petites provinciales venues à l ' opéra,PER,8,' amuser de ces petites provinciales venues à l ' opéra pour écouter la
-655,un fiacre,VEH,2,nous avons pris un fiacre pour parcourir la
-655,un quartier de,FAC,3,c ' est un quartier de Paris où l
-655,Paris,GPE,1,un quartier de Paris où l '
-657,jour de Noël,TIME,3,"Le 25 [ jour de Noël ] , nous"
-658,minuit,TIME,1,la messe de minuit dans l '
-658,Paris,GPE,1,", cathédrale de Paris ."
-659,la Comédie italienne,FAC,3,sommes allées à la Comédie italienne ; on jouait
-660,l ' année,TIME,3,"dernier jour de l ' année , il fallait"
-662,vestibule,FAC,1,qui servent de vestibule sont garnies de
-662,"boutiques de bijoutiers , de quincailliers , de mode",FAC,9,"sont garnies de boutiques de bijoutiers , de quincailliers , de mode , etc ."
-665,un fiacre,VEH,2,Nous prenions quelquefois un fiacre le soir et
-665,les boutiques au quai de la Volaille,FAC,7,nous promener devant les boutiques au quai de la Volaille ou voir Mme
-669,la campagne de M .,LOC,5,nous arrêtâmes dans la campagne de M .
-670,les rois de,PER,3,' on enterre les rois de France et leurs
-670,France,GPE,1,les rois de France et leurs familles
-672,des rois,PER,2,montrèrent les tombeaux des rois . Ils sont
-678,quelque saint,PER,2,"les os de quelque saint , des croix"
-679,Louis 15,PER,2,"la place de Louis 15 , qui n"
-680,la Muette,FAC,2,"' aller à la Muette , petite maison"
-681,la Muette,FAC,2,' est à la Muette que le Roi
-682,L ' appartement,FAC,3,L ' appartement du Roi est
-682,du Roi,PER,2,L ' appartement du Roi est meublé de
-684,des guinguettes,FAC,2,Il y a des guinguettes de place en
-684,place,FAC,1,"des guinguettes de place en place ,"
-684,place,FAC,1,"de place en place , on y"
-688,une maison de force et un hôpital,FAC,7,", qui est une maison de force et un hôpital ."
-695,une guinguette du faubourg Saint - Jacques,FAC,7,"dîner « dans une guinguette du faubourg Saint - Jacques , nommée Le"
-698,les hystériques,PER,2,traitait pas encore les hystériques et qu '
-698,les enfants trouvées,PER,3,où se trouvaient les enfants trouvées .
-699,cinq cents jeunes filles,PER,4,est un autel cinq cents jeunes filles qui travaillent à
-702,des fous enchaînés,PER,3,repose un peu des fous enchaînés et des monuments
-702,des monuments visités,FAC,3,fous enchaînés et des monuments visités en conscience .
-703,Rosalie et Lisette,PER,3,que devaient être Rosalie et Lisette .
-704,un monde prodigieux,PER,3,Il y avait un monde prodigieux .
-705,une dame et de sa fille,PER,6,côté d ' une dame et de sa fille avec qui nous
-705,vieille,PER,1,la fille en vieille .
-707,Le Petit Poucet,PER,3,", on jouait Le Petit Poucet , le Dénicheur"
-707,le Dénicheur de merles,PER,4,"Petit Poucet , le Dénicheur de merles et Anidelle de"
-707,Anidelle de Pontoise,PER,3,"de merles et Anidelle de Pontoise , une parodie"
-708,la Bastille et de la Sorbonne,FAC,6,une description de la Bastille et de la Sorbonne qui est digne
-710,un grand bâtiment très fortifié et flanqué de sept tours,FAC,10,C ' est un grand bâtiment très fortifié et flanqué de sept tours .
-714,ce triste séjour,FAC,3,malheureux renfermés dans ce triste séjour .
-715,l ' église de,FAC,4,"jour , à l ' église de la Sorbonne ,"
-715,la Sorbonne,FAC,2,"' église de la Sorbonne , dont le"
-716,le tombeau du cardinal de Richelieu,FAC,6,cette église est le tombeau du cardinal de Richelieu .
-718,un si bel ouvrage,FAC,4,' avoir fait un si bel ouvrage pour éterniser un
-724,du tombeau du cardinal de Richelieu,FAC,6,"vous me dites du tombeau du cardinal de Richelieu , qui n"
-731,Dieu,PER,1,Dieu veuille que vous
-742,le maître à danser ni le dentiste,PER,7,"à vous payer le maître à danser ni le dentiste … , apprenez"
-748,trois ou quatre jours passés à Versailles,TIME,7,le voyage : trois ou quatre jours passés à Versailles .
-753,dix heures,TIME,2,Nous arrivâmes à dix heures .
-754,Le chemin,FAC,2,Le chemin qui conduit à
-756,la garde,ORG,2,suisses qui descendaient la garde avec une belle
-757,la divinité,PER,2,' ai de la divinité .
-759,les ambassadeurs en cérémonie,PER,4,le roi reçoit les ambassadeurs en cérémonie .
-766,Des dames d ' accompagnement aussi en habit de cour,PER,10,Des dames d ' accompagnement aussi en habit de cour la suivaient .
-769,ses pages et de beaucoup de seigneurs,PER,7,", suivi de ses pages et de beaucoup de seigneurs ."
-771,du Saint - Esprit,PER,4,avec une croix du Saint - Esprit .
-774,Le Dauphin et,PER,3,Le Dauphin et la Dauphine sont
-774,la Dauphine,PER,2,Le Dauphin et la Dauphine sont à côté
-779,Plusieurs duchesses,PER,2,Plusieurs duchesses sont assises autour
-785,beaucoup de monde,PER,3,il y avait beaucoup de monde .
-799,les dames d ' honneur,PER,5,les princesses étaient les dames d ' honneur sur des tabourets
-808,Le lendemain,TIME,2,bonnes . « Le lendemain [ Ier février
-808,Ier février,TIME,2,"Le lendemain [ Ier février ] , visité"
-809,la route,FAC,2,Nous fîmes la route dans le parc
-809,le parc de,FAC,3,la route dans le parc de Versailles que nous
-809,Versailles,GPE,1,le parc de Versailles que nous n
-810,de belles pièces d ' eau,LOC,6,bosquets délicieux et de belles pièces d ' eau … « Le
-811,du roi,PER,2,La chambre du roi est meublée d
-812,des Indes,GPE,2,"un beau damas des Indes , le lit"
-813,la chambre,FAC,2,« Entre la chambre du Roi et
-813,du Roi,PER,2,Entre la chambre du Roi et celle de
-817,tout le monde,PER,3,"Paris , presque tout le monde fait son caffé"
-819,la ménagerie,FAC,2,Vu la ménagerie … et la
-819,la volière,FAC,2,"ménagerie … et la volière … , puis"
-825,trois salles de charmille avec des statues de marbre,FAC,9,il y a trois salles de charmille avec des statues de marbre .
-826,un grand bassin de marbre,FAC,5,"; on voit un grand bassin de marbre et , comme"
-827,"douze petits pavillons quarrés , joints ensemble par des berceaux de feuillage",FAC,12,"il y a douze petits pavillons quarrés , joints ensemble par des berceaux de feuillage , c '"
-828,une auberge du village de,FAC,5,"le dîner dans une auberge du village de Marli , nous"
-828,Marli,FAC,1,"du village de Marli , nous allâmes"
-835,du Saint - Esprit,PER,4,une grande étoile du Saint - Esprit .
-837,deux cardinaux en soutanes écarlates avec de grandes doubles croix d ' or,PER,13,"procession , étaient deux cardinaux en soutanes écarlates avec de grandes doubles croix d ' or ."
-838,d ' autres ecclésiastiques vêtus de violet avec des surplis de dentelles,PER,12,Après eux venaient d ' autres ecclésiastiques vêtus de violet avec des surplis de dentelles .
-839,l ' abbé Terrai,PER,4,"remarquâmes entre autres l ' abbé Terrai , le contrôleur"
-842,"le comte d ' Artois , petit - fils cadet",PER,10,"procession , viennent le comte d ' Artois , petit - fils cadet du Roi ,"
-842,"du Roi ,",PER,3,"- fils cadet du Roi , le comte de"
-842,le comte de Provence et,PER,5,"du Roi , le comte de Provence et le Dauphin ."
-842,le Dauphin,PER,2,de Provence et le Dauphin .
-845,les appartemens,FAC,2,pour aller voir les appartemens du Roi .
-845,du Roi,PER,2,voir les appartemens du Roi .
-849,l ' empereur et de l ' impératrice - reine,PER,10,"les portraits de l ' empereur et de l ' impératrice - reine , ses parens"
-851,Sèvres,GPE,1,"superbes porcelaines de Sèvres , cela est"
-852,du comte d ' Artois,PER,5,' abord celui du comte d ' Artois .
-856,du comte,PER,2,« Au dîner du comte et de la
-856,la comtesse,PER,2,"comte et de la comtesse de Provence ,"
-859,Mesdames sœurs,PER,2,passâmes ensuite chez Mesdames sœurs du Dauphin .
-859,du Dauphin,PER,2,chez Mesdames sœurs du Dauphin . Mme Adélaïde
-864,Leur gouvernante,PER,2,"elles deux . Leur gouvernante , Mme la"
-866,du Roi de,PER,3,"ce beau séjour du Roi de France , nous"
-866,France,GPE,1,"du Roi de France , nous fûmes"
-866,les escaliers du château,FAC,4,"' aumône dans les escaliers du château , cela nous"
-869,la place d ' armes,FAC,5,En passant sur la place d ' armes nous rencontrâmes Mme
-869,Mme de Montmorenci et Mme de Rose,PER,7,son carrosse avec Mme de Montmorenci et Mme de Rose .
-871,Son carrosse,VEH,2,Son carrosse est des plus
-872,Ses laquais,PER,2,Ses laquais sont en bleu
-874,le Dauphin et,PER,3,mais par contre le Dauphin et la Dauphine sont
-874,la Dauphine,PER,2,le Dauphin et la Dauphine sont chéris de
-875,huit heures,TIME,2,à Paris à huit heures du soir .
-875,du soir,TIME,2,à huit heures du soir .
-879,monuments,FAC,1,sages descriptions de monuments dont nous passerons
-882,la soirée,TIME,2,où je passais la soirée .
-883,un ciel nuageux,LOC,3,"grisâtre que formait un ciel nuageux , à peine"
-885,des vivants,PER,2,admirer la danse des vivants !
-887,les plus jolies femmes de Paris,PER,6,"agitaient et papillonnaient les plus jolies femmes de Paris , les plus"
-887,"les mieux titrées , éclatantes , pompeuses , éblouissantes de diamants",PER,11,"plus riches , les mieux titrées , éclatantes , pompeuses , éblouissantes de diamants !"
-892,cette foule enivrée,PER,3,d ’ étourdir cette foule enivrée par tout ce
-892,le monde,LOC,2,tout ce que le monde peut offrir de
-893,les hommes en joie,PER,4,"; là , les hommes en joie ."
-894,la ville la plus amusante du monde et la plus philosophique,GPE,11,", rendent Paris la ville la plus amusante du monde et la plus philosophique , je faisais"
-901,monsieur de Nucingen ou monsieur de Gondreville,PER,7,que le sont monsieur de Nucingen ou monsieur de Gondreville ?
-907,Personne,PER,1,Personne ne savait de
-911,quelque Casbah,FAC,2,"- il dévalisé quelque Casbah , j ’"
-913,la fille du sultan,PER,4,Comme la fille du sultan dans le conte
-914,des Fodor,PER,2,"des Sontag , des Fodor , chez lesquelles"
-923,ces puissantes sirènes,PER,3,"Aimer ces puissantes sirènes , n ’"
-925,Filippo,PER,1,"de Lanty . Filippo , frère de"
-931,un profond politique,PER,3,"’ ailleurs pour un profond politique , peut -"
-931,monsieur de Metternich ou Wellington,PER,5,et citait toujours monsieur de Metternich ou Wellington .
-932,chaque personne du beau monde,PER,5,manière différente par chaque personne du beau monde : un chant
-933,monsieur et,PER,2,La réserve que monsieur et madame de Lanty
-933,madame de Lanty,PER,3,que monsieur et madame de Lanty gardaient sur leur
-933,les quatre parties du monde,LOC,5,leurs relations avec les quatre parties du monde n ’ eût
-946,aux gens de,PER,3,’ exagération naturelle aux gens de la haute société
-946,la haute société,PER,3,aux gens de la haute société fit naître et
-947,une espèce de Faust ou de Robin des bois,PER,9,"homme artificiel , une espèce de Faust ou de Robin des bois , il participait"
-947,des gens,PER,2,", au dire des gens amis du fantastique"
-947,amis du fantastique,PER,3,"dire des gens amis du fantastique , de toutes"
-949,ces jeunes hommes,PER,3,". Plusieurs de ces jeunes hommes , habitués à"
-949,tous les matins,TIME,3,"à décider , tous les matins , l ’"
-949,quelque grand criminel,PER,3,"l ’ inconnu quelque grand criminel , possesseur d"
-949,possesseur d ’ immenses richesses,PER,5,"grand criminel , possesseur d ’ immenses richesses ."
-955,ce vieillard,PER,2,"spécieuses , que ce vieillard , mis sous"
-959,les membres de,PER,3,"de circonstances , les membres de cette famille justifiaient"
-959,cette famille,PER,2,les membres de cette famille justifiaient les conjectures
-959,du monde,LOC,2,"justifiaient les conjectures du monde , en tenant"
-961,"Filippo ,",PER,2,"haute importance . Filippo , Marianina , madame"
-961,"Marianina ,",PER,2,". Filippo , Marianina , madame de Lanty"
-961,madame de Lanty et un vieux domestique,PER,7,", Marianina , madame de Lanty et un vieux domestique avaient seuls le"
-964,au fond d ’ un sanctuaire inconnu,LOC,7,"des mois entiers au fond d ’ un sanctuaire inconnu , ce génie"
-964,ce génie familier,PER,3,"sanctuaire inconnu , ce génie familier en sortait tout"
-964,au milieu des salons,LOC,4,", et apparaissait au milieu des salons comme ces fées"
-964,ces fées d ’ autrefois,PER,5,des salons comme ces fées d ’ autrefois qui descendaient de
-966,un quadrille,PER,2,"en dansant dans un quadrille , la trop"
-971,tous les membres de,PER,4,la circonspection de tous les membres de cette famille rendit
-971,cette famille,PER,2,"les membres de cette famille rendit vaines ,"
-971,personne,PER,1,"rendit vaines , personne ne chercha -"
-972,"Les espions de bonne compagnie , les gobe - mouches et les politiques",PER,13,"Les espions de bonne compagnie , les gobe - mouches et les politiques avaient fini ,"
-973,philosophes,PER,1,"salons resplendissants des philosophes qui , tout"
-980,l ’ Esprit,PER,3,’ avons aperçu l ’ Esprit .
-982,au moment,TIME,2,’ en allèrent au moment où je résumais
-984,temps,TIME,1,sais combien de temps je méditai sur
-986,la nature,LOC,2,"rares caprices de la nature , la pensée"
-986,Minerve de la tête de Jupiter,PER,6,"avait jailli comme Minerve de la tête de Jupiter , grande et"
-987,une haie de gens attentifs à la voix de,PER,9,"adroitement coulé derrière une haie de gens attentifs à la voix de Marianina , qui"
-990,au milieu du monde,LOC,4,il se trouvait au milieu du monde sans voir le
-990,le monde,LOC,2,monde sans voir le monde .
-991,une des plus ravissantes femmes de,PER,6,"auprès d ’ une des plus ravissantes femmes de Paris , danseuse"
-991,Paris,GPE,1,"ravissantes femmes de Paris , danseuse élégante"
-991,du soleil,LOC,2,comme les rayons du soleil traversent une glace
-997,un paralytique,PER,2,gestes d ’ un paralytique .
-999,un puits,FAC,2,en tombant dans un puits .
-1006,ses membres,PER,2,"la délicatesse de ses membres , prouvaient que"
-1008,ce corps étrange,PER,3,servaient à soutenir ce corps étrange .
-1009,une tombe,FAC,2,en croix sur une tombe .
-1012,Angleterre,GPE,1,"dentelle d ’ Angleterre assez roux ,"
-1013,le soleil,LOC,2,incalculable scintillait comme le soleil .
-1020,au spectre survenu devant nous,PER,5,"une création artificielle au spectre survenu devant nous , était le"
-1025,une statue,PER,2,"autant qu ’ une statue , elle exhalait"
-1029,le monde,LOC,2,"assez souvent dans le monde , me dis"
-1033,le phénomène,PER,2,la main sur le phénomène avec cette hardiesse
-1036,"Marianina ,",PER,2,"ce bruit , Marianina , Filippo et madame"
-1036,Filippo et,PER,2,", Marianina , Filippo et madame de Lanty"
-1040,au fond des appartements de réception,LOC,6,"Parvenus au fond des appartements de réception , nous entrâmes"
-1046,un spectre,PER,2,petit vieillard pour un spectre . — Taisez
-1052,au milieu,LOC,2,"La lampe suspendue au milieu du boudoir ,"
-1055,Il,PER,1,— Il est trop beau
-1062,un parent de,PER,3,… un … un parent de madame de Lanty
-1062,madame de Lanty,PER,3,un parent de madame de Lanty .
-1066,le spectre habillé,PER,3,"filiale sollicitude , le spectre habillé qui nous avait"
-1068,génie familier,PER,2,", espèce de génie familier ."
-1072,Le vieillard,PER,2,"Le vieillard , frappé subitement"
-1076,son danseur,PER,2,elle courut à son danseur avec l ’
-1079,Vous,PER,1,je ? — Vous !
-1080,l ’ Italie ou de l ’ Espagne,GPE,8,passionnée digne de l ’ Italie ou de l ’ Espagne … Elle vit
-1081,moi,PER,1,ne sois pas moi .
-1083,les ravissantes femmes du Midi,PER,5,nos cœurs par les ravissantes femmes du Midi ?
-1095,ces soirées délicieuses à l ’ âme,TIME,7,"était une de ces soirées délicieuses à l ’ âme , un de"
-1095,ces heures passées dans la paix et le désir,TIME,9,", une de ces heures passées dans la paix et le désir , et dont"
-1100,J ’,PER,2,Parlez . — J ’ obéis . «
-1102,ses vieux jours,TIME,3,"voir , dans ses vieux jours , le petit"
-1102,au pays de Saint - Dié,LOC,6,"Sarrasine , laboureur au pays de Saint - Dié , s ’"
-1107,un camarade et lui,PER,4,"’ élevait entre un camarade et lui , rarement le"
-1111,"le maître de mathématiques , le préfet , les valets , le correcteur",PER,13,"Thucydide , croquait le maître de mathématiques , le préfet , les valets , le correcteur , et barbouillait"
-1114,les personnages des tableaux,PER,4,’ il copiât les personnages des tableaux qui garnissaient le
-1114,le chœur,FAC,2,"tableaux qui garnissaient le chœur , soit qu"
-1115,du collége,ORG,2,"croire la chronique du collége , il fut"
-1115,Christ,PER,1,en forme de Christ .
-1117,du tabernacle,FAC,2,sur le haut du tabernacle cette figure passablement
-1119,l ’ atelier de Bouchardon,FAC,5,et entra dans l ’ atelier de Bouchardon .
-1125,le premier moment d ’ extase,TIME,6,Dans le premier moment d ’ extase où le plongea
-1125,le praticien,PER,2,"vanité flattée , le praticien avare mit son"
-1125,le monde,LOC,2,avec avantage dans le monde .
-1129,cette âme passionnée,PER,3,", auprès de cette âme passionnée , la douceur"
-1130,l ’ âge de vingt - deux ans,TIME,8,"« À l ’ âge de vingt - deux ans , Sarrasine fut"
-1131,le frère de madame de Pompadour,PER,6,"de Marigny , le frère de madame de Pompadour , qui fit"
-1134,sa muse,PER,2,qu ’ avec sa muse .
-1137,autre maîtresse,PER,2,pas d ’ autre maîtresse que la Sculpture
-1137,Clotilde,PER,1,"la Sculpture et Clotilde , l ’"
-1137,l ’ une des célébrités de l ’ Opéra,PER,9,"et Clotilde , l ’ une des célébrités de l ’ Opéra ."
-1142,des monuments merveilleux,FAC,3,l ’ aspect des monuments merveilleux dont est semée
-1143,Michel - Ange et de,PER,5,les noms de Michel - Ange et de monsieur Bouchardon .
-1146,cette affluence,PER,2,"des causes de cette affluence , et le"
-1147,la scène,FAC,2,placé près de la scène .
-1148,une soirée du baron d ’ Holbach,TIME,7,"délices , pendant une soirée du baron d ’ Holbach ."
-1154,le devant,FAC,2,"par coquetterie sur le devant du théâtre ,"
-1155,la scène,FAC,2,"’ illusion de la scène , les prestiges"
-1157,le juge le plus sévère et le plus passionné,PER,9,"la fois , le juge le plus sévère et le plus passionné ."
-1159,des Grecs,PER,2,par le ciseau des Grecs .
-1162,cette création inespérée,PER,3,"se trouvait dans cette création inespérée , de l"
-1162,un critique,PER,2,dignes de satisfaire un critique .
-1172,lui et,PER,2,"de distance entre lui et la Zambinella ,"
-1179,les marches d ’ une église,FAC,6,’ asseoir sur les marches d ’ une église .
-1180,une colonne,FAC,2,"dos appuyé contre une colonne , il se"
-1182,la Zambinella,PER,2,délire en dessinant la Zambinella de mémoire .
-1183,"Raphaël , par le Giorgion et par tous les grands peintres",PER,11,", affectionnée par Raphaël , par le Giorgion et par tous les grands peintres ."
-1187,mille années de vie et de bonheur,TIME,7,"suppliait , épuisait mille années de vie et de bonheur avec elle ,"
-1192,toute une vie,TIME,3,", il vécut toute une vie , occupé le"
-1193,sa loge,FAC,2,"bonne heure dans sa loge , seul ,"
-1198,Marianina ni,PER,2,vois encore ni Marianina ni son petit vieillard
-1200,sa loge,FAC,2,"’ installer dans sa loge , et ses"
-1202,les coulisses,FAC,2,de lui dans les coulisses .
-1208,sa loge,FAC,2,la porte de sa loge excitèrent l ’
-1210,la duègne,PER,2,main ridée de la duègne .
-1211,sa loge,FAC,2,"’ échappa de sa loge , après avoir"
-1216,Sarrasine et,PER,2,aurait mis entre Sarrasine et la Zambinella les
-1221,son maître,PER,2,’ avait vu son maître si minutieux en
-1226,"escaliers , de galeries et d ’ appartements",FAC,8,"labyrinthe d ’ escaliers , de galeries et d ’ appartements qui n ’"
-1227,au milieu,LOC,2,"somptueusement meublé , au milieu duquel s ’"
-1228,les chanteurs et les cantatrices,PER,5,"Il reconnut les chanteurs et les cantatrices du théâtre ,"
-1228,du théâtre,FAC,2,"et les cantatrices du théâtre , mêlés à"
-1228,artistes,PER,1,orgie d ’ artistes qui n ’
-1235,du règne de Louis XV,TIME,5,à talons hauts du règne de Louis XV ont peut -
-1243,Vitagliani,PER,1,"? lui dit Vitagliani , le chanteur"
-1265,les assemblées de,ORG,3,"ne connaissent que les assemblées de Paris , les"
-1266,la sainte Vierge,PER,3,les invocations à la sainte Vierge ou al Bambino
-1266,al Bambino,PER,2,sainte Vierge ou al Bambino .
-1274,la source de bonheur,PER,4,longue pour épuiser la source de bonheur qu ’ il
-1275,"Vitagliani , son voisin",PER,4,"Vitagliani , son voisin , lui versa"
-1276,boudoir,FAC,1,une espèce de boudoir qui communiquait au
-1291,Au moment,TIME,2,Au moment où les premières
-1291,les premières lueurs du matin,TIME,5,Au moment où les premières lueurs du matin surprirent les convives
-1312,"un frère , d ’ un protecteur",PER,7,"besoin d ’ un frère , d ’ un protecteur ."
-1329,Le théâtre,FAC,2,Le théâtre sur lequel vous
-1330,la femme,PER,2,"mêmes yeux , la femme que vous aimez"
-1341,la villa Ludovisi,FAC,3,"les bois de la villa Ludovisi , qui appartenait"
-1342,cette âme molle,PER,3,la mignardise de cette âme molle et sans énergie
-1345,la villa,FAC,2,’ enceinte de la villa du cardinal .
-1345,du cardinal,PER,2,de la villa du cardinal .
-1351,une femme forte,PER,3,"que je détesterais une femme forte , une Sapho"
-1351,une Sapho,PER,2,"femme forte , une Sapho , courageuse ,"
-1352,frêle et douce créature,PER,4,Ô frêle et douce créature ! comment peux
-1356,l ’ entrée,FAC,3,de vous interdire l ’ entrée du théâtre ;
-1363,l ’ un de,PER,4,", il rencontra l ’ un de ses camarades sur"
-1363,ses camarades,PER,2,’ un de ses camarades sur le seuil
-1364,Mon cher,PER,2,"— Mon cher , lui dit"
-1368,"toi , Vien , Lauterbourg et Allegrain",PER,7,"mes amis , toi , Vien , Lauterbourg et Allegrain , vous me"
-1369,d ’ honnêtes gens,PER,4,demande rien que d ’ honnêtes gens ne puissent faire
-1371,des derniers,PER,2,l ’ un des derniers chez l ’
-1371,l ’ un des plus entreprenants vetturini de,PER,8,vigoureux menés par l ’ un des plus entreprenants vetturini de Rome .
-1371,Rome,GPE,1,entreprenants vetturini de Rome .
-1372,l ’ ambassadeur,PER,3,Le palais de l ’ ambassadeur étant plein de
-1372,monde,PER,1,"étant plein de monde , ce ne"
-1373,"les cardinaux , les évêques et les abbés",PER,8,"par égard pour les cardinaux , les évêques et les abbés qui sont ici"
-1374,Elle,PER,1,— Elle ! Qui elle
-1375,La Zambinella,PER,2,— La Zambinella . — La
-1375,La Zambinella,PER,2,Zambinella . — La Zambinella ? reprit le
-1375,le prince romain,PER,3,Zambinella ? reprit le prince romain .
-1380,ce drôle - là,PER,4,"tout payé à ce drôle - là , même son"
-1380,son maître à chanter,PER,4,"là , même son maître à chanter ."
-1388,un de ses aides - de - camp ecclésiastiques,PER,9,"se pencha vers un de ses aides - de - camp ecclésiastiques , et parut"
-1392,C ’,PER,2,— C ’ est une femme
-1393,le pape et toute la ville de,PER,7,cardinal Cicognara trompe le pape et toute la ville de Rome !
-1393,Rome,GPE,1,la ville de Rome !
-1396,homme,PER,1,"salons , en homme qui cherche un"
-1397,la porte du palais,FAC,4,"où il franchissait la porte du palais , il fut"
-1397,la voiture louée par Sarrasine,VEH,5,le mirent dans la voiture louée par Sarrasine .
-1400,un atelier sombre,FAC,3,trouva bientôt dans un atelier sombre et nu .
-1406,l ’ artiste,PER,3,s ’ écria l ’ artiste en délire ;
-1410,le sculpteur,PER,2,Rire ! répondit le sculpteur d ’ une
-1415,Homme ou femme,PER,3,"es rien . Homme ou femme , je te"
-1426,une harpie céleste,PER,3,dans le souvenir une harpie céleste qui viendra enfoncer
-1426,toutes les autres femmes d ’ un cachet d ’ imperfection,PER,11,et qui signera toutes les autres femmes d ’ un cachet d ’ imperfection !
-1439,Girodet,PER,1,"’ Endymion de Girodet , vous avez"
-1439,l ’ Adonis,PER,3,le type dans l ’ Adonis .
-1455,une terre bien hospitalière,GPE,4,"elle , est une terre bien hospitalière ; il accueille"
-1458,Personne,PER,1,Personne ne m ’
-1459,la marquise,PER,2,Et la marquise resta pensive .
+0,un homme frivole,PER,3,"monde , même un homme frivole , au sein"
+1,l ’ Elysée - Bourbon,FAC,5,’ horloge de l ’ Elysée - Bourbon .
+2,le jardin de l ’ hôtel,FAC,6,à mon aise le jardin de l ’ hôtel où je passais
+2,la soirée,TIME,2,où je passais la soirée .
+3,un ciel nuageux,LOC,3,"grisâtre que formait un ciel nuageux , à peine"
+3,la lune,LOC,2,peine blanchi par la lune .
+5,des vivants,PER,2,admirer la danse des vivants !
+6,un salon splendide,FAC,3,"un salon splendide , aux parois"
+7,les plus jolies femmes de Paris,PER,6,"agitaient et papillonnaient les plus jolies femmes de Paris , les plus"
+7,"les mieux titrées , éclatantes , pompeuses , éblouissantes de diamants",PER,11,"plus riches , les mieux titrées , éclatantes , pompeuses , éblouissantes de diamants !"
+11,les amants,PER,2,"tête significatifs pour les amants , et des"
+11,les maris,PER,2,attitudes négatives pour les maris .
+12,des joueurs,PER,2,"éclats de voix des joueurs , à chaque"
+12,le monde,LOC,2,tout ce que le monde peut offrir de
+13,les hommes en joie,PER,4,"; là , les hommes en joie ."
+14,la ville la plus amusante du monde et la plus philosophique,GPE,11,", rendent Paris la ville la plus amusante du monde et la plus philosophique , je faisais"
+15,un cercueil,FAC,2,’ autre dans un cercueil .
+16,des salons,FAC,2,"la chaleur moite des salons , accident assez"
+21,monsieur de Nucingen ou monsieur de Gondreville,PER,7,que le sont monsieur de Nucingen ou monsieur de Gondreville ?
+22,les deux interlocuteurs,PER,3,tête et reconnus les deux interlocuteurs pour appartenir à
+27,quel pays,LOC,2,ne savait de quel pays venait la famille
+27,la famille de Lanty,PER,4,"quel pays venait la famille de Lanty , ni de"
+28,Tous les membres de,PER,4,Tous les membres de cette famille parlaient
+28,cette famille,PER,2,les membres de cette famille parlaient l ’
+29,des bohémiens,PER,2,Étaient - ce des bohémiens ? étaient -
+29,des flibustiers,PER,2,étaient - ce des flibustiers ?
+30,le diable,PER,2,Quand ce serait le diable ! disaient de
+30,de jeunes politiques,PER,3,"diable ! disaient de jeunes politiques , ils reçoivent"
+31,Le comte de Lanty,PER,4,— Le comte de Lanty eût - il
+32,un philosophe,PER,2,s ’ écriait un philosophe . Qui n
+32,Marianina,PER,1,"’ aurait épousé Marianina , jeune fille"
+32,des poètes orientaux,PER,3,les fabuleuses conceptions des poètes orientaux ?
+33,la fille du sultan,PER,4,Comme la fille du sultan dans le conte
+34,des Malibran,PER,2,"les talents incomplets des Malibran , des Sontag"
+34,des Sontag,PER,2,"des Malibran , des Sontag , des Fodor"
+34,des Fodor,PER,2,"des Sontag , des Fodor , chez lesquelles"
+42,une jeune fille,PER,3,"au discours , une jeune fille peut se laisser"
+42,un homme,PER,2,"de femmes , un homme doit savoir ,"
+42,un cabinet,FAC,2,"fond d ’ un cabinet , la femme"
+42,la femme de chambre,PER,4,"un cabinet , la femme de chambre lui brise deux"
+43,ces puissantes sirènes,PER,3,"Aimer ces puissantes sirènes , n ’"
+45,la comtesse de Lanty,PER,4,"Telle était la comtesse de Lanty . Filippo ,"
+45,Filippo,PER,1,"de Lanty . Filippo , frère de"
+45,Marianina,PER,1,", frère de Marianina , tenait ,"
+45,la comtesse,PER,2,beauté merveilleuse de la comtesse .
+46,l ’ Antinoüs,PER,3,"image vivante de l ’ Antinoüs , avec des"
+50,Le comte de Lanty,PER,4,"Le comte de Lanty était petit ,"
+50,un Espagnol,PER,2,"; sombre comme un Espagnol , ennuyeux comme"
+50,un banquier,PER,2,", ennuyeux comme un banquier ."
+51,un profond politique,PER,3,"’ ailleurs pour un profond politique , peut -"
+51,monsieur de Metternich ou Wellington,PER,5,et citait toujours monsieur de Metternich ou Wellington .
+53,monsieur et,PER,2,La réserve que monsieur et madame de Lanty
+53,les quatre parties du monde,LOC,5,leurs relations avec les quatre parties du monde n ’ eût
+56,la haute société,PER,3,Pourvu que la haute société sache le chiffre
+57,une ville,LOC,2,Dans une ville où les problèmes
+57,les aventuriers,PER,2,"équations algébriques , les aventuriers ont en leur"
+58,la haute société,PER,3,"attrayante , que la haute société pouvait bien lui"
+59,la maison Lanty,PER,3,histoire énigmatique de la maison Lanty offrait un perpétuel
+60,Les observateurs,PER,2,"Les observateurs , ces gens"
+60,ces gens,PER,2,"Les observateurs , ces gens qui tiennent à"
+60,quel magasin,FAC,2,à savoir dans quel magasin vous achetez vos
+60,la comtesse,PER,2,"raouts donnés par la comtesse , l ’"
+60,un personnage étrange,PER,3,apparition d ’ un personnage étrange .
+61,un homme,PER,2,C ’ était un homme . La première
+61,l ’ hôtel,FAC,3,"se montra dans l ’ hôtel , ce fut"
+61,le salon,FAC,2,été attiré vers le salon par la voix
+62,une dame placée près de la porte,PER,7,à sa voisine une dame placée près de la porte .
+63,L ’ inconnu,PER,3,"L ’ inconnu , qui se"
+65,mon voisin,PER,2,"de penser que mon voisin , ce monsieur"
+65,ce monsieur vêtu de noir,PER,5,"mon voisin , ce monsieur vêtu de noir qui vient de"
+66,aux gens de,PER,3,’ exagération naturelle aux gens de la haute société
+66,la haute société,PER,3,aux gens de la haute société fit naître et
+67,un vampire,PER,2,"Sans être précisément un vampire , une goule"
+67,un homme artificiel,PER,3,"une goule , un homme artificiel , une espèce"
+67,une espèce de Faust ou de Robin des bois,PER,9,"homme artificiel , une espèce de Faust ou de Robin des bois , il participait"
+67,des gens,PER,2,", au dire des gens amis du fantastique"
+67,amis du fantastique,PER,3,"dire des gens amis du fantastique , de toutes"
+68,des Allemands,PER,2,çà et là des Allemands qui prenaient pour
+69,un vieillard,PER,2,étranger était simplement un vieillard . Plusieurs de
+69,ces jeunes hommes,PER,3,". Plusieurs de ces jeunes hommes , habitués à"
+69,tous les matins,TIME,3,"à décider , tous les matins , l ’"
+69,l ’ Europe,GPE,3,"’ avenir de l ’ Europe , dans quelques"
+69,l ’ inconnu,PER,3,voulaient voir en l ’ inconnu quelque grand criminel
+69,quelque grand criminel,PER,3,"l ’ inconnu quelque grand criminel , possesseur d"
+69,possesseur d ’ immenses richesses,PER,5,"grand criminel , possesseur d ’ immenses richesses ."
+70,Des romanciers,PER,2,Des romanciers racontaient la vie
+70,le temps,TIME,2,par lui pendant le temps qu ’ il
+70,du prince de Mysore,PER,4,était au service du prince de Mysore .
+71,Des banquiers,PER,2,"Des banquiers , gens plus"
+74,un homme,PER,2,c ’ est un homme sur la vie
+75,le fameux Balsamo,PER,3,"verre , était le fameux Balsamo [ Coquille du"
+76,l ’ aventurier sicilien,PER,4,"moderne alchimiste , l ’ aventurier sicilien avait échappé à"
+77,le bailli de Ferette,PER,4,Enfin le bailli de Ferette prétendait avoir reconnu
+77,ce singulier personnage,PER,3,avoir reconnu dans ce singulier personnage le comte de
+77,le comte de Saint - Germain,PER,6,ce singulier personnage le comte de Saint - Germain .
+78,la maison de Lanty,PER,4,vagues soupçons sur la maison de Lanty .
+79,les membres de,PER,3,"de circonstances , les membres de cette famille justifiaient"
+79,cette famille,PER,2,les membres de cette famille justifiaient les conjectures
+79,du monde,LOC,2,"justifiaient les conjectures du monde , en tenant"
+80,l ’ appartement,FAC,3,le seuil de l ’ appartement qu ’ il
+80,l ’ hôtel de Lanty,FAC,5,"censé occuper à l ’ hôtel de Lanty , son apparition"
+80,la famille,PER,2,grande sensation dans la famille .
+81,"Filippo ,",PER,2,"haute importance . Filippo , Marianina , madame"
+81,"Marianina ,",PER,2,". Filippo , Marianina , madame de Lanty"
+81,madame de Lanty et un vieux domestique,PER,7,", Marianina , madame de Lanty et un vieux domestique avaient seuls le"
+81,l ’ inconnu,PER,3,"d ’ aider l ’ inconnu à marcher ,"
+82,une personne enchantée,PER,3,que ce fût une personne enchantée de qui dépendissent
+83,Les gens du monde,PER,4,ou affection ? Les gens du monde ne pouvaient découvrir
+84,au fond d ’ un sanctuaire inconnu,LOC,7,"des mois entiers au fond d ’ un sanctuaire inconnu , ce génie"
+84,ce génie familier,PER,3,"sanctuaire inconnu , ce génie familier en sortait tout"
+84,au milieu des salons,LOC,4,", et apparaissait au milieu des salons comme ces fées"
+85,Les observateurs les plus exercés,PER,5,Les observateurs les plus exercés pouvaient alors seuls
+85,des maîtres du logis,PER,4,"l ’ inquiétude des maîtres du logis , qui savaient"
+86,un quadrille,PER,2,"en dansant dans un quadrille , la trop"
+86,la trop naïve Marianina,PER,4,"un quadrille , la trop naïve Marianina jetait un regard"
+86,le vieillard,PER,2,de terreur sur le vieillard qu ’ elle
+86,des groupes,PER,2,surveillait au sein des groupes .
+87,la foule,PER,2,"glissant à travers la foule , pour le"
+87,des hommes,PER,2,si le contact des hommes ou le moindre
+88,La comtesse,PER,2,La comtesse tâchait de s
+88,le vieillard,PER,2,"déférait presque toujours le vieillard , il disparaissait"
+89,le comte,PER,2,"pas là , le comte employait mille stratagèmes"
+89,un enfant gâté,PER,3,le traitait comme un enfant gâté dont la mère
+89,la mère,PER,2,enfant gâté dont la mère écoute les caprices
+90,le comte de Lanty,PER,4,"à questionner étourdiment le comte de Lanty , cet homme"
+91,tous les membres de,PER,4,la circonspection de tous les membres de cette famille rendit
+91,cette famille,PER,2,"les membres de cette famille rendit vaines ,"
+92,"Les espions de bonne compagnie , les gobe - mouches et les politiques",PER,13,"Les espions de bonne compagnie , les gobe - mouches et les politiques avaient fini ,"
+93,des fripons,PER,2,- là sont des fripons .
+94,un assassin,PER,2,air d ’ un assassin … — Ou
+94,un banqueroutier,PER,2,Ou d ’ un banqueroutier … — C
+95,un homme,PER,2,"fortune d ’ un homme , c ’"
+100,six mois,TIME,2,Mais voilà bientôt six mois que nous n
+100,l ’ Esprit,PER,3,’ avons aperçu l ’ Esprit .
+101,un être vivant,PER,3,que ce soit un être vivant ? — Hé
+102,des inconnus,PER,2,"moi , par des inconnus qui s ’"
+102,au moment,TIME,2,’ en allèrent au moment où je résumais
+103,des jardins,FAC,2,le sombre tableau des jardins .
+104,temps,TIME,1,sais combien de temps je méditai sur
+104,une jeune femme,PER,3,étouffé d ’ une jeune femme me réveilla .
+106,la nature,LOC,2,"rares caprices de la nature , la pensée"
+106,Minerve de la tête de Jupiter,PER,6,"avait jailli comme Minerve de la tête de Jupiter , grande et"
+107,un fou de sa loge,PER,5,"chambre , comme un fou de sa loge , le petit"
+107,le petit vieillard,PER,3,"sa loge , le petit vieillard s ’ était"
+107,une haie de gens attentifs à la voix de,PER,9,"adroitement coulé derrière une haie de gens attentifs à la voix de Marianina , qui"
+110,au milieu du monde,LOC,4,il se trouvait au milieu du monde sans voir le
+110,le monde,LOC,2,monde sans voir le monde .
+111,une des plus ravissantes femmes de,PER,6,"auprès d ’ une des plus ravissantes femmes de Paris , danseuse"
+111,Paris,GPE,1,"ravissantes femmes de Paris , danseuse élégante"
+111,un enfant,PER,2,"celle d ’ un enfant , blanches et"
+111,du soleil,LOC,2,comme les rayons du soleil traversent une glace
+115,Le vieillard,PER,2,de moi . Le vieillard ne voulut pas
+115,cette délicieuse créature,PER,3,"voulut pas quitter cette délicieuse créature , à laquelle"
+115,les gens extrêmement âgés,PER,4,"dont sont susceptibles les gens extrêmement âgés , et qui"
+115,des enfants,PER,2,fait ressembler à des enfants .
+116,la jeune dame,PER,3,"asseoir auprès de la jeune dame , il lui"
+117,un paralytique,PER,2,gestes d ’ un paralytique .
+119,un puits,FAC,2,en tombant dans un puits .
+120,La jeune femme,PER,3,La jeune femme me pressa vivement
+121,J ’,PER,2,"— J ’ ai peur ,"
+122,Vous,PER,1,"— Vous pouvez parler ,"
+123,Vous,PER,1,— Vous le connaissez donc
+124,les femmes,PER,2,curiosité qui pousse les femmes à se procurer
+125,le petit vieillard,PER,3,Quoique le petit vieillard eût le dos
+125,un journalier,PER,2,"celui d ’ un journalier , on s"
+126,ses membres,PER,2,"la délicatesse de ses membres , prouvaient que"
+128,Un anatomiste,PER,2,Un anatomiste eût reconnu soudain
+128,ce corps étrange,PER,3,servaient à soutenir ce corps étrange .
+129,une tombe,FAC,2,en croix sur une tombe .
+130,l ’ homme,PER,3,profonde horreur pour l ’ homme saisissait le cœur
+131,L ’ inconnu,PER,3,L ’ inconnu portait un gilet
+132,une reine,PER,2,"été enviée par une reine , formait des"
+133,le soleil,LOC,2,incalculable scintillait comme le soleil .
+139,un enfant,PER,2,"caillou que jette un enfant , ou étoilées"
+140,au spectre survenu devant nous,PER,5,"une création artificielle au spectre survenu devant nous , était le"
+143,une femme,PER,2,cou d ’ une femme .
+145,une statue,PER,2,"autant qu ’ une statue , elle exhalait"
+145,les héritiers d ’ une duchesse,PER,6,vieilles robes que les héritiers d ’ une duchesse exhument de ses
+146,le vieillard,PER,2,Si le vieillard tournait les yeux
+146,l ’ assemblée,PER,3,"les yeux vers l ’ assemblée , il semblait"
+147,une jeune femme,PER,3,"débris humains , une jeune femme dont le cou"
+149,le monde,LOC,2,"assez souvent dans le monde , me dis"
+150,Il,PER,1,— Il sent le cimetière
+150,le cimetière,FAC,2,"— Il sent le cimetière , s ’"
+150,la jeune femme épouvantée,PER,4,s ’ écria la jeune femme épouvantée qui me pressa
+153,le phénomène,PER,2,la main sur le phénomène avec cette hardiesse
+153,les femmes,PER,2,cette hardiesse que les femmes puisent dans la
+153,le vieillard,PER,2,"elle eut touché le vieillard , elle entendit"
+156,"Marianina ,",PER,2,"ce bruit , Marianina , Filippo et madame"
+156,Filippo et,PER,2,", Marianina , Filippo et madame de Lanty"
+157,La jeune femme,PER,3,La jeune femme aurait voulu être
+157,au fond de la Seine,LOC,5,aurait voulu être au fond de la Seine .
+158,un boudoir,FAC,2,’ entraîna vers un boudoir .
+160,au fond des appartements de réception,LOC,6,"Parvenus au fond des appartements de réception , nous entrâmes"
+160,un petit cabinet demi - circulaire,FAC,6,nous entrâmes dans un petit cabinet demi - circulaire .
+164,des revenants,PER,2,- elle errer des revenants dans son hôtel
+165,les sots,PER,2,", vous imitez les sots ."
+166,un petit vieillard,PER,3,Vous prenez un petit vieillard pour un spectre
+166,un spectre,PER,2,petit vieillard pour un spectre . — Taisez
+167,Le joli boudoir,FAC,3,Le joli boudoir ! s ’
+172,au milieu,LOC,2,"La lampe suspendue au milieu du boudoir ,"
+172,du boudoir,FAC,2,"suspendue au milieu du boudoir , et contenue"
+175,Il,PER,1,— Il est trop beau
+175,un homme,PER,2,"trop beau pour un homme , ajouta -"
+175,une rivale,PER,2,fait d ’ une rivale .
+176,un poète,PER,2,jalousie à laquelle un poète avait essayé vainement
+177,les artistes,PER,2,"statues , où les artistes exagèrent la beauté"
+182,un parent de,PER,3,… un … un parent de madame de Lanty
+182,madame de Lanty,PER,3,un parent de madame de Lanty .
+185,une femme,PER,2,pas d ’ une femme dont la robe
+186,la jeune Marianina,PER,3,"Nous vîmes entrer la jeune Marianina , plus brillante"
+186,le spectre habillé,PER,3,"filiale sollicitude , le spectre habillé qui nous avait"
+186,du salon de musique,FAC,4,avait fait fuir du salon de musique ; elle le
+188,un grand homme sec,PER,4,"par magie , un grand homme sec , espèce de"
+188,génie familier,PER,2,", espèce de génie familier ."
+189,le vieillard,PER,2,Avant de confier le vieillard à ce gardien
+189,la jeune enfant,PER,3,"gardien mystérieux , la jeune enfant baisa respectueusement le"
+189,le cadavre ambulant,PER,3,"enfant baisa respectueusement le cadavre ambulant , et sa"
+192,Le vieillard,PER,2,"Le vieillard , frappé subitement"
+194,La jeune folle,PER,3,La jeune folle se mit à
+194,le salon,FAC,2,"élança vivement vers le salon , où retentirent"
+196,son danseur,PER,2,elle courut à son danseur avec l ’
+199,Vous,PER,1,je ? — Vous !
+200,une Parisienne,PER,2,esprit d ’ une Parisienne joignez une âme
+200,l ’ Italie ou de l ’ Espagne,GPE,8,passionnée digne de l ’ Italie ou de l ’ Espagne … Elle vit
+201,moi,PER,1,ne sois pas moi .
+203,les ravissantes femmes du Midi,PER,5,nos cœurs par les ravissantes femmes du Midi ?
+204,demain soir,TIME,2,j ’ irai demain soir chez vous vers
+206,Vous,PER,1,— Vous ne m ’
+209,un jeune aide - de - camp,PER,7,"de valser avec un jeune aide - de - camp , et je"
+210,deux heures du matin,TIME,4,"- elle vers deux heures du matin , quand elle"
+213,Le lendemain,TIME,2,"Le lendemain , nous étions"
+213,un petit salon élégant,FAC,4,"feu , dans un petit salon élégant , assis tous"
+214,La rue,FAC,2,La rue était silencieuse .
+215,ces soirées délicieuses à l ’ âme,TIME,7,"était une de ces soirées délicieuses à l ’ âme , un de"
+215,ces heures passées dans la paix et le désir,TIME,9,", une de ces heures passées dans la paix et le désir , et dont"
+218,le narrateur,PER,2,passages dangereux pour le narrateur .
+220,J ’,PER,2,Parlez . — J ’ obéis . «
+220,le seul fils d ’ un procureur de la Franche - Comté,PER,12,"Jean Sarrasine était le seul fils d ’ un procureur de la Franche - Comté , repris -"
+222,Le vieux maître Sarrasine,PER,4,"Le vieux maître Sarrasine , n ’"
+222,un enfant,PER,2,"ayant qu ’ un enfant , ne voulut"
+222,un magistrat,PER,2,"espérait en faire un magistrat , et vivre"
+222,ses vieux jours,TIME,3,"voir , dans ses vieux jours , le petit"
+222,le petit - fils de Matthieu Sarrasine,PER,7,"vieux jours , le petit - fils de Matthieu Sarrasine , laboureur au"
+222,au pays de Saint - Dié,LOC,6,"Sarrasine , laboureur au pays de Saint - Dié , s ’"
+222,du Parlement,ORG,2,plus grande gloire du Parlement ; mais le
+222,au procureur,PER,2,pas cette joie au procureur .
+223,Le jeune Sarrasine,PER,3,"Le jeune Sarrasine , confié de"
+223,aux Jésuites,ORG,2,"de bonne heure aux Jésuites , donna les"
+224,un homme de talent,PER,4,enfance d ’ un homme de talent .
+225,les héros d ’ Homère,PER,5,à se représenter les héros d ’ Homère .
+227,un camarade et lui,PER,4,"’ élevait entre un camarade et lui , rarement le"
+231,le révérend père,PER,3,", il dessinait le révérend père qui leur expliquait"
+231,"le maître de mathématiques , le préfet , les valets , le correcteur",PER,13,"Thucydide , croquait le maître de mathématiques , le préfet , les valets , le correcteur , et barbouillait"
+232,du Seigneur,PER,2,chanter les louanges du Seigneur à l ’
+232,l ’ église,FAC,3,"du Seigneur à l ’ église , il s"
+234,les personnages des tableaux,PER,4,’ il copiât les personnages des tableaux qui garnissaient le
+234,le chœur,FAC,2,"tableaux qui garnissaient le chœur , soit qu"
+234,les plus jeunes pères,PER,4,caractère licencieux désespérait les plus jeunes pères ; et les
+234,les médisants,PER,2,pères ; et les médisants prétendaient que les
+234,les vieux jésuites,PER,3,médisants prétendaient que les vieux jésuites en souriaient .
+235,du collége,ORG,2,"croire la chronique du collége , il fut"
+236,l ’ artiste,PER,3,un châtiment à l ’ artiste .
+237,du tabernacle,FAC,2,sur le haut du tabernacle cette figure passablement
+239,l ’ atelier de Bouchardon,FAC,5,et entra dans l ’ atelier de Bouchardon .
+241,du jeune artiste,PER,3,"l ’ intelligence du jeune artiste , devina bientôt"
+242,le généreux Bouchardon,PER,3,"la jeunesse , le généreux Bouchardon essaya de le"
+242,du vieux procureur,PER,3,les bonnes grâces du vieux procureur .
+243,du sculpteur célèbre,PER,3,l ’ autorité du sculpteur célèbre le courroux paternel
+244,un grand homme futur,PER,4,le jour à un grand homme futur .
+245,le premier moment d ’ extase,TIME,6,Dans le premier moment d ’ extase où le plongea
+245,le praticien,PER,2,"vanité flattée , le praticien avare mit son"
+245,le monde,LOC,2,avec avantage dans le monde .
+247,cette jeune âme,PER,3,"se déchaîneraient dans cette jeune âme , peut -"
+249,cette âme passionnée,PER,3,", auprès de cette âme passionnée , la douceur"
+249,le maître,PER,2,"armes , et le maître ne prit un"
+250,l ’ âge de vingt - deux ans,TIME,8,"« À l ’ âge de vingt - deux ans , Sarrasine fut"
+251,le marquis de Marigny,PER,4,"sculpture fondé par le marquis de Marigny , le frère"
+251,le frère de madame de Pompadour,PER,6,"de Marigny , le frère de madame de Pompadour , qui fit"
+252,l ’ élève de Bouchardon,PER,5,la statue de l ’ élève de Bouchardon .
+253,le sculpteur du roi,PER,4,profonde douleur que le sculpteur du roi vit partir pour
+253,l ’ Italie,GPE,3,vit partir pour l ’ Italie un jeune homme
+253,un jeune homme,PER,3,"l ’ Italie un jeune homme dont , par"
+254,le commensal de,PER,3,depuis six ans le commensal de Bouchardon . Fanatique
+254,Bouchardon,PER,1,le commensal de Bouchardon . Fanatique de
+254,l ’ atelier,FAC,3,", entrait dans l ’ atelier pour n ’"
+254,sa muse,PER,2,qu ’ avec sa muse .
+255,la Comédie - Française,ORG,4,"il allait à la Comédie - Française , il y"
+256,cette époque licencieuse,TIME,3,les plaisirs de cette époque licencieuse .
+257,Clotilde,PER,1,"la Sculpture et Clotilde , l ’"
+257,l ’ une des célébrités de l ’ Opéra,PER,9,"et Clotilde , l ’ une des célébrités de l ’ Opéra ."
+259,l ’ illustre nymphe,PER,4,"privée , que l ’ illustre nymphe , redoutant quelque"
+259,le sculpteur,PER,2,", rendit bientôt le sculpteur à l ’"
+262,l ’ Italie,GPE,3,Sarrasine partit pour l ’ Italie en 1758 .
+262,des monuments merveilleux,FAC,3,l ’ aspect des monuments merveilleux dont est semée
+263,Michel - Ange et de,PER,5,les noms de Michel - Ange et de monsieur Bouchardon .
+264,les premiers jours,TIME,3,"Aussi , pendant les premiers jours , partagea -"
+265,au théâtre d ’ Argentina,FAC,5,", il entra au théâtre d ’ Argentina , devant lequel"
+265,une grande foule,PER,3,lequel se pressait une grande foule .
+266,cette affluence,PER,2,"des causes de cette affluence , et le"
+266,le monde,PER,2,"affluence , et le monde répondit par deux"
+267,Il,PER,1,Jomelli ! « Il entre et s
+267,au parterre,FAC,2,"s ’ assied au parterre , pressé par"
+267,deux abbati notablement gros,PER,4,", pressé par deux abbati notablement gros ; mais il"
+267,la scène,FAC,2,placé près de la scène .
+268,une soirée du baron d ’ Holbach,TIME,7,"délices , pendant une soirée du baron d ’ Holbach ."
+269,du jeune sculpteur,PER,3,"Les sens du jeune sculpteur furent , pour"
+273,la salle,FAC,2,à faire crouler la salle accueillirent l ’
+274,le devant,FAC,2,"par coquetterie sur le devant du théâtre ,"
+274,du théâtre,FAC,2,"sur le devant du théâtre , et salua"
+274,le public,PER,2,", et salua le public avec une grâce"
+275,la scène,FAC,2,"’ illusion de la scène , les prestiges"
+276,un modèle,PER,2,"en demandant à un modèle , souvent ignoble"
+276,une jeune fille,PER,3,"cou d ’ une jeune fille , et les"
+276,la Grèce antique,GPE,3,suaves créations de la Grèce antique .
+277,La Zambinella,PER,2,La Zambinella lui montrait réunies
+277,un sculpteur,PER,2,"désirées , desquelles un sculpteur est , tout"
+277,le juge le plus sévère et le plus passionné,PER,9,"la fois , le juge le plus sévère et le plus passionné ."
+279,un peintre,PER,2,"qui eussent ravi un peintre , toutes les"
+279,des Grecs,PER,2,par le ciseau des Grecs .
+280,L ’ artiste,PER,3,L ’ artiste ne se lassait
+281,une femme,PER,2,"plus qu ’ une femme , c ’"
+282,cette création inespérée,PER,3,"se trouvait dans cette création inespérée , de l"
+282,un critique,PER,2,dignes de satisfaire un critique .
+284,la Zambinella,PER,2,"Quand la Zambinella chanta , ce"
+284,L ’ artiste,PER,3,un délire . L ’ artiste eut froid ;
+286,le théâtre,FAC,2,’ élancer sur le théâtre et s ’
+288,un homme froid et stupide,PER,5,dit d ’ un homme froid et stupide .
+291,Il,PER,1,« Il était si complétement
+292,lui et,PER,2,"de distance entre lui et la Zambinella ,"
+292,la Zambinella,PER,2,"entre lui et la Zambinella , il la"
+295,le théâtre,FAC,2,obligé de quitter le théâtre . Ses jambes
+296,un homme nerveux,PER,3,", faible comme un homme nerveux qui s ’"
+298,les convalescents,PER,2,atonies qui désespèrent les convalescents au sortir d
+299,les marches d ’ une église,FAC,6,’ asseoir sur les marches d ’ une église .
+300,une colonne,FAC,2,"dos appuyé contre une colonne , il se"
+301,au logis,FAC,2,". De retour au logis , il tomba"
+302,la Zambinella,PER,2,délire en dessinant la Zambinella de mémoire .
+303,la Zambinella,PER,2,"telle feuille , la Zambinella se trouvait dans"
+303,"Raphaël , par le Giorgion et par tous les grands peintres",PER,11,", affectionnée par Raphaël , par le Giorgion et par tous les grands peintres ."
+305,une maîtresse,PER,2,pensons fortement à une maîtresse .
+307,la Zambinella,PER,2,"Il voyait la Zambinella , lui parlait"
+307,mille années de vie et de bonheur,TIME,7,"suppliait , épuisait mille années de vie et de bonheur avec elle ,"
+308,Le lendemain,TIME,2,"Le lendemain , il envoya"
+308,toute la saison,TIME,3,"louer , pour toute la saison , une loge"
+308,une loge voisine de la scène,FAC,6,"la saison , une loge voisine de la scène ."
+312,toute une vie,TIME,3,", il vécut toute une vie , occupé le"
+312,le matin,TIME,2,"vie , occupé le matin à pétrir la"
+312,la Zambinella,PER,2,"réussissait à copier la Zambinella , malgré les"
+313,Le soir,TIME,2,"Le soir , installé de"
+313,sa loge,FAC,2,"bonne heure dans sa loge , seul ,"
+313,un Turc enivré d ’ opium,PER,6,", semblable à un Turc enivré d ’ opium , un bonheur"
+314,le premier jour,TIME,3,avait été animé le premier jour .
+315,le farouche sculpteur,PER,3,"Du reste , le farouche sculpteur ne souffrait pas"
+317,la Zambinella,PER,2,"demander où demeurait la Zambinella , savoir si"
+317,une mère,PER,2,"si elle avait une mère , un oncle"
+317,un oncle,PER,2,"une mère , un oncle , un tuteur"
+317,un tuteur,PER,2,"un oncle , un tuteur , une famille"
+317,une famille,PER,2,"un tuteur , une famille ; en songeant"
+317,au lendemain,TIME,2,"remettait ces soins au lendemain , heureux de"
+318,Marianina ni,PER,2,vois encore ni Marianina ni son petit vieillard
+319,Vous,PER,1,— Vous ne voyez que
+319,un auteur,PER,2,je impatienté comme un auteur auquel on fait
+320,quelques jours,TIME,2,"« Depuis quelques jours , repris -"
+320,sa loge,FAC,2,"’ installer dans sa loge , et ses"
+321,du sculpteur,PER,2,Cependant la frénésie du sculpteur ne devait pas
+321,des chanteurs et des cantatrices,PER,5,temps aux regards des chanteurs et des cantatrices .
+322,Un soir,TIME,2,"Un soir , le Français"
+322,le Français,PER,2,"Un soir , le Français s ’ aperçut"
+322,les coulisses,FAC,2,de lui dans les coulisses .
+323,la Zambinella,PER,2,"porté , si la Zambinella n ’ était"
+324,les femmes,PER,2,de choses que les femmes ne le veulent
+328,sa loge,FAC,2,la porte de sa loge excitèrent l ’
+328,l ’ artiste,PER,3,’ attention de l ’ artiste .
+329,Une vieille femme,PER,3,Il ouvrit . Une vieille femme entra mystérieusement .
+329,la rue du Corso,FAC,4,"- vous dans la rue du Corso , devant l"
+329,l ’ hôtel d ’ Espagne,FAC,6,"Corso , devant l ’ hôtel d ’ Espagne ."
+330,la duègne,PER,2,main ridée de la duègne .
+331,sa loge,FAC,2,"’ échappa de sa loge , après avoir"
+331,la Zambinella,PER,2,"’ intelligence à la Zambinella , qui baissa"
+331,une femme heureuse d ’ être enfin comprise,PER,8,voluptueuses paupières comme une femme heureuse d ’ être enfin comprise .
+333,du théâtre,FAC,2,"En sortant du théâtre , un inconnu"
+333,un inconnu,PER,2,"du théâtre , un inconnu l ’ arrêta"
+335,Le cardinal Cicognara,PER,3,de mort . Le cardinal Cicognara est son protecteur
+336,un démon,PER,2,Quand un démon aurait mis entre
+336,Sarrasine et,PER,2,aurait mis entre Sarrasine et la Zambinella les
+336,la Zambinella,PER,2,entre Sarrasine et la Zambinella les profondeurs de
+337,du sculpteur,PER,2,l ’ amour du sculpteur avait franchi en
+338,la maison,FAC,2,"au sortir de la maison , j ’"
+339,l ’ inconnu,PER,3,s ’ écria l ’ inconnu en disparaissant .
+340,un amoureux,PER,2,"de danger à un amoureux , n ’"
+341,le laquais de,PER,3,Jamais le laquais de Sarrasine n ’
+341,Sarrasine,PER,1,le laquais de Sarrasine n ’ avait
+342,une jeune fille,PER,3,se para comme une jeune fille qui doit se
+343,l ’ heure dite,TIME,4,"À l ’ heure dite , ivre d"
+344,La duègne,PER,2,La duègne attendait . —
+344,Vous,PER,1,attendait . — Vous avez bien tardé
+345,le Français,PER,2,. Elle entraîna le Français dans plusieurs petites
+345,un palais d ’ assez belle apparence,FAC,7,’ arrêta devant un palais d ’ assez belle apparence .
+346,"escaliers , de galeries et d ’ appartements",FAC,8,"labyrinthe d ’ escaliers , de galeries et d ’ appartements qui n ’"
+346,la lune,LOC,2,"lueurs incertaines de la lune , et arriva"
+347,un salon aussi brillamment éclairé que somptueusement meublé,FAC,8,"se trouva dans un salon aussi brillamment éclairé que somptueusement meublé , au milieu"
+347,au milieu,LOC,2,"somptueusement meublé , au milieu duquel s ’"
+348,les chanteurs et les cantatrices,PER,5,"Il reconnut les chanteurs et les cantatrices du théâtre ,"
+348,du théâtre,FAC,2,"et les cantatrices du théâtre , mêlés à"
+348,des femmes charmantes,PER,3,", mêlés à des femmes charmantes , tous prêts"
+348,artistes,PER,1,orgie d ’ artistes qui n ’
+350,une chambre mal éclairée,FAC,4,"Il avait espéré une chambre mal éclairée , sa maîtresse"
+350,la Zambinella,PER,2,les cheveux de la Zambinella eussent caressé son
+352,un pauvre sculpteur,PER,3,dont vous accueillez un pauvre sculpteur .
+353,la plupart des personnes présentes,PER,5,"assez affectueux de la plupart des personnes présentes , qu ’"
+353,la bergère,PER,2,’ approcher de la bergère sur laquelle la
+353,la Zambinella,PER,2,bergère sur laquelle la Zambinella était nonchalamment étendue
+354,des femmes,PER,2,jadis au pied des femmes une expression si
+354,les hommes,PER,2,sais pas comment les hommes y pouvaient résister
+355,du règne de Louis XV,TIME,5,à talons hauts du règne de Louis XV ont peut -
+355,l ’ Europe,GPE,3,contribué à démoraliser l ’ Europe et le clergé
+356,la marquise,PER,2,peu ! dit la marquise . Vous n
+357,La Zambinella,PER,2,"— La Zambinella , repris -"
+362,au sculpteur,PER,2,"Elle sourit gracieusement au sculpteur . Sarrasine ,"
+363,Vitagliani,PER,1,"? lui dit Vitagliani , le chanteur"
+363,le chanteur le plus célèbre de la troupe,PER,8,"dit Vitagliani , le chanteur le plus célèbre de la troupe ."
+365,le Ténor,PER,2,"avoir parlé , le Ténor sourit silencieusement ."
+365,un amoureux,PER,2,s ’ apercevoir un amoureux .
+367,une courtisane,PER,2,"Zambinella était presque une courtisane , et qu"
+367,une jeune fille,PER,3,amour d ’ une jeune fille chose si délicieuse
+367,une femme de théâtre,PER,4,fougueux par lesquels une femme de théâtre fait acheter les
+369,Sarrasine et,PER,2,Sarrasine et la Zambinella se
+369,la Zambinella,PER,2,Sarrasine et la Zambinella se mirent sans
+369,l ’ un,PER,3,cérémonie à côté l ’ un de l ’
+370,les artistes,PER,2,"du festin , les artistes gardèrent quelque mesure"
+370,le sculpteur,PER,2,"mesure , et le sculpteur put causer avec"
+370,la cantatrice,PER,2,put causer avec la cantatrice .
+374,l ’ amoureux artiste,PER,4,fut interprété par l ’ amoureux artiste comme l ’
+375,le Français,PER,2,Cette faiblesse charma le Français . Il entre
+375,un homme,PER,2,amour d ’ un homme !
+376,Vous,PER,1,— Vous disposerez de ma
+378,la belle Italienne,PER,3,"des galanteries à la belle Italienne , était ,"
+379,les convives,PER,2,"il parût écouter les convives , il n"
+380,la Zambinella,PER,2,réserve dans laquelle la Zambinella se tint avec
+381,une femme libre et amoureuse,PER,5,malice d ’ une femme libre et amoureuse ; mais soudain
+382,les convives,PER,2,"une orgie , les convives se mirent à"
+383,la Calabre,GPE,2,"des airs de la Calabre , des seguidilles"
+385,les assemblées de,ORG,3,"ne connaissent que les assemblées de Paris , les"
+385,Paris,GPE,1,"les assemblées de Paris , les raouts"
+386,la sainte Vierge,PER,3,les invocations à la sainte Vierge ou al Bambino
+386,al Bambino,PER,2,sainte Vierge ou al Bambino .
+387,L ’ un,PER,3,L ’ un se coucha sur
+388,Une jeune fille,PER,3,Une jeune fille écoutait une déclaration
+389,la Zambinella,PER,2,"ce désordre , la Zambinella , comme frappée"
+390,les femmes,PER,2,une grâce chez les femmes .
+392,Elle,PER,1,— Elle veut sans doute
+394,la source de bonheur,PER,4,longue pour épuiser la source de bonheur qu ’ il
+396,boudoir,FAC,1,une espèce de boudoir qui communiquait au
+396,au salon,FAC,2,"boudoir qui communiquait au salon , et sur"
+397,L ’ Italienne,PER,3,L ’ Italienne était armée d
+401,une jeune courtisane,PER,3,"tu agirais comme une jeune courtisane , qui aiguise"
+402,du Français,PER,2,de la violence du Français .
+404,La Zambinella,PER,2,La Zambinella bondit comme un
+406,la Zambinella,PER,2,Il vit la Zambinella évanouie sur un
+408,le sculpteur,PER,2,scène étrange rendit le sculpteur tout confus .
+410,les femmes,PER,2,officieux interprète que les femmes refusent rarement de
+411,Au moment,TIME,2,Au moment où les premières
+411,les premières lueurs du matin,TIME,5,Au moment où les premières lueurs du matin surprirent les convives
+411,les convives,PER,2,"du matin surprirent les convives , une femme"
+411,une femme,PER,2,"les convives , une femme proposa d ’"
+412,la journée,TIME,2,idée de passer la journée à la villa
+412,la villa Ludovisi,FAC,3,la journée à la villa Ludovisi .
+413,des voitures,VEH,2,descendit pour louer des voitures . Sarrasine eut
+413,la Zambinella,PER,2,bonheur de conduire la Zambinella dans un phaéton
+413,un phaéton,VEH,2,la Zambinella dans un phaéton .
+416,La compagne,PER,2,La compagne du sculpteur était
+416,du sculpteur,PER,2,La compagne du sculpteur était la seule
+420,une nuit passée,TIME,3,ce souper ; une nuit passée me fait perdre
+421,Vous,PER,1,— Vous êtes si délicate
+422,l ’ artiste,PER,3,"s ’ écria l ’ artiste , et que"
+427,les hommes,PER,2,J ’ abhorre les hommes encore plus peut
+427,les femmes,PER,2,je ne hais les femmes .
+429,Le monde,LOC,2,Le monde est désert pour
+431,un ami dévoué,PER,3,"Je puis être un ami dévoué pour vous ,"
+432,"un frère , d ’ un protecteur",PER,7,"besoin d ’ un frère , d ’ un protecteur ."
+437,la Zambinella,PER,2,efforts que fit la Zambinella pour se soustraire
+440,une femme,PER,2,’ étais pas une femme ? demanda timidement
+440,la Zambinella,PER,2,? demanda timidement la Zambinella d ’ une
+441,un artiste,PER,2,œil d ’ un artiste ?
+443,Une femme seule,PER,3,Une femme seule peut avoir ce
+449,Le théâtre,FAC,2,Le théâtre sur lequel vous
+450,la femme,PER,2,"mêmes yeux , la femme que vous aimez"
+451,Le sculpteur,PER,2,Le sculpteur ne répondit pas
+455,l ’ artiste,PER,3,Quand l ’ artiste tendit les bras
+459,la Zambinella,PER,2,courage ! reprit la Zambinella en contemplant avec
+460,l ’ artiste,PER,3,"bien , dit l ’ artiste en souriant ,"
+461,les bois de,LOC,3,se promenèrent dans les bois de la villa Ludovisi
+461,la villa Ludovisi,FAC,3,"les bois de la villa Ludovisi , qui appartenait"
+461,au cardinal Cicognara,PER,3,qui appartenait alors au cardinal Cicognara .
+462,Cette matinée,TIME,2,Cette matinée s ’ écoula
+462,l ’ amoureux sculpteur,PER,4,"trop vite pour l ’ amoureux sculpteur , mais elle"
+462,cette âme molle,PER,3,la mignardise de cette âme molle et sans énergie
+463,la femme,PER,2,C ’ était la femme avec ses peurs
+464,la campagne,LOC,2,"’ aventurant dans la campagne , la petite"
+464,la petite troupe des joyeux chanteurs,PER,6,"la campagne , la petite troupe des joyeux chanteurs vit de loin"
+465,des brigands,PER,2,": — Voici des brigands , chacun doubla"
+465,l ’ enceinte de,FAC,4,’ abri dans l ’ enceinte de la villa du
+465,la villa,FAC,2,’ enceinte de la villa du cardinal .
+465,du cardinal,PER,2,de la villa du cardinal .
+466,la Zambinella,PER,2,la pâleur de la Zambinella qu ’ elle
+471,une femme forte,PER,3,"que je détesterais une femme forte , une Sapho"
+471,une Sapho,PER,2,"femme forte , une Sapho , courageuse ,"
+476,l ’ entrée,FAC,3,de vous interdire l ’ entrée du théâtre ;
+476,du théâtre,FAC,2,l ’ entrée du théâtre ; mais si
+478,l ’ artiste enivré,PER,4,"toi , dit l ’ artiste enivré ."
+479,La Zambinella,PER,2,mon cœur . La Zambinella resta dans une
+480,une berline à quatre places,VEH,5,"elle monta dans une berline à quatre places , en ordonnant"
+480,au sculpteur,PER,2,", en ordonnant au sculpteur , d ’"
+480,le phaéton,VEH,2,retourner seul avec le phaéton .
+481,le chemin,FAC,2,"Pendant le chemin , Sarrasine résolut"
+481,la Zambinella,PER,2,d ’ enlever la Zambinella .
+482,toute la journée,TIME,3,Il passa toute la journée occupé à former
+483,le palais habité par,FAC,4,"où était situé le palais habité par sa maîtresse ,"
+483,l ’ un de,PER,4,", il rencontra l ’ un de ses camarades sur"
+483,ses camarades,PER,2,’ un de ses camarades sur le seuil
+487,Tu,PER,1,— Tu es comme tout
+488,"toi , Vien , Lauterbourg et Allegrain",PER,7,"mes amis , toi , Vien , Lauterbourg et Allegrain , vous me"
+489,d ’ honnêtes gens,PER,4,demande rien que d ’ honnêtes gens ne puissent faire
+490,le sculpteur,PER,2,peu de temps le sculpteur disposa tout pour
+491,des derniers,PER,2,l ’ un des derniers chez l ’
+491,l ’ ambassadeur,PER,3,"des derniers chez l ’ ambassadeur , mais il"
+491,l ’ un des plus entreprenants vetturini de,PER,8,vigoureux menés par l ’ un des plus entreprenants vetturini de Rome .
+491,Rome,GPE,1,entreprenants vetturini de Rome .
+492,l ’ ambassadeur,PER,3,Le palais de l ’ ambassadeur étant plein de
+492,le sculpteur,PER,2,"sans peine que le sculpteur , inconnu à"
+492,au salon,FAC,2,"assistants , parvint au salon où dans ce"
+493,"les cardinaux , les évêques et les abbés",PER,8,"par égard pour les cardinaux , les évêques et les abbés qui sont ici"
+494,Elle,PER,1,— Elle ! Qui elle
+494,le vieux seigneur,PER,3,elle ? répondit le vieux seigneur auquel s ’
+495,La Zambinella,PER,2,— La Zambinella . — La
+495,La Zambinella,PER,2,Zambinella . — La Zambinella ? reprit le
+495,le prince romain,PER,3,Zambinella ? reprit le prince romain .
+497,les théâtres de,FAC,3,de femme sur les théâtres de Rome ?
+497,Rome,GPE,1,les théâtres de Rome ?
+498,les Etats du pape,GPE,4,sont remplis dans les Etats du pape ?
+500,ce drôle - là,PER,4,"tout payé à ce drôle - là , même son"
+500,son maître à chanter,PER,4,"là , même son maître à chanter ."
+503,Le prince Chigi,PER,3,Le prince Chigi aurait pu parler
+505,le prétendu chanteur,PER,3,yeux attachés sur le prétendu chanteur .
+506,le musico,PER,2,"Zambinella , car le musico finit par détourner"
+507,l ’ assemblée,PER,3,"involontaire échappé à l ’ assemblée , qu ’"
+508,Le cardinal Cicognara,PER,3,"Le cardinal Cicognara , qui avait"
+508,le Français,PER,2,", aperçut alors le Français ; il se"
+508,un de ses aides - de - camp ecclésiastiques,PER,9,"se pencha vers un de ses aides - de - camp ecclésiastiques , et parut"
+508,du sculpteur,PER,2,demander le nom du sculpteur .
+509,l ’ artiste,PER,3,"contempla fort attentivement l ’ artiste , et donna"
+509,un abbé,PER,2,"des ordres à un abbé , qui disparut"
+512,C ’,PER,2,— C ’ est une femme
+512,une femme,PER,2,"C ’ est une femme , dit Sarrasine"
+513,Le cardinal Cicognara,PER,3,intrigue secrète . Le cardinal Cicognara trompe le pape
+513,le pape et toute la ville de,PER,7,cardinal Cicognara trompe le pape et toute la ville de Rome !
+513,Rome,GPE,1,la ville de Rome !
+514,le sculpteur,PER,2,Aussitôt le sculpteur sortit du salon
+514,du salon,FAC,2,"le sculpteur sortit du salon , rassembla ses"
+514,la cour du palais,FAC,4,les embusqua dans la cour du palais .
+516,les salons,FAC,2,"avoir erré dans les salons , en homme"
+516,homme,PER,1,"salons , en homme qui cherche un"
+516,un ennemi,PER,2,"homme qui cherche un ennemi , le musico"
+516,le musico,PER,2,"un ennemi , le musico quitta l ’"
+516,l ’ assemblée,PER,3,le musico quitta l ’ assemblée .
+517,la porte du palais,FAC,4,"où il franchissait la porte du palais , il fut"
+517,des hommes,PER,2,adroitement saisi par des hommes qui le bâillonnèrent
+517,la voiture louée par Sarrasine,VEH,5,le mirent dans la voiture louée par Sarrasine .
+519,l ’ artiste,PER,3,figure terrible de l ’ artiste qui gardait un
+520,un atelier sombre,FAC,3,trouva bientôt dans un atelier sombre et nu .
+521,Le chanteur,PER,2,"Le chanteur , à moitié"
+525,une femme,PER,2,Tu es une femme ? Le cardinal
+525,Le cardinal Cicognara,PER,3,une femme ? Le cardinal Cicognara … Zambinella tomba
+526,une femme,PER,2,"! tu es une femme , s ’"
+526,l ’ artiste,PER,3,s ’ écria l ’ artiste en délire ;
+530,le sculpteur,PER,2,Rire ! répondit le sculpteur d ’ une
+535,Homme ou femme,PER,3,"es rien . Homme ou femme , je te"
+539,des sœurs,PER,2,As - tu des sœurs qui te ressemblent
+545,une femme réelle,PER,3,imaginaire en voyant une femme réelle .
+546,une harpie céleste,PER,3,dans le souvenir une harpie céleste qui viendra enfoncer
+546,toutes les autres femmes d ’ un cachet d ’ imperfection,PER,11,et qui signera toutes les autres femmes d ’ un cachet d ’ imperfection !
+548,du chanteur épouvanté,PER,3,assit en face du chanteur épouvanté . Deux grosses
+551,le chanteur,PER,2,brandit pour tuer le chanteur .
+552,le sculpteur,PER,2,", et soudain le sculpteur tomba percé de"
+553,du cardinal Cicognara,PER,3,"De la part du cardinal Cicognara , dit l"
+553,l ’ un d ’ eux,PER,6,"Cicognara , dit l ’ un d ’ eux ."
+554,un chrétien,PER,2,"digne d ’ un chrétien , répondit le"
+554,le Français,PER,2,"chrétien , répondit le Français en expirant ."
+555,une voiture fermée,VEH,3,"la porte dans une voiture fermée , afin de"
+556,le petit vieillard,PER,3,cette histoire et le petit vieillard que nous avons
+556,les Lanty,PER,2,avons vu chez les Lanty ?
+557,le cardinal Cicognara,PER,3,"— Madame , le cardinal Cicognara se rendit maître"
+557,le musée Albani,FAC,3,’ hui dans le musée Albani .
+558,la famille Lanty,PER,3,"’ en 1791 la famille Lanty la retrouva ,"
+559,Girodet,PER,1,"’ Endymion de Girodet , vous avez"
+559,le type,PER,2,pu en reconnaître le type dans l ’
+559,l ’ Adonis,PER,3,le type dans l ’ Adonis .
+560,le grand - oncle de,PER,5,"madame , que le grand - oncle de Marianina ."
+560,Marianina,PER,1,- oncle de Marianina .
+564,la chambre,FAC,2,grands pas dans la chambre .
+565,Vous,PER,1,altérée : — Vous m ’ avez
+567,des enfants,PER,2,"Mères , des enfants nous assassinent ou"
+570,du chrétien,PER,2,l ’ avenir du chrétien est encore une
+575,une terre bien hospitalière,GPE,4,"elle , est une terre bien hospitalière ; il accueille"
+579,la marquise,PER,2,Et la marquise resta pensive .
+580,quatre - vingts ans,TIME,4,y a déjà quatre - vingts ans que Madame Seton
+581,les évêques des États - Unis,PER,6,"quelques journaux , les évêques des États - Unis songeraient à demander"
+582,le président de l ' Université de Niagara,PER,8,même annoncé que le président de l ' Université de Niagara était chargé de
+583,des gloires de l ' Amérique,PER,6,l ' une des gloires de l ' Amérique et son histoire
+585,une créature mortelle,PER,3,complets qu ' une créature mortelle ait jamais possédés
+590,aux États - Unis,GPE,4,française avait envoyé aux États - Unis des prêtres admirables
+590,des prêtres admirables,PER,3,États - Unis des prêtres admirables .
+591,"Les Cheverus , les Matignon , les Du Bourg , les Bruté de Rémur",PER,14,"Les Cheverus , les Matignon , les Du Bourg , les Bruté de Rémur , etc ."
+592,ces proscrits apôtres,PER,3,' avoir aidé ces proscrits apôtres de sa patrie
+597,Richard Bayley,PER,2,"1774 , de Richard Bayley , cadet d"
+597,cadet d ' une noble famille d ' Angleterre,PER,9,"Richard Bayley , cadet d ' une noble famille d ' Angleterre , et de"
+597,Catherine Charlton,PER,2,", et de Catherine Charlton , fille d"
+597,fille d ' un ministre anglican,PER,6,"Catherine Charlton , fille d ' un ministre anglican ."
+599,trois ans,TIME,2,avait pas encore trois ans quand elle la
+600,des aimants,PER,2,"de la race des aimants , des dévoués"
+602,quatre ans,TIME,2,Elle avait quatre ans quand elle perdit
+603,du seuil de la maison,FAC,5,un des degrés du seuil de la maison et y resta
+604,la petite Kitty,PER,3,"' un , la petite Kitty — que vous"
+607,un jour,TIME,2,"jeu . Mais un jour , malgré ses"
+607,oiseau,PER,1,nid d ' oiseau .
+610,ses jeunes années,TIME,3,se reportant à ses jeunes années : « Mon
+610,ma mère et pour,PER,4,"une pensée pour ma mère et pour Kitty , toutes"
+611,au bord de la mer,LOC,5,"rester seule assise au bord de la mer , à errer"
+611,des heures sur la plage,TIME,5,"à errer pendant des heures sur la plage , chantant ,"
+613,sa petite enfance,TIME,3,"» Dès sa petite enfance , on put"
+616,ceux qui commencent la vie avec le sentiment d ' une vénération profonde,PER,13,Heureux ceux qui commencent la vie avec le sentiment d ' une vénération profonde .
+617,Le docteur Bayley,PER,3,II Le docteur Bayley fit presque seul
+618,aux États - Unis,GPE,4,"Alors , aux États - Unis , les établissements"
+618,les établissements d ' éducation,FAC,5,"- Unis , les établissements d ' éducation étaient loin d"
+618,la guerre civile,TIME,3,"' ailleurs , la guerre civile les avait presque"
+619,Cette glorieuse guerre de l ' Indépendance,TIME,7,Cette glorieuse guerre de l ' Indépendance dura sept ans
+619,sept ans,TIME,2,"' Indépendance dura sept ans ; et ,"
+619,ces années d ' alarmes et de périls,TIME,8,"et , pendant ces années d ' alarmes et de périls , Richard Bayley"
+619,Richard Bayley,PER,2,"de périls , Richard Bayley , chirurgien de"
+619,l ' armée,ORG,3,", chirurgien de l ' armée , trouva moyen"
+622,quatorze ans,TIME,2,"À quatorze ans , les beautés"
+622,des grands poètes anglais,PER,4,la Bible et des grands poètes anglais la ravissaient .
+623,le docteur Bayley,PER,3,Mais le docteur Bayley savait que la
+623,une femme,PER,2,supériorité d ' une femme ne lui assure
+625,l ' une des bienfaitrices de la grande et douloureuse famille humaine,PER,12,Élisabeth a été l ' une des bienfaitrices de la grande et douloureuse famille humaine ; si elle
+626,L ' église anglicane,ORG,4,L ' église anglicane a plus gardé
+627,l ' Église catholique,ORG,4,culte venait de l ' Église catholique .
+630,Un jour de l ' année 1789,TIME,7,"« Un jour de l ' année 1789 , écrivait -"
+630,une belle matinée de mai,TIME,5,"Angleterre , par une belle matinée de mai , le cœur"
+630,un chariot,VEH,2,je sautai dans un chariot qui allait au
+630,au bois,LOC,2,chariot qui allait au bois chercher des branchages
+632,un sentier,FAC,2,Je trouvai bientôt un sentier qui menait à
+632,une prairie,LOC,2,qui menait à une prairie .
+635,du printemps,TIME,2,"toutes les rumeurs du printemps , tout allégresse"
+635,des bois,LOC,2,", les clochettes des bois , et tous"
+638,ce moment,TIME,2,"si loin à ce moment , ne pouvait"
+639,le bois,LOC,2,écriai à travers le bois ; je riais
+643,Tous les jours,TIME,3,"Tous les jours , elle consacrait"
+643,chaque soir,TIME,2,"Écriture sainte ; chaque soir , et d"
+647,des anciens ordres religieux,ORG,4,l ' histoire des anciens ordres religieux la ravissait et
+647,des vieux cloîtres,FAC,3,plaisait aux descriptions des vieux cloîtres .
+648,la jeunesse,TIME,2,' effervescence de la jeunesse et les premiers
+649,cette partie de sa vie,TIME,5,"a écrit sur cette partie de sa vie ; et ,"
+649,la dix - huitième année,TIME,5,"les chimères de la dix - huitième année , on trouvera"
+650,Seize ans,TIME,2,« Seize ans . — Contrariétés
+650,la famille,PER,2,"— Contrariétés dans la famille — Folie ,"
+652,Dix - huit ans,TIME,4,» « Dix - huit ans . — Beaux
+652,une maison à la campagne,FAC,5,"rêves d ' une maison à la campagne , pour y"
+654,des mers,LOC,2,"même au delà des mers , sous un"
+655,les gens,PER,2,étonnements de voir les gens attacher tant d
+656,la maison,FAC,2,avais été à la maison .
+662,une si pauvre créature faite de poussière et poussée par le chagrin,PER,12,bon pour condamner une si pauvre créature faite de poussière et poussée par le chagrin » .
+665,dix - neuf ans,TIME,4,Mlle Bayley avait dix - neuf ans quand elle épousa
+666,une très ancienne et très noble famille écossaise,PER,8,descendait d ' une très ancienne et très noble famille écossaise .
+667,directeur de la banque de l ' État de,PER,9,Son père était directeur de la banque de l ' État de New - York
+667,New - York,GPE,3,"' État de New - York , et l"
+667,l ' un des plus riches armateurs,PER,7,"York , et l ' un des plus riches armateurs des États -"
+667,des États - Unis,GPE,4,plus riches armateurs des États - Unis .
+669,Le jeune Américain,PER,3,Le jeune Américain avait visité l
+669,"l ' Écosse , l ' Angleterre , la France , l ' Espagne et l ' Italie",GPE,18,"Américain avait visité l ' Écosse , l ' Angleterre , la France , l ' Espagne et l ' Italie ."
+670,trois ans,TIME,2,avait même séjourné trois ans à Livourne chez
+670,les Filicchi,PER,2,"à Livourne chez les Filicchi , banquiers et"
+670,banquiers et armateurs correspondants de,PER,5,"les Filicchi , banquiers et armateurs correspondants de son père ."
+670,son père,PER,2,armateurs correspondants de son père .
+672,vingt - cinq ans,TIME,4,Seton avait alors vingt - cinq ans ; et aux
+675,les jeunes époux,PER,3,", admire , les jeunes époux le possédaient ."
+676,les deux familles,PER,3,depuis longtemps entre les deux familles .
+680,le chef de,PER,3,"des affaires , le chef de la famille Seton"
+680,la famille Seton,PER,3,le chef de la famille Seton trouvait du temps
+680,aux pauvres,PER,2,temps à donner aux pauvres .
+681,sa fille Rebecca,PER,3,on avait surnommé sa fille Rebecca — la sœur
+681,la sœur de charité protestante,PER,5,fille Rebecca — la sœur de charité protestante .
+682,Élisabeth et,PER,2,", unit bientôt Élisabeth et cette jeune fille"
+683,les temps les plus froids,TIME,5,"« Souvent par les temps les plus froids , on voyait"
+683,l ' aube du jour,TIME,5,"on voyait dès l ' aube du jour , les deux"
+683,les deux belles - sœurs,PER,5,"du jour , les deux belles - sœurs diriger ensemble leurs"
+686,une mère,PER,2,joies d ' une mère .
+690,ma petite Kate,PER,3,toute mon âme ma petite Kate ( sa seconde
+690,sa seconde fille,PER,3,petite Kate ( sa seconde fille qui venait d
+690,sept ans,TIME,2,d ' avoir sept ans ) .
+691,un ange,PER,2,la voir devenir un ange et posséder la
+697,Deux ans,TIME,2,Deux ans après son mariage
+697,William,PER,1,santé de mon William .
+702,mon Anna,PER,2,"sauvais vite vers mon Anna , mon petit"
+702,mon petit trésor,PER,3,"mon Anna , mon petit trésor , et si"
+703,la rupture du traité d ' Amiens,TIME,7,"surgirent , car la rupture du traité d ' Amiens porta de rudes"
+704,tout temps,TIME,2,"En tout temps , la mort"
+705,trente ans,TIME,2,"peine âgé de trente ans , se trouva"
+706,les États,GPE,2,' aggravèrent entre les États et le continent
+706,le continent,LOC,2,les États et le continent .
+707,les vaisseaux,VEH,2,embargo mis sur les vaisseaux ; les cargaisons
+707,les corsaires,PER,2,furent enlevées par les corsaires et même par
+707,les vaisseaux de guerre,VEH,4,et même par les vaisseaux de guerre .
+708,la baie de,LOC,3,qui rentrait dans la baie de New - York
+708,New - York,GPE,3,la baie de New - York apportait à M
+711,ses nuits,TIME,2,", mais souvent ses nuits ."
+715,la famille Seton,PER,3,avait point désuni la famille Seton .
+717,sa somptueuse maison de,FAC,4,abandonna sans regret sa somptueuse maison de New - York
+717,New - York,GPE,3,somptueuse maison de New - York et se retira
+717,la campagne,LOC,2,se retira à la campagne .
+724,son père,PER,2,de rester pour son père la plus aimable
+729,Un chirurgien de Staten Island,PER,5,« Un chirurgien de Staten Island était venu demander
+730,le docteur,PER,2,"' obliger , le docteur refusa , autant"
+733,Ils,PER,1,… — Ils sont pauvres !
+736,Le docteur Bayley,PER,3,» Le docteur Bayley possédait à Staten
+736,une délicieuse villa,FAC,3,à Staten Island une délicieuse villa et Madame Seton
+736,la belle saison,TIME,3,toujours avec lui la belle saison .
+737,au mois d ' août 1801,TIME,6,"Elle y était au mois d ' août 1801 , quand la"
+738,les pauvres émigrants irlandais,PER,4,était surtout parmi les pauvres émigrants irlandais que le fléau
+740,le lever du soleil,TIME,4,", il devançait le lever du soleil et jusqu '"
+740,une heure avancée de la soirée,TIME,6,jusqu ' à une heure avancée de la soirée il restait au
+740,des malade et des mourants,PER,5,"restait au milieu des malade et des mourants , à leur"
+741,six jours de cruelles souffrances,TIME,5,"et , après six jours de cruelles souffrances , expira entre"
+749,Le traité de paix de 1803,TIME,6,VII Le traité de paix de 1803 semblait devoir permettre
+752,MM .,PER,2,fort affectueuses avec MM .
+753,si agréables années,TIME,3,avait passé de si agréables années .
+754,les deux banquiers italiens,PER,4,Plusieurs fois les deux banquiers italiens étaient venus à
+754,l ' aîné Filippo,PER,4,- York ; l ' aîné Filippo avait même épousé
+754,une Américaine,PER,2,avait même épousé une Américaine .
+755,ces amis,PER,2,"Toscane , chez ces amis de sa jeunesse"
+755,sa jeunesse,TIME,2,ces amis de sa jeunesse .
+756,l ' Italie,GPE,3,pensée de revoir l ' Italie avec Élisabeth le
+759,du Christ,PER,2,"à la passion du Christ , elle baisait"
+760,huit ans,TIME,2,qui avait alors huit ans .
+761,Mme Sadler,PER,2,"départ écrivit à Mme Sadler , l '"
+761,l ' une de ses plus chères amies,PER,8,"Mme Sadler , l ' une de ses plus chères amies : « Depuis"
+766,Éliza,PER,1,"» , chère Éliza , comme mon"
+768,mon heure dernière,TIME,3,je touche à mon heure dernière .
+769,Le 2 octobre,TIME,3,"» Le 2 octobre , M ."
+769,M . et Mme Seton,PER,5,"2 octobre , M . et Mme Seton s ' embarquaient"
+769,le brick The Sheperdess,VEH,4,petite fille sur le brick The Sheperdess .
+774,Le 3 octobre,TIME,3,"Le 3 octobre , au sortir"
+774,la baie de,LOC,3,au sortir de la baie de New - York
+774,New - York,GPE,3,"la baie de New - York , elle écrivit"
+780,les îles Açores,GPE,3,"Après avoir passé les îles Açores , elles écrivait"
+782,le lever du soleil,TIME,4,"joies en contemplant le lever du soleil , son coucher"
+786,le Christ,PER,2,aurait pas eu le Christ lui - même
+787,la mer,LOC,2,"Selon supporta bien la mer , mais il"
+787,la baie de Gibraltar,GPE,4,souffrit cruellement dans la baie de Gibraltar et Élisabeth a
+788,des anges debout sur la rive,PER,6,Elle vit des anges debout sur la rive . Compatissants et
+789,la date du 14 novembre,TIME,5,"mer , à la date du 14 novembre qu ' Élisabeth"
+794,Le 18 novembre,TIME,3,"» Le 18 novembre , les côtes"
+794,les côtes d ' Italie,LOC,5,"18 novembre , les côtes d ' Italie apparurent aux regards"
+794,des passagers,PER,2,"apparurent aux regards des passagers ; et ,"
+794,le navire,VEH,2,"Ave Maria , le navire entra dans le"
+794,le port de,FAC,3,navire entra dans le port de Livourne .
+794,Livourne,GPE,1,le port de Livourne .
+795,l ' équipage et les passagers,PER,6,"- York , l ' équipage et les passagers du brick américain"
+795,du brick américain,VEH,3,et les passagers du brick américain allaient être traités
+795,des pestiférés,PER,2,être traités comme des pestiférés .
+796,19 novembre 1803,TIME,3,"Rebecca Seton ) 19 novembre 1803 , 10 heures"
+796,10 heures du soir,TIME,4,"novembre 1803 , 10 heures du soir ."
+798,une immense prison,FAC,3,"coin d ' une immense prison , n '"
+799,la sentinelle,PER,2,"; alors paraît la sentinelle , armée de"
+799,la matinée,TIME,2,"York … Dans la matinée , on nous"
+799,un bateau,VEH,2,apprit qu ' un bateau se trouvait par
+799,le pont,FAC,2,"je volai sur le pont , et aussitôt"
+799,le cher Carleton,PER,3,"et aussitôt apercevant le cher Carleton , venu à"
+799,un garde,PER,2,"bras , quand un garde que je remarquai"
+801,Le navire,VEH,2,« Le navire dut aller en
+801,au lazaret,FAC,2,"préparer à entrer au lazaret , malade comme"
+802,la troupe de musiciens,PER,4,"y rendre , la troupe de musiciens , qui s"
+802,des étrangers,PER,2,"au - devant des étrangers , est venue"
+802,les enfants,PER,2,petits airs que les enfants chez nous chantent
+803,au soir,TIME,2,aller jusqu ' au soir .
+804,Un bateau,VEH,2,"« Un bateau parut , remorqué"
+804,une barque à quatorze rames,VEH,5,", remorqué par une barque à quatorze rames , et on"
+804,le bateau,VEH,2,fit entrer dans le bateau .
+805,Le lazaret,FAC,2,Le lazaret étant à quelques
+805,la ville,GPE,2,"quelques milles de la ville , on nous"
+806,du chenal,FAC,2,l ' entrée du chenal par lequel on
+807,le lieu de notre débarquement,LOC,5,' accorder sur le lieu de notre débarquement ; notre bateau
+808,un garde,PER,2,"de cloches amènent un garde , et puis"
+808,une demi - heure plus tard,TIME,6,"et , environ une demi - heure plus tard , celui que"
+808,celui que l ' on appelle ici Monsieur le capitano,PER,10,"plus tard , celui que l ' on appelle ici Monsieur le capitano , qui ,"
+809,un garde,PER,2,"étant retiré , un garde nous indique avec"
+810,du commandant,PER,2,"un ordre écrit du commandant , de la"
+810,la barque,VEH,2,"commandant , de la barque qui venait de"
+810,au capitano,PER,2,"remorquer fut expédié au capitano , qui reçut"
+812,La personne,PER,2,La personne qui a fait
+816,la maison,FAC,2,"des fenêtres de la maison du capitano ,"
+816,du capitano,PER,2,"de la maison du capitano , où était"
+819,la maison,FAC,2,les rapporter à la maison .
+820,un escalier de pierre,FAC,4,"° 6 ; un escalier de pierre , vingt marches"
+820,"une grande chambre voûtée , très haute , aussi haute que le plafond de Saint - Paul",FAC,17,"à monter ; une grande chambre voûtée , très haute , aussi haute que le plafond de Saint - Paul ; le pavé"
+821,Le capitano,PER,2,Le capitano nous a envoyé
+823,du vaisseau,VEH,2,", à bord du vaisseau , où sont"
+824,le lazaret,FAC,2,entendu dire que le lazaret était un endroit
+824,un endroit tout exprès pour les malades,FAC,7,le lazaret était un endroit tout exprès pour les malades .
+825,un petit réduit,FAC,3,"de notre chambre un petit réduit , où j"
+829,la tombée de la nuit,TIME,5,"« À la tombée de la nuit , les excellents"
+829,les excellents Filicchi,PER,3,"la nuit , les excellents Filicchi nous ont envoyé"
+830,William et,PER,2,". Maintenant , William et Anna dorment étendus"
+831,une telle journée,TIME,3,"épreuve d ' une telle journée , il nous"
+833,la petite Anna,PER,3,"vous auriez aimé la petite Anna , si vous"
+836,cette saison,TIME,2,tel vent dans cette saison .
+838,une heure,TIME,2,Voici une heure qu ' il
+844,Le 20 novembre,TIME,3,"Le 20 novembre , dimanche ,"
+844,dimanche,TIME,1,"20 novembre , dimanche , 9 heures"
+844,9 heures,TIME,2,", dimanche , 9 heures . « Les"
+845,la pleine mer,LOC,3,longtemps au loin la pleine mer ; plus près
+849,le pauvre Filippo,PER,3,"notre porte ; le pauvre Filippo , dans sa"
+850,Anna et,PER,2,Anna et William ont pris
+852,mon mari gisant sur ces carreaux glacés,PER,7,"Voir mon mari gisant sur ces carreaux glacés , sans feu"
+855,Le commandant,PER,2,Le commandant est venu nous
+860,la ville,GPE,2,a envoyé de la ville notre dîner et
+860,un serviteur,PER,2,notre dîner et un serviteur qui restera avec
+860,tout le temps de notre quarantaine,TIME,6,restera avec nous tout le temps de notre quarantaine .
+861,un vieillard,PER,2,"C ' est un vieillard , Luigi ,"
+861,Luigi,PER,1,"un vieillard , Luigi , tout petit"
+868,On,PER,1,“ On a tiré les
+868,un logement à part,FAC,4,"donné à Luigi un logement à part , à côté"
+870,une seule journée,TIME,3,"fois , dans une seule journée , ce pauvre"
+871,"Lundi , 21 novembre",TIME,4,"Lundi , 21 novembre . À mon"
+873,du pauvre malade,PER,3,"contre le lit du pauvre malade , tremblant d"
+874,Le commandant,PER,2,« Le commandant est venu avec
+874,des gardes,PER,2,est venu avec des gardes et a fait
+875,Anna et moi,PER,3,"pourrons coucher , Anna et moi , et il"
+878,J ',PER,2,dit : “ J ' ai été marié
+878,une femme,PER,2,j ' avais une femme que j '
+879,une petite fille,PER,3,"' a donné une petite fille , et elle"
+880,Il,PER,1,» Il joignit les mains
+886,onze heures,TIME,2,jusqu ' à onze heures .
+887,les heures du jour et de la nuit,TIME,8,ici de savoir les heures du jour et de la nuit : il y
+887,toutes les heures,TIME,3,qui sonnent à toutes les heures et à tous
+888,Mardi,TIME,1,"Mardi , 22 novembre"
+888,22 novembre,TIME,2,"Mardi , 22 novembre . « William"
+888,le docteur Tutilli,PER,3,tout encouragé par le docteur Tutilli qui est plein
+888,le commandant,PER,2,' est aussi le commandant .
+889,J ',PER,2,répété : « J ' aimais ma femme
+890,les Filicchi,PER,2,"— Causé avec les Filicchi , de l"
+891,l ' escalier,FAC,3,en haut de l ' escalier — soigné mon
+894,l ' heure du couchant,TIME,5,de soleil à l ' heure du couchant . Un vent
+895,la mer,LOC,2,Les mugissements de la mer semblables au tonnerre
+895,cette soirée,TIME,2,tonnerre . Passé cette soirée comme la précédente
+895,la sentinelle en faction,PER,4,les barreaux et la sentinelle en faction .
+897,Mercredi,TIME,1,"» Mercredi , 23 novembre"
+897,23 novembre,TIME,2,"» Mercredi , 23 novembre . « Non"
+898,ce même moment,TIME,3,"Mais à ce même moment , tandis que"
+903,mon enfance,TIME,2,"fait comme dans mon enfance , quand on"
+905,Au coucher du soleil,TIME,4,"Au coucher du soleil , une demi"
+905,une demi - heure de calme,TIME,6,"du soleil , une demi - heure de calme ; Anna et"
+905,Anna et moi,PER,3,de calme ; Anna et moi avons chanté les
+906,Jeudi,TIME,1,"» Jeudi , 24 novembre"
+906,24 novembre,TIME,2,"» Jeudi , 24 novembre . « …"
+906,cinq jours,TIME,2,fait grâce de cinq jours ; le 19
+906,le 19 décembre,TIME,3,cinq jours ; le 19 décembre nous serons libres
+907,Le pauvre William,PER,3,Le pauvre William a dit avec
+907,ce moment - là,TIME,4,qu ' avant ce moment - là … « Nous
+908,la mer,LOC,2,' écume de la mer jusqu ' à
+912,Notre chère maison,FAC,3,Notre chère maison là - bas
+912,Nos chères sœurs …,PER,4,- bas … Nos chères sœurs … mes chers petits
+914,"vos pauvres créatures , faibles et surchargées d ' un si lourd fardeau",PER,13,"prenez pitié de vos pauvres créatures , faibles et surchargées d ' un si lourd fardeau ."
+916,Celui qui est notre résurrection et notre vie,PER,8,"' amour de Celui qui est notre résurrection et notre vie , Jésus -"
+916,Jésus - Christ,PER,3,"notre vie , Jésus - Christ , notre adorable"
+916,notre adorable Rédempteur,PER,3,"- Christ , notre adorable Rédempteur ."
+917,Vendredi,TIME,1,"» Vendredi , 25 novembre"
+917,25 novembre,TIME,2,"» Vendredi , 25 novembre . « Journée"
+919,un être parfait,PER,3,le regarde comme un être parfait .
+924,Islande,GPE,1,"lichen d ' Islande , ou encore"
+928,Nuit et jour,TIME,3,"Nuit et jour , il m"
+929,cet après - midi,TIME,4,"commandant est venu cet après - midi , et voyant"
+929,le pauvre William,PER,3,", et voyant le pauvre William dans un violent"
+930,un Arménien,PER,2,"Ici , un Arménien , en lutte"
+931,"un Français , pris du délire de la fièvre",PER,9,"la Signora , un Français , pris du délire de la fièvre , qui voulait"
+933,jours,TIME,1,signifient autant de jours .
+934,nos jours,TIME,2,"marquerai pas , nos jours ; j '"
+935,quelques moments,TIME,2,"inspirer , pendant quelques moments , la pensée"
+939,Mardi,TIME,1,"» Mardi , 29 novembre"
+939,29 novembre,TIME,2,"» Mardi , 29 novembre . « La"
+939,La nuit dernière,TIME,3,"novembre . « La nuit dernière , j '"
+939,dix heures,TIME,2,"au lit à dix heures , pour me"
+939,la petite Anna,PER,3,les bras de la petite Anna .
+940,Ce matin,TIME,2,Ce matin je me suis
+940,la mer,LOC,2,' écume de la mer rend les carreaux
+941,neuf heures,TIME,2,jusqu ' à neuf heures .
+942,ïsaïe,PER,1,chapitre d ' ïsaïe ; nous y
+943,la petite Anna,PER,3,"la demande de la petite Anna , le dernier"
+946,la chambre,FAC,2,"le tour de la chambre , en sautant"
+948,30 novembre,TIME,2,"- André , 30 novembre . « William"
+948,la cuisine,FAC,2,"feu , dans la cuisine ."
+949,La nuit dernière,TIME,3,"La nuit dernière , trente ou"
+949,"trente ou quarante pauvres créatures de toutes les nations , Grecs , Turcs , Espagnols , Français , venant de faire naufrage",PER,22,"nuit dernière , trente ou quarante pauvres créatures de toutes les nations , Grecs , Turcs , Espagnols , Français , venant de faire naufrage , sont arrivés"
+952,une seule chambre aux murailles nues,FAC,6,"entassés tous dans une seule chambre aux murailles nues , avec une"
+954,une prison,FAC,2,"nous soyons dans une prison , comme nous"
+956,Le capitano,PER,2,Le capitano nous envoie jusqu
+964,du second de,PER,3,"eu la visite du second de notre vaisseau ,"
+964,notre vaisseau,VEH,2,"du second de notre vaisseau , envoyé par"
+964,le capitaine O ' Brien,PER,5,", envoyé par le capitaine O ' Brien ."
+965,un des matelots,PER,3,", avec lui un des matelots qui , lorsque"
+969,le jour,TIME,2,Depuis le jour où nous sommes
+969,un des gardiens de,PER,4,remarqué qu ' un des gardiens de notre chambre a
+969,notre chambre,FAC,2,des gardiens de notre chambre a toujours un
+972,le commandant,PER,2,"Quand le commandant est venu ,"
+972,le pauvre Filippo,PER,3,bien triste pour le pauvre Filippo : « Ah
+972,deux ans,TIME,2,plaindre : voici deux ans qu ' il
+972,une belle jeune femme de seize ans,PER,7,est marié avec une belle jeune femme de seize ans ; il a
+973,les nuits,TIME,2,obligé de passer les nuits au lazaret ;
+973,au lazaret,FAC,2,"passer les nuits au lazaret ; mais ,"
+973,le matin,TIME,2,"; mais , le matin , il peut"
+973,une heure ou deux,TIME,4,aller chez lui une heure ou deux .
+975,cet honnête cœur,PER,3,"plein contentement à cet honnête cœur , avec trois"
+976,une femme et,PER,3,une femme et deux enfants à
+977,1er décembre,TIME,2,me manque … 1er décembre .
+978,six et sept heures,TIME,4,"« Levée entre six et sept heures , avant que"
+979,l ' aube,TIME,3,emportait encore sur l ' aube qui naissait .
+980,La mer,LOC,2,"de brise . La mer , que j"
+984,l ' aube naissante,TIME,4,la douceur de l ' aube naissante et de la
+984,la matinée,TIME,2,naissante et de la matinée .
+985,dix heures,TIME,2,jusqu ' à dix heures .
+986,la nuit,TIME,2,Forte gelée pendant la nuit . — Essayé
+987,"Les pauvres étrangers arrivés d ' hier , devenus presque fous de froid et de faim",PER,16,"— Les pauvres étrangers arrivés d ' hier , devenus presque fous de froid et de faim , se sont"
+988,Coucher du soleil clair et pur,TIME,6,William succombe … Coucher du soleil clair et pur .
+990,quelques heures,TIME,2,très souffrante pendant quelques heures . Quand elle
+992,nous deux,PER,2,"veillé ensemble , nous deux auprès du foyer"
+992,du foyer,FAC,2,"nous deux auprès du foyer , comme m"
+994,des heures,TIME,2,' ai pas des heures à leur donner
+994,des minutes,TIME,2,j ' ai des minutes … » 12
+995,Une semaine,TIME,2,« Une semaine vient de s
+996,Le premier jour,TIME,3,"Le premier jour , ce cher"
+996,ce cher jour,TIME,3,"premier jour , ce cher jour du dimanche ,"
+996,du dimanche,TIME,2,"ce cher jour du dimanche , qui d"
+997,Lundi,TIME,1,"— Lundi , le 5"
+998,le docteur Tutilli,PER,3,"Je fis appeler le docteur Tutilli , qui ,"
+998,moi,PER,1,"est , plus moi qui suis nécessaire"
+999,celui qui peut assister son âme,PER,6,faut faire appeler celui qui peut assister son âme .
+1000,ce moment,TIME,2,"» À ce moment , je me"
+1003,quelques heures plus tard,TIME,4,; tellement que quelques heures plus tard il ne paraissait
+1003,au lazaret,FAC,2,de notre arrivée au lazaret .
+1005,La plus grande partie du temps,TIME,6,"La plus grande partie du temps , il est"
+1007,la tombée de la nuit,TIME,5,est venu à la tombée de la nuit ; puis notre
+1008,le docteur,PER,2,lui ; car le docteur lui avait dit
+1008,quelques heures,TIME,2,' éteindre on quelques heures .
+1011,toute la nuit,TIME,3,l ' oreille toute la nuit ; tantôt auprès
+1011,la minute d ' après,TIME,5,"' effroi , la minute d ' après , on écoutant"
+1017,le matin,TIME,2,"« Dès le matin , sitôt que"
+1018,M . Filicchi et,PER,4,est venu avec M . Filicchi et le commandant ;
+1018,le commandant,PER,2,. Filicchi et le commandant ; ils ont
+1019,Nos,PER,1,— Nos journées et nos
+1020,moments,TIME,1,"car , par moments , pour me"
+1021,un trésor,PER,2,Anna est un trésor . Elle lisait
+1024,Cinq jours,TIME,2,"décembre . « Cinq jours encore , et"
+1025,le bord de l ' Arno,LOC,6,"Pise , sur le bord de l ' Arno ."
+1029,"le chrétien le plus doux , le plus humble",PER,9,"faire de lui le chrétien le plus doux , le plus humble ; soumis à"
+1030,chaque jour,TIME,2,de me suivre chaque jour dans la prière
+1032,ce jour,TIME,2,"toujours , excepté ce jour que nous avons"
+1033,ce moment de ma vie,TIME,5,", je regarderai ce moment de ma vie comme un temps"
+1033,un temps de bénédiction,TIME,4,ma vie comme un temps de bénédiction : c '
+1033,le seul temps,TIME,3,c ' est le seul temps que je n
+1041,au fond du cachot de,LOC,5,"- on jetée au fond du cachot de ce lazaret ,"
+1041,ce lazaret,FAC,2,"du cachot de ce lazaret , j '"
+1043,Afrique,GPE,1,terre d ' Afrique qui m '
+1044,"une grande femme en ébène , coiffée d ' un foulard jaune , et ballottante en des vêtements éclatants",PER,19,"suivi d ' une grande femme en ébène , coiffée d ' un foulard jaune , et ballottante en des vêtements éclatants ."
+1045,des Mauricaudes,PER,2,Le tour des Mauricaudes viendra sans doute
+1046,un pays,LOC,2,"on aime dans un pays , je connais"
+1047,les premiers jours,TIME,3,"sent , dès les premiers jours , une sorte"
+1051,mes premiers temps de séjour en,TIME,6,dis rien de mes premiers temps de séjour en Algérie .
+1052,"Bône , Constantine , Biskra et Sétif",GPE,7,"Après avoir visité Bône , Constantine , Biskra et Sétif , je suis"
+1052,les gorges du Chabet,LOC,4,"à Bougie par les gorges du Chabet , et une"
+1052,une incomparable route au milieu des forêts kabyles,FAC,8,"Chabet , et une incomparable route au milieu des forêts kabyles , qui suit"
+1052,la mer,LOC,2,", qui suit la mer en la dominant"
+1052,ce merveilleux golfe de,LOC,4,jusqu ' à ce merveilleux golfe de Bougie aussi beau
+1052,Bougie,GPE,1,merveilleux golfe de Bougie aussi beau que
+1052,celui de Naples,LOC,3,"aussi beau que celui de Naples , que celui"
+1052,celui d ' Ajaccio,LOC,4,"Naples , que celui d ' Ajaccio et que celui"
+1052,celui de Douarnenez,LOC,3,"Ajaccio et que celui de Douarnenez , les plus"
+1053,"cette invraisemblable baie de Porto , ceinte de granit rouge , et habitée par les fantastiques et sanglants géants de pierre",LOC,21,"dans ma comparaison cette invraisemblable baie de Porto , ceinte de granit rouge , et habitée par les fantastiques et sanglants géants de pierre qu ' on"
+1053,les « Calanche » de Piana,LOC,6,"' on appelle les « Calanche » de Piana , sur les"
+1053,les côtes Ouest de la Corse,LOC,6,"Piana , sur les côtes Ouest de la Corse ."
+1055,un mont très élevé et couronné par des bois,LOC,9,rapides d ' un mont très élevé et couronné par des bois .
+1056,une tache blanche dans cette pente verte,GPE,7,C ' est une tache blanche dans cette pente verte ; on dirait
+1056,la mer,LOC,2,cascade tombant à la mer .
+1058,la pleine mer,LOC,3,"découvre à peine la pleine mer , et que"
+1060,l ' un,LOC,3,semblent se mirer l ' un dans l '
+1061,la ville des ruines,GPE,4,Bougie est la ville des ruines . Sur le
+1062,"la vieille porte Sarrasine , envahie de lierre",GPE,8,"C ' est la vieille porte Sarrasine , envahie de lierre ."
+1063,les bois montueux autour de,LOC,5,"Et dans les bois montueux autour de la cité ,"
+1063,la cité,GPE,2,"montueux autour de la cité , partout des"
+1064,la ville haute,LOC,3,avais loué dans la ville haute une petite maison
+1064,une petite maison mauresque,FAC,4,la ville haute une petite maison mauresque .
+1065,ces demeures si souvent décrites,FAC,5,Tu connais ces demeures si souvent décrites . Elles ne
+1065,une cour intérieure,FAC,3,dehors ; mais une cour intérieure les éclaire du
+1066,une grande salle fraîche,FAC,4,"au premier , une grande salle fraîche où l '"
+1066,les jours,TIME,2,"' on passe les jours , et tout"
+1066,une terrasse,FAC,2,tout en haut une terrasse où l '
+1066,les nuits,TIME,2,' on passe les nuits .
+1067,des pays chauds,LOC,3,"suite aux coutumes des pays chauds , c '"
+1068,Afrique,GPE,1,"étouffante d ' Afrique , l '"
+1068,les rues,FAC,2,"' heure où les rues , les plaines"
+1068,les plaines,LOC,2,"les rues , les plaines , les longues"
+1068,les longues routes aveuglantes,FAC,4,"les plaines , les longues routes aveuglantes sont désertes ,"
+1069,du Djebel - Amour,GPE,4,couvert de tapis du Djebel - Amour .
+1072,le désert,LOC,2,"sais . Dans le désert , on commettrait"
+1073,une belle fille fraîche et saine,PER,6,du littoral pour une belle fille fraîche et saine ?
+1074,les filles,PER,2,"manquent pas , les filles , en Afrique"
+1075,des puits sahariens,FAC,3,le liquide fangeux des puits sahariens .
+1076,un jour,TIME,2,"voici qu ' un jour , plus énervé"
+1079,juillet,TIME,1,"' était en juillet , par une"
+1079,une après - midi torride,TIME,5,"juillet , par une après - midi torride ."
+1080,des rues,FAC,2,Les pavés des rues étaient chauds à
+1081,la mer,LOC,2,"descendis près de la mer ; et ,"
+1081,le port,FAC,2,"et , contournant le port , je me"
+1081,la jolie baie,LOC,3,le long de la jolie baie où sont les
+1081,les bains,FAC,2,baie où sont les bains .
+1082,"La montagne escarpée , couverte de taillis",LOC,7,"La montagne escarpée , couverte de taillis , de hautes"
+1083,la mer immobile,LOC,3,"clapotement , tant la mer immobile paraissait engourdie sous"
+1085,"une grande fille nue , enfoncée jusqu ' aux seins",PER,10,"heure brûlante , une grande fille nue , enfoncée jusqu ' aux seins ."
+1086,la pleine mer,LOC,3,"la tête vers la pleine mer , et sautillait"
+1092,toute sa chair un peu brunie par le climat,PER,9,"effrontés , et toute sa chair un peu brunie par le climat semblait une chair"
+1092,des nègres,PER,2,par le soleil des nègres .
+1097,les enfants,PER,2,", comme font les enfants qui jouent à"
+1101,le lendemain,TIME,2,Je revins le lendemain . Elle était
+1103,Huit jours,TIME,2,"Huit jours après , nous"
+1105,un Français nommé Pontabèze,PER,4,elle avait épousé un Français nommé Pontabèze .
+1106,l ' État,ORG,3,était employé de l ' État . Je n
+1108,l ' heure de son bain,TIME,6,"Alors , changeant l ' heure de son bain , elle vint"
+1108,chaque jour,TIME,2,", elle vint chaque jour après mon déjeuner"
+1110,"une admirable fille , d ' un type un peu bestial , mais superbe",PER,14,"' était vraiment une admirable fille , d ' un type un peu bestial , mais superbe ."
+1118,le soir,TIME,2,"Quelquefois elle revenait le soir , son mari"
+1119,la terrasse,FAC,2,"étendions alors sur la terrasse , à peine"
+1119,Orient,GPE,1,tissus d ' Orient .
+1120,des pays chauds,LOC,3,grande lune illuminante des pays chauds s ' étalait
+1120,la ville,GPE,2,"ciel , éclairant la ville et le golfe"
+1120,le golfe,LOC,2,la ville et le golfe avec son cadre
+1121,Afrique,GPE,1,"soirées d ' Afrique , Marroca s"
+1121,la nuit,TIME,2,"elle poussait par la nuit , malgré mes"
+1122,un soir,TIME,2,"Comme je sommeillais un soir , sous le"
+1126,Elle,PER,1,"» Elle reprit , en"
+1133,les imbéciles,PER,2,sont toujours pris les imbéciles .
+1136,l ' homme abhorré,PER,4,"trompe avec délices l ' homme abhorré , et le"
+1138,Elle,PER,1,» Elle prit un air
+1140,Elle,PER,1,» Elle me fixa avec
+1142,huit jours,TIME,2,Elle fut huit jours sans se montrer
+1142,Le neuvième jour,TIME,3,"se montrer . Le neuvième jour elle reparut ,"
+1142,le seuil de ma chambre,FAC,5,arrêta gravement sur le seuil de ma chambre et demanda :
+1142,ce soir,TIME,2,Viendras - tu ce soir dorrrmirrr chez moi
+1144,Huit jours,TIME,2,"» Huit jours , c '"
+1144,ces huit jours - là,TIME,5,"en Afrique , ces huit jours - là valaient bien un"
+1144,un mois,TIME,2,là valaient bien un mois : Je criai
+1145,la nuit,TIME,2,"attendit , à la nuit , dans une"
+1145,une rue voisine,FAC,3,"nuit , dans une rue voisine , et me"
+1146,du port,FAC,2,Ils habitaient près du port une petite maison
+1146,une petite maison basse,FAC,4,près du port une petite maison basse . Je traversai
+1146,le ménage,PER,2,une cuisine où le ménage prenait ses repas
+1146,"la chambre blanchie à la chaux , propre",FAC,8,"je pénétrai dans la chambre blanchie à la chaux , propre , avec des"
+1150,un homme surpris,PER,3,vêtement sans lequel un homme surpris devient aussi gauche
+1152,Elle,PER,1,» Elle fit un bond
+1155,la cuisine,FAC,2,elle passa dans la cuisine . Je l
+1156,L ' homme,PER,3,elle ouvrit . L ' homme entra .
+1158,un colosse,PER,2,il devait être un colosse .
+1161,Il,PER,1,"» Il alla , vers"
+1164,Tu,PER,1,- - « Tu es bien méçante
+1166,les gros pieds,PER,3,"sonna ; puis les gros pieds se retournèrent ,"
+1166,la pièce voisine,FAC,3,", passèrent dans la pièce voisine ; et la"
+1166,la rue,FAC,2,la porte de la rue se referma .
+1167,"Marroca , toujours nue",PER,4,"et tandis que Marroca , toujours nue , dansait une"
+1176,Elle,PER,1,trouver . » Elle ne riait plus
+1177,Il,PER,1,« Il ne se serait
+1180,Elle,PER,1,» Elle posa sur mes
+1181,Elle,PER,1,ça ? » Elle cligna de l
+1182,un homme,PER,2,mouvement qui décapite un homme à genoux !
+1184,Le salon,FAC,2,"LA BUCHE Le salon était petit ,"
+1185,les deux personnes,PER,3,"dentelle , sur les deux personnes qui causaient ."
+1186,une vieille,PER,2,"' épiderme : une vieille qui sent ,"
+1187,"un ami d ' autrefois , resté garçon",PER,8,"Lui était un ami d ' autrefois , resté garçon , un ami"
+1188,une minute,TIME,2,"de causer depuis une minute environ , et"
+1190,le salon,FAC,2,", lancée dans le salon , roula sur"
+1191,La vieille femme,PER,3,"La vieille femme , avec un"
+1192,l ' homme,PER,3,répandit ; et l ' homme se rasseyant en
+1193,Elle,PER,1,"» Elle le considéra ,"
+1193,des femmes,PER,2,cet oeil curieux des femmes qui veulent savoir
+1193,femmes,PER,1,cet oeil des femmes qui ne sont
+1194,Il,PER,1,» Il reprit : «
+1196,l ' un,PER,3,devenir presque étrangers l ' un à l '
+1199,Un soir,TIME,2,"Un soir , en rentrant"
+1201,un ami,PER,2,"Quand un ami se marie ,"
+1202,une femme,PER,2,"jalouse d ' une femme , cette affection"
+1203,l ' un,PER,3,qui les soude l ' un à l '
+1203,l ' homme et,PER,4,"' autre , l ' homme et la femme sont"
+1203,la femme,PER,2,' homme et la femme sont toujours étrangers
+1203,on dompteur,PER,2,y ait toujours on dompteur et un dompté
+1203,un maître et un esclave,PER,5,"un dompté , un maître et un esclave ; tantôt l"
+1203,l ' un,PER,3,"esclave ; tantôt l ' un , tantôt l"
+1205,Les sages,PER,2,"Les sages , au lieu"
+1205,des enfants,PER,2,"vieux jours , des enfants qui les abandonneront"
+1205,un bon et solide ami,PER,5,", devraient chercher un bon et solide ami , et vieillir"
+1206,sa femme,PER,2,"était jolie , sa femme , charmante ,"
+1207,la maison,FAC,2,"allais peu dans la maison , craignant de"
+1209,la nuit,TIME,2,"rentré chez moi la nuit , je songeais"
+1209,une femme,PER,2,", à prendre une femme , trouvant bien"
+1211,un soir,TIME,2,"Or , un soir , Julien m"
+1213,onze heures,TIME,2,de retour avant onze heures ; mais à
+1213,onze heures précises,TIME,3,"; mais à onze heures précises , je rentrerai"
+1215,La jeune femme,PER,3,» La jeune femme sourit : «
+1216,Vous,PER,1,main : « Vous êtes gentille comme
+1218,huit heures,TIME,2,"et , dès huit heures , Julien nous"
+1219,sa femme et,PER,3,naquit brusquement entre sa femme et moi .
+1219,moi,PER,1,sa femme et moi .
+1220,chaque jour,TIME,2,"notre intimité grandissant chaque jour , le tête"
+1225,une autre personne,PER,3,", d ' une autre personne à votre égard"
+1225,votre égard,PER,2,autre personne à votre égard .
+1227,J ',PER,2,» J ' ouvris le coffre
+1228,quelques minutes,TIME,2,"Au bout de quelques minutes , la bûche"
+1229,La jeune femme,PER,3,La jeune femme releva sur moi
+1231,une femme,PER,2,vous feriez si une femme vous disait qu
+1232,la femme,PER,2,ça dépendrait de la femme .
+1233,Les hommes,PER,2,ajouta : « Les hommes ne sont jamais
+1234,Elle,PER,1,"» Elle se tut ,"
+1242,une minute,TIME,2,bout d ' une minute : « Je
+1246,l ' amant de,PER,4,Julien ? devenir l ' amant de cette petite folle
+1246,"cette petite folle perverse et rusée , effroyablement sensuelle sans doute",PER,11,"' amant de cette petite folle perverse et rusée , effroyablement sensuelle sans doute , à qui"
+1250,"celui qui n ' a jamais senti sur sa bouche le baiser profond d ' une femme prête , à se donner",PER,22,"Oh ! que celui qui n ' a jamais senti sur sa bouche le baiser profond d ' une femme prête , à se donner , me jette"
+1251,une minute de plus,PER,4,". Enfin , une minute de plus ."
+1257,un fou,PER,2,"me précipitai comme un fou , et pendant"
+1258,deux heures plus tôt,TIME,4,affaire est finie deux heures plus tôt !
+1268,les femmes,PER,2,- on jamais les femmes ?
+1271,les Dames blanches ou noires de Nancy,PER,7,", élevée par les Dames blanches ou noires de Nancy ."
+1276,Un soir,TIME,2,' aimer . Un soir je reçus une
+1277,le lendemain,TIME,2,"je devais partir le lendemain , je courus"
+1277,le mercredi,TIME,2,"beaux - parents le mercredi , mais seulement"
+1277,le vendredi,TIME,2,", mais seulement le vendredi , jour de"
+1278,aux vendredis,TIME,2,! prends garde aux vendredis : je t
+1282,Elle,PER,1,imagination . » Elle réfléchit quelques secondes
+1282,quelques secondes,TIME,2,"» Elle réfléchit quelques secondes , puis ajouta"
+1285,le lendemain,TIME,2,étais à Cologne le lendemain .
+1287,des gens en larmes,PER,4,ne vis que des gens en larmes qui m '
+1287,un moribond,PER,2,j ' opérai un moribond qui faillit trépasser
+1287,deux nuits,TIME,2,; je restai deux nuits près de lui
+1287,la gare,FAC,2,fis conduire à la gare .
+1288,une heure à perdre,TIME,4,j ' avais une heure à perdre .
+1289,les rues,FAC,2,' errais par les rues en songeant encore
+1289,un individu,PER,2,"malade , quand un individu m ' aborda"
+1292,l ' homme,PER,3,. Je suivis l ' homme dans un magasin
+1292,un magasin d ' objets de sainteté,FAC,7,"' homme dans un magasin d ' objets de sainteté , et je"
+1298,des brocanteurs en piété,PER,4,incrédule aux reliques des brocanteurs en piété ; et tu
+1307,un marchand courant les rues,PER,5,"cet ossement à un marchand courant les rues , c '"
+1309,Elle,PER,1,» Elle me contempla avec
+1316,au gardien de l ' édifice,PER,6,donné cent francs au gardien de l ' édifice pour le visiter
+1316,l ' heure du déjeuner des ouvriers et du clergé,TIME,10,tombais juste à l ' heure du déjeuner des ouvriers et du clergé ; en enlevant
+1317,vierges,PER,1,mille squelettes de vierges ) .
+1318,un orfèvre,PER,2,étais rendu chez un orfèvre et j '
+1323,une église,FAC,2,"' avais violé une église , violé une"
+1325,la femme,PER,2,"Telle est la femme , mon cher"
+1325,la femme,PER,2,"abbé , toute la femme ."
+1326,le plus admirable des fiancés,PER,5,", je fus le plus admirable des fiancés ."
+1327,une sorte de chapelle magnifique,FAC,5,dans sa chambre une sorte de chapelle magnifique pour y placer
+1328,l ' Allemagne,GPE,3,", livré à l ' Allemagne ."
+1329,au commencement de l ' été,TIME,6,"voilà qu ' au commencement de l ' été , un désir"
+1331,la cathédrale,FAC,2,ai pas vu la cathédrale à l '
+1332,le tombeau ( s ' il y a tombeau ?,FAC,10,ignore où est le tombeau ( s ' il y a tombeau ?
+1334,huit jours après,TIME,3,"Je reçus , huit jours après , dix lignes"
+1335,ma supercherie,PER,2,"avait compris soudain ma supercherie , mon mensonge"
+1336,au gardien des reliques,PER,4,Ayant demandé au gardien des reliques si aucun vol
+1336,l ' homme,PER,3,"été commis , l ' homme s ' était"
+1338,la maison,FAC,2,' entrée de la maison . J '
+1338,la belle dévote,PER,3,ne put attendrir la belle dévote .
+1339,la semaine dernière,TIME,3,". Or , la semaine dernière , sa cousine"
+1347,dix ans plus tôt,TIME,4,de me convertir dix ans plus tôt !
+1349,victime d ' une stupide fumisterie,PER,6,ta cousine mourir victime d ' une stupide fumisterie ?
+1352,du dernier été,TIME,3,"après - midi du dernier été , le vaste"
+1352,le vaste hôtel des Ventes,FAC,5,"dernier été , le vaste hôtel des Ventes semblait endormi ,"
+1352,les commissaires - priseurs,PER,4,"endormi , et les commissaires - priseurs adjugeaient d '"
+1353,"une salle du fond , au premier étage",FAC,8,"Dans une salle du fond , au premier étage , un lot"
+1355,deux ou trois hommes à barbes sales et une grosse femme ventrue,PER,12,"revendeurs attendaient , deux ou trois hommes à barbes sales et une grosse femme ventrue , une de"
+1355,une de ces marchandes dites _à la toilette_,PER,8,"femme ventrue , une de ces marchandes dites _à la toilette_ , conseillères et"
+1355,les jeunes et vieilles nippes,PER,5,autant que sur les jeunes et vieilles nippes .
+1358,la même époque charmante,TIME,4,"petite chaise de la même époque charmante ; et ,"
+1361,monsieur l ' abbé d ' Argencé,PER,7,"A monsieur , monsieur l ' abbé d ' Argencé ."
+1369,trois jours,TIME,2,« Étant depuis trois jours en mon lit
+1375,Vous,PER,1,« Vous connaissez mon lit
+1375,trois jours,TIME,2,"ai découvertes depuis trois jours , et comme"
+1376,un tas de gens,PER,4,"je , par un tas de gens que je ne"
+1377,ceux qui achètent des lits nouveaux,PER,6,"ne comprends pas ceux qui achètent des lits nouveaux , des lits"
+1380,trois siècles,TIME,2,il vu depuis trois siècles qu ' il
+1381,une jeune femme étendue,PER,4,« Voici une jeune femme étendue . De temps
+1381,les vieux parents,PER,3,gémit ; et les vieux parents l ' entourent
+1381,"un petit être miaulant comme un chat , et crispé , tout ridé",PER,13,"' elle sort un petit être miaulant comme un chat , et crispé , tout ridé ."
+1382,un homme,PER,2,C ' est un homme qui commence .
+1382,ce petit morceau de créature vivante séparé d ' elle,PER,10,"délices ; car ce petit morceau de créature vivante séparé d ' elle , c '"
+1382,"la famille continuée , la prolongation du sang , du coeur et de l ' âme des vieux",PER,18,"c ' est la famille continuée , la prolongation du sang , du coeur et de l ' âme des vieux qui regardent ,"
+1387,un seul,PER,2,"de deux êtres un seul , et donnant"
+1388,l ' autre année,TIME,4,"avez lus , l ' autre année , dans quelque"
+1388,le doux Ronsard,PER,3,peut - être le doux Ronsard ?
+1389,Des amants,PER,2,selon les guises Des amants qui librement Pratiquent
+1389,Pyrame et Thisbé,PER,3,d ' où Pyrame et Thisbé me regardent sans
+1390,tous ceux qui ont exhalé vers Dieu leur dernier souffle en ce lit,PER,13,"ami , à tous ceux qui ont exhalé vers Dieu leur dernier souffle en ce lit ."
+1392,trois siècles,TIME,2,"écris , depuis trois siècles qu ' il"
+1392,aux hommes,PER,2,' il prête aux hommes son abri !
+1393,trois jours,TIME,2,de cela depuis trois jours .
+1396,des malades,PER,2,"est le refuge des malades , un lieu"
+1403,trois heures,TIME,2,voir demain à trois heures ; peut -
