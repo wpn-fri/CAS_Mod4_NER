@@ -1,36 +1,37 @@
 example_idx,entity,true_type,pred_type,length,context
-139,agro Reatino,GPE,LOC,2,"e nell ' agro Reatino , donde uscivano"
+135,Flaminia,LOC,GPE,1,"o per la Flaminia , con le"
+139,agro Reatino,GPE,FAC,2,"e nell ' agro Reatino , donde uscivano"
 150,Viminale,LOC,FAC,1,"Egli abitava sul Viminale , in un"
 198,Venere,PER,GPE,1,"è sacro a Venere , e in"
-199,stuolo di Satiri,PER,FAC,3,adocchiata da uno stuolo di Satiri .
-218,tranvai della linea del Martinetto,VEH,FAC,5,"la trovavo sul tranvai della linea del Martinetto , alla prima"
 218,centro di Torino,LOC,GPE,3,andar verso il centro di Torino .
-251,Alessandria,GPE,PER,1,- lame di Alessandria ! — e
-267,vecchio Saturno,LOC,PER,2,"talvolta che il vecchio Saturno , o chi"
+257,municipio,ORG,GPE,1,— Il municipio avrebbe dovuto proibire
 272,piazza de ' Bianchi,FAC,LOC,4,nome famoso di piazza de ' Bianchi .
-276,Carignano,GPE,FAC,1,A levante vedeva Carignano ( fundus Carinianus
+276,vasto colmo di Sarzano,GPE,LOC,4,"lato , il vasto colmo di Sarzano , che le"
 277,clero ambrosiano,ORG,PER,2,V secolo al clero ambrosiano avea ristretti gli
 278,Nostra Signora delle Vigne,FAC,PER,4,"Siro e di Nostra Signora delle Vigne , coi loro"
-289,istitutrici forastiere,PER,ORG,2,tempi suoi le istitutrici forastiere e i monasteri
+290,Terra Santa,LOC,FAC,2,credere che in Terra Santa ci fosse qualchedun
 293,Faro,FAC,LOC,1,"dalla punta del Faro , e un"
-317,Terra Santa,LOC,GPE,2,ha portato in Terra Santa il conte Goffredo
+342,bastimento,VEH,FAC,1,"arrivo di un bastimento , soprattutto poi"
 342,Faraone,VEH,PER,1,"stato come il Faraone , costrutto ,"
 343,Pomègue,LOC,GPE,1,"; ed oltrepassato Pomègue , procedeva col"
+344,bastimento,VEH,FAC,1,"al materiale del bastimento , poichè se"
 345,Faraone,VEH,PER,1,a dirigere il Faraone nella stretta entrata
-346,Faraone,VEH,PER,1,"vogare avanti al Faraone , cui raggiunse"
+346,bastimento,VEH,FAC,1,"' entrata del bastimento nel porto ,"
+346,Faraone,VEH,FAC,1,"vogare avanti al Faraone , cui raggiunse"
+372,suo camerino,FAC,PER,2,"che esce dal suo camerino , e che"
+373,bastimento,VEH,FAC,1,"sul fianco del bastimento , mentre che"
 377,casa Morrel e Figlio,ORG,FAC,4,", come la casa Morrel e Figlio ."
-386,equipaggio,PER,VEH,1,indirizzandosi all ' equipaggio : — Date
-448,suo Mississipì,LOC,PER,2,"esempio , il suo Mississipì ai fiumicelli dell"
+395,bastimento,VEH,FAC,1,"ora che il bastimento è ancorato ,"
+405,bastimento,VEH,FAC,1,"delle interrogazioni sul bastimento , sul tempo"
+407,bastimento,VEH,FAC,1,e che il bastimento apparteneva alla casa
 449,Illisso,LOC,PER,1,"! L ' Illisso , il Cefiso"
-449,Cefiso,LOC,PER,1,"Illisso , il Cefiso !"
-464,scuola,ORG,FAC,1,"il martirio della scuola , attraverso un"
+451,Parnaso,LOC,GPE,1,virtù : dal Parnaso cantavano le Muse
+470,Olimpo gelido,LOC,FAC,2,"vuoto nell ' Olimpo gelido , e il"
 482,questa necropoli bianca dei grandi morti ellenici,GPE,FAC,7,spirituale riposo in questa necropoli bianca dei grandi morti ellenici .
 484,questa necropoli di morti,GPE,FAC,4,io viaggio per questa necropoli di morti ; così imperturbabili
 514,Londinese,PER,GPE,1,non era forse Londinese .
-518,Gray ' s inn,FAC,PER,4,", nè a Gray ' s inn ."
 519,Corte del Cancelliere,FAC,ORG,3,"mai nè alla Corte del Cancelliere , nè al"
-519,Banco della Regina,FAC,ORG,3,", nè al Banco della Regina , nè allo"
-519,Scacchiere,FAC,ORG,1,", nè allo Scacchiere , nè in"
+519,Scacchiere,FAC,PER,1,", nè allo Scacchiere , nè in"
 519,Corte ecclesiastica,FAC,ORG,2,", nè in Corte ecclesiastica ."
 521,Istituto Reale della Gran Brettagna,FAC,ORG,5,"nè dell ' Istituto Reale della Gran Brettagna , nè dell"
 521,Istituto di Londra,FAC,ORG,3,"nè dell ' Istituto di Londra , nè dell"
@@ -40,5 +41,7 @@ example_idx,entity,true_type,pred_type,length,context
 521,Istituto del Diritto,FAC,ORG,3,"nè dell ' Istituto del Diritto , nè di"
 521,quell ' Istituto delle Arti e delle Scienze riunite,FAC,ORG,9,", nè di quell ' Istituto delle Arti e delle Scienze riunite , che è"
 523,Reform - Club,FAC,ORG,3,"era membro del Reform - Club , ed ecco"
-546,club,FAC,ORG,1,purissimo cristallo del club che contenevano il
+543,Reform - Club,FAC,ORG,3,addobbate che il Reform - Club tiene a disposizione
+546,cucine,FAC,PER,1,", erano le cucine , la dispensa"
+563,Gambalesta,PER,GPE,1,questo nome di Gambalesta .
 683,collegio,ORG,FAC,1,"la mise in collegio , e ne"

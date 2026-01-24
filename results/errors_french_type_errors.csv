@@ -3,53 +3,56 @@ example_idx,entity,true_type,pred_type,length,context
 0,Cassini,PER,GPE,1,"sur celle de Cassini , une aventure"
 17,une ville laide et pauvre,LOC,GPE,5,"pavé raboteux ; une ville laide et pauvre , comme celle"
 20,cette pauvre ville,LOC,GPE,3,"était affreux , cette pauvre ville , et pourtant"
-57,ce pays,LOC,GPE,2,ne suis dans ce pays que depuis huit
-90,du forgeron,PER,FAC,2,l ' enclume du forgeron retentir sous les
 90,au marché,LOC,FAC,2,elle vit arriver au marché les fermiers en
 252,la province,LOC,GPE,2,prestige éblouissant pour la province .
 254,au marché,LOC,FAC,2,"comme elle allait au marché , on l"
+263,la gendarmerie,PER,ORG,2,roi intima à la gendarmerie l ' ordre
 290,toute la ville,PER,GPE,3,elle eût invité toute la ville à une grande
-301,province,LOC,GPE,1,attend guère en province à trouver chez
+300,l ' élégante de petite ville,PER,GPE,6,"' arrivera jamais l ' élégante de petite ville , même lorsqu"
+303,un régiment en déroute,PER,ORG,4,"du salon comme un régiment en déroute , et de"
 310,toute la ville,PER,GPE,3,m ' amène toute la ville à la fois
 403,aux Délices,FAC,PER,2,"qui se passait aux Délices , et à"
 403,Ferney,GPE,PER,1,", et à Ferney ."
+404,Les Délices,FAC,LOC,2,"habita en été Les Délices près Genève ,"
 405,une société très aimable et lettrée,PER,ORG,6,"Voltaire avait trouvé une société très aimable et lettrée , toute disposée"
 409,aux Délices,FAC,PER,2,« Voltaire attirait aux Délices les amis qu
 415,son vignoble de Lalex,LOC,FAC,4,"' appelant à son vignoble de Lalex , près Vevey"
 418,Ferney,GPE,PER,1,planches édifiées à Ferney et prit un
+436,Cornavin,GPE,PER,1,la porte de Cornavin .
+476,notre pays,PER,LOC,2,jolie campagne de notre pays .
 479,le Fort - de - l ' Ecluse,FAC,LOC,8,", au sud le Fort - de - l ' Ecluse , au nord"
+515,Marschlins,GPE,FAC,1,"fumes envoyés à Marschlins , château de"
 517,Lalex,GPE,PER,1,"cinq ans , Lalex fut encore le"
-517,le refuge de,GPE,FAC,3,"Lalex fut encore le refuge de Samuel , non"
-518,Lalex,GPE,PER,1,' aller à Lalex tous les automnes
 524,Lalex,GPE,PER,1,ne quittions jamais Lalex sans regrets .
 528,Ferney,GPE,PER,1,"parle de vendre Ferney , ensuite de"
+536,le landgrave [ de Hesse,GPE,PER,5,lui apprendre que le landgrave [ de Hesse ] avait accordé
 537,son académie,ORG,FAC,2,une place dans son académie et 1500 florins
-569,la rue de l ' Hôtel - de - Ville,FAC,LOC,10,"' établirent à la rue de l ' Hôtel - de - Ville , maison Argand"
-575,la Fusterie,FAC,GPE,2,"de modes à la Fusterie , où nous"
-632,des équipages,PER,VEH,2,voir la beauté des équipages et la parure
+630,rue St - Honoré,FAC,LOC,4,"de Bayonne , rue St - Honoré , en face"
 638,la place de la Grève,FAC,LOC,5,nous allâmes sur la place de la Grève où se tient
 655,la Halle,FAC,LOC,2,fiacre pour parcourir la Halle ; c '
 674,la maison de Bourbon,PER,FAC,4,où on enterre la maison de Bourbon .
 679,aux Tuileries,FAC,LOC,2,pour nous promener aux Tuileries ; c '
-679,la place de,FAC,LOC,3,"se termine par la place de Louis 15 ,"
+681,la Muette,FAC,LOC,2,' est à la Muette que le Roi
 686,la rue neuve des Petits - Champs,FAC,LOC,7,"' est à la rue neuve des Petits - Champs , qui n"
 688,Bicêtre,FAC,GPE,1,"sommes allées à Bicêtre , qui est"
 759,les grands appartemens,FAC,PER,3,Nous allâmes voir les grands appartemens … puis la
 808,plusieurs maisons royales,PER,FAC,3,de bon matin plusieurs maisons royales .
 819,Marli,FAC,GPE,1,puis été à Marli qui est une
 828,Marli,FAC,GPE,1,la Seine à Marli et à Versailles
-846,la Dauphine,PER,LOC,2,à ceux de la Dauphine .
+845,les appartemens,FAC,PER,2,pour aller voir les appartemens du Roi .
 907,quel pays,LOC,GPE,2,ne savait de quel pays venait la famille
-936,la haute société,PER,ORG,3,Pourvu que la haute société sache le chiffre
 937,une ville,LOC,GPE,2,Dans une ville où les problèmes
 939,la maison Lanty,PER,FAC,3,histoire énigmatique de la maison Lanty offrait un perpétuel
 958,la maison de Lanty,PER,FAC,4,vagues soupçons sur la maison de Lanty .
+987,Tancrède,PER,GPE,1,la cavatine de Tancrède .
 1094,La rue,FAC,LOC,2,La rue était silencieuse .
 1101,province,LOC,GPE,1,"jadis , en province , passait pour"
 1103,aux Jésuites,ORG,PER,2,"de bonne heure aux Jésuites , donna les"
+1111,Thucydide,PER,GPE,1,"un passage de Thucydide , croquait le"
 1124,Besançon tout entier,GPE,PER,3,Besançon tout entier se félicita d
 1209,la rue du Corso,FAC,LOC,4,"- vous dans la rue du Corso , devant l"
-1221,Sarrasine,PER,GPE,1,le laquais de Sarrasine n ’ avait
 1233,la bergère,PER,FAC,2,’ approcher de la bergère sur laquelle la
 1233,la Zambinella,PER,FAC,2,bergère sur laquelle la Zambinella était nonchalamment étendue
-1263,la Calabre,GPE,LOC,2,"des airs de la Calabre , des seguidilles"
+1360,le phaéton,VEH,PER,2,retourner seul avec le phaéton .
+1361,la Zambinella,PER,FAC,2,d ’ enlever la Zambinella .
+1395,Sarrasine,PER,GPE,1,"du départ de Sarrasine , il parut"
